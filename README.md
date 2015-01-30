@@ -6,4 +6,4 @@ This Icon pack contains icons for the apps hosted on F-droid FLOSS Repository (h
 Following the guidelines of Google Material Design for Android Lollipop (Android 5). I'm planning to add progressively the more icons I can. Contributions are welcome (please visit http://www.google.com/design/spec/style/icons.html). 
 
 The icons made by me are licensed under Creative Commons 4.0 BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
-The code are licensed under GPLv3 as a derivative work of Cyanogenmod Theme Template licensed under Apache 2.0
+The code are licensed under GPLv3 (https://gnu.org/licenses/gpl.html) as a derivative work of Cyanogenmod Theme Template licensed under Apache 2.0
