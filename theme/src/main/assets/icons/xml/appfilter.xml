@@ -136,8 +136,7 @@
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keeppassdroid" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sms" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="sms" />
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}" drawable="voicemail" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="sms" />    
     <item component="ComponentInfo{com_android_music_activitymanagement_toplevelactivity}" drawable="music" />
     <item component="ComponentInfo{com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
     <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="music" />
@@ -326,4 +325,34 @@
     <item component="ComponentInfo{com.android.phone/com.android.phone.KTCallWaiting" drawable="phone" />
     <item component="ComponentInfo{com.android.phone/com.android.phone.CallSoundPrefernce" drawable="phone" />
     <item component="ComponentInfo{com.android.phone/com.android.phone.Enhanced4GLTE" drawable="phone" />
+
+    <!-- Version 0.1 -->
+
+	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.AFWall+" drawable="afwall" />
+	<item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.Calendarcolor" drawable="calendarcolor" />
+	<item component="ComponentInfo{org.connectbot/org.connectbot.ConnectBot" drawable="connectbot" />
+	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.Davdroid" drawable="davdroid" />
+	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.Fdroid" drawable="fdroid" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.Firefox" drawable="firefox" />
+	<item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.OCNewsreader" drawable="ocnewsreader" />
+	<item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.Mupdf" drawable="mupdf" />
+	<item component="ComponentInfo{org.aykit.MyOwnNotes/org.aykit.MyOwnNotes.MyOwnNotes" drawable="myownnotes" />
+	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.Osmand" drawable="osmand" />
+	<item component="ComponentInfo{com.owncloud.android/com.owncloud.android.Owncloud" drawable="owncloud" />
+	<item component="ComponentInfo{org.primftpd/org.primftpd.PrimFTPd" drawable="pftpd" />
+	<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.SatStat" drawable="satstat" />
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.Telegram" drawable="telegram" />
+	<item component="ComponentInfo{org.connectbot/org.connectbot.ConnectBot" drawable="connectbot" />
+	<item component="ComponentInfo{org.xbmc.android.remote/org.xbmc.android.remote.XbmcRemote" drawable="xbmcremote" />
+	<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.AudioFX" drawable="audiofx" />
+	<item component="ComponentInfo{com.cyanogenmod.account/com.cyanogenmod.account.CMAccount" drawable="cyanogenmod" />
+	<item component="ComponentInfo{com.cyanogenmod.setupwizard/com.cyanogenmod.setupwizard.SetupWizard" drawable="cyanogenmod" />
+	<item component="ComponentInfo{com.cyanogenmod.theme.chooser/com.cyanogenmod.theme.chooser.Themes" drawable="themes" />
+	<item component="ComponentInfo{com.cyanogenmod.wallpapers/com.cyanogenmod.wallpapers.WallpapersCM" drawable="cyanogenmod" />
+	<item component="ComponentInfo{com.android.providers.contacts/com.android.providers.contacts.Contacts" drawable="contacts" />
+	<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.AudioFX" drawable="audiofx" />
+	<item component="ComponentInfo{com.android.apps.tag/com.android.apps.tag.Tag" drawable="tag" />
+	<item component="ComponentInfo{com.cyanogenmod.trebuchet/com.cyanogenmod.trebuchet.Launcher3" drawable="trebuchet" />
+	<item component="ComponentInfo{com.android.exchange/com.android.exchange.Exchange" drawable="email" />
+
 </resources>
