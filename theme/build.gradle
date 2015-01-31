@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.your.theme.template"
+        applicationId "xphnx.cm12fdroidiconpack"
         minSdkVersion 19
         targetSdkVersion 20
         versionCode 1
