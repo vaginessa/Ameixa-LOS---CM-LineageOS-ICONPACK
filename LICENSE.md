@@ -8,7 +8,9 @@ Icons based on Cyanogenmod Icons (Apache v2): apps, audiofx
 
 Icons based on Austin Andrews @www.materialdesignicons.com: calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3.
 
-Icons based on Gamma-aspirin icon (GFDL): music,
+Icons based on William Theaker and Robert Martinez (CC-BY-SA 3.0): fdroid
+
+Icons based on Gamma-aspirin icon (GFDL): music.
 
 Icons based on Telegram LLC Icon (GPLv3): telegram
 
