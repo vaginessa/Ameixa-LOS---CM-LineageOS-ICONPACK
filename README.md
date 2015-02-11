@@ -16,4 +16,5 @@ Alpha version.
 
 # Snapshots #
 
-<p><a href="http://s30.postimg.org/ge7aunash/snapshot1.png" target="_blank"><img src="http://s30.postimg.org/ge7aunash/snapshot1.png" alt="snapshot" style="max-width:100%;"></a></p>
+
+<a href='http://s30.postimg.org/ge7aunash/snapshot1.png' target='_blank'><img src='http://s30.postimg.org/ge7aunash/snapshot1.png' border='0' alt="snapshot1" /></a>
