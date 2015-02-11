@@ -16,5 +16,4 @@ Alpha version.
 
 # Snapshots #
 
-
-<a href='http://s30.postimg.org/ge7aunash/snapshot1.png' target='_blank'><img src='http://s30.postimg.org/ge7aunash/snapshot1.png' border='0' alt="snapshot1" /></a>
+https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/theme/src/main/res/snapshot1.png
