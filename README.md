@@ -10,7 +10,7 @@ The code is licensed under [GPLv3] (http://www.gnu.org/licenses/gpl-3.0.html) as
 The artwork includes own elaboration icons licensed under [Creative Commons 4.0 BY-NC-SA] (http://creativecommons.org/licenses/by-nc-sa/4.0/) and derivatives works released under other open licenses (see LICENSE.md for more details).
 
 Issues, comments and icon request:
-https://gitlab.com/xphnx/cm12_fdroid_iconpack/issues
+https://gitlab.com/xphnx/twelf_cm12_theme/issues
 
 Alpha version.
 
