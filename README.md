@@ -16,4 +16,6 @@ Alpha version.
 
 # Snapshots #
 
+![snapshot1](https://gitlab.com/uploads/xphnx/fdroiddata/2d531aee7e/snapshot1.png)
+
 https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/theme/src/main/res/snapshot1.png
