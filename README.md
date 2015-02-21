@@ -14,8 +14,6 @@ https://gitlab.com/xphnx/twelf_cm12_theme/issues
 
 Alpha version.
 
-# Snapshots #
+# Snapshot #
 
-![snapshot1](https://gitlab.com/uploads/xphnx/fdroiddata/2d531aee7e/snapshot1.png)
-
-https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/theme/src/main/res/snapshot1.png
+![snapshot1](https://gitlab.com/uploads/fdroid/fdroiddata/cc2c502443/snapshot1.png)
