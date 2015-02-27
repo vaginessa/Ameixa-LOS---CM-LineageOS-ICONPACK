@@ -16,8 +16,6 @@ Alpha version.
 
 # Snapshot #
 
-** Icons **
 ![snapshot1](https://gitlab.com/uploads/fdroid/fdroiddata/cc2c502443/snapshot1.png)
 
-** Bootanimation ** (Inverted...)
 ![bootanimation](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/8abad1bfe1/bootanimation.gif)
