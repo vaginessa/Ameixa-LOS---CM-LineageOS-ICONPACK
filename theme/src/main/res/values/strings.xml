@@ -14,13 +14,13 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 *
 * @author xphnx
-* @version 0.1
-*/
+* @version 0.2
+*
 -->
 
 <resources>
 
-    <string name="theme_name">TwelF CM12 Theme</string>
+    <string name="theme_name">TwelF</string>
     <string name="theme_author">xphnx</string>
 
 </resources>

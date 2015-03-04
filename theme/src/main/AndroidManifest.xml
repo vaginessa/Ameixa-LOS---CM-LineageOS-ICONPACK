@@ -14,8 +14,8 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 *
 * @author xphnx
-* @version 0.1
-*/
+* @version 0.2
+*
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -23,7 +23,7 @@
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
-    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="21" />
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
