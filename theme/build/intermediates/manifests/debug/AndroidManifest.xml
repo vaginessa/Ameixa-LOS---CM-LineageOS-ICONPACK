@@ -15,9 +15,9 @@
  * limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.your.theme.template"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    package="org.twelf.cmtheme"
+    android:versionCode="2"
+    android:versionName="0.2" >
 
     <uses-sdk
         android:minSdkVersion="19"
