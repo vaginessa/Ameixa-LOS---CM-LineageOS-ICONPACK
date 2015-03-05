@@ -399,7 +399,7 @@
 	<item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
-	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivit}" drawable="firewall" />	
+	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />	
 	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mailred" />
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
 	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
