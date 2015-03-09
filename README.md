@@ -11,7 +11,7 @@ Please, for issues, comments or icon request:
 
 Status: Alpha.
 
-![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)
+[![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)][https://f-droid.org/repository/browse/?fdfilter=twelf&fdid=org.twelf.cmtheme]
 
 [Changelog] (https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
 
