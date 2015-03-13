@@ -9,8 +9,13 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **New icons:** bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, bitmask, hn, myownnotes, owncloudnewsreader, freeotp, cool reader, epub3reader, fb reader, page turner, xbmc, wifi privacy police, satstat, sms, csipsimple
 
-**Bootanimation added**
+**Bootanimation**
 
-# Todo (on v0.3) #
-**New icons:** apv pdf reader, mupdf, pdfreader, vudroid, pftpd, antennapod, carcast, podax, feedhive, flym, newsblur, simple rss, sismics reader, sparse rss, ttrss reader, themechooser, beem, bombusmod, chatsecure, conversations, tigase, xabber, yaxim
+# On next update (v0.3) #
+**New icons:** adaway, opencamera, chatsecure, documentviewer, pendocumentsreader, droidwall, apg, openkeychain, kdeconnect, linconnect, alogcat, alogcatroot, catlog, mythdroid, mythmote, keeppassdroid, passandroid, apvpdfreader, mupdf, pdfreader, vudroid, pftpd, antenapod, carcast, podax, ppsspp, sismicsreader, feedhive, ttrss, sparserss, simplerss, newsblur, andstatus, diasporawebclient, friendica, impeller, mustard, mustardmod, systemappmover, themes, orbot, orwall, orweb, transdroid, transdrone, transdroidsearch, trebuchet, xdafeedreader, tigase, conversations, beem, bombusmod, xabber, yaxim
+
+**Wallpaper and Lockscreen**
+
+**Fix davdroid icon**
+
 
