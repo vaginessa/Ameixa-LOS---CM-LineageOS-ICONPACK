@@ -393,6 +393,7 @@
 
 	<item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="connectbot" />
 	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.MainActivity}" drawable="davdroid" />
+	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}" drawable="davdroid" />
 	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
 	<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="fennec" />
 	<item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec" />
@@ -435,27 +436,60 @@
 	
 	<!-- Apps version 0.3 -->
 
-	<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="pdf"  />
-	<item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="pdf"  />
-	<item component="ComponentInfo{io.github.droidapps.pdfreader/io.github.droidapps.pdfreader.ChooseFileActivity}" drawable="pdf"  />
-	<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="pdf"  />
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway"  />
+	<item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera"  />
+	<item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="chatsecure"  />
+	<item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="documentviewer"  />
+	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="pendocumentsreader"  />
+	<item component="ComponentInfo{com.googlecode.droidwall.free/com.googlecode.droidwall.free.MainActivity}" drawable="droidwall"  />
+	<item component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}" drawable="apg"  />
+	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="openkeychain"  />
+	<item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect"  />
+	<item component="ComponentInfo{com.willhauck.linconnectclient/com.willhauck.linconnectclient.SettingsActivity}" drawable="linconnect"  />
+	<item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="alogcat"  />
+	<item component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}" drawable="alogcatroot"  />
+	<item component="ComponentInfo{com.nolanlawson.logcat/com.nolanlawson.logcat.LogcatActivity}" drawable="catlog"  />
+	<item component="ComponentInfo{org.mythdroid/org.mythdroid.activities.Main}" drawable="mythdroid"  />
+	<item component="ComponentInfo{tkj.android.homecontrol.mythmote/tkj.android.homecontrol.mythmote.MythMote}" drawable="mythmote"  />
+	<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keeppassdroid"  />
+	<item component="ComponentInfo{org.ligi.passandroid/org.ligi.passandroid.ui.TicketListActivity}" drawable="passandroid"  />
+	<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdfreader"  />
+	<item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf"  />
+	<item component="ComponentInfo{io.github.droidapps.pdfreader/io.github.droidapps.pdfreader.ChooseFileActivity}" drawable="pdfreader"  />
+	<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"  />
 	<item component="ComponentInfo{org.primftpd/org.primftpd.PrimitiveFtpdActivity}" drawable="pftpd"  />
-	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="pod"  />
-	<item component="ComponentInfo{com.jadn.cc/com.jadn.cc.ui.CarCast}" drawable="pod"  />
-	<item component="ComponentInfo{com.axelby.podax/com.axelby.podax.ui.MainActivity}" drawable="pod"  />
-	<item component="ComponentInfo{free.yhc.feeder/free.yhc.feeder.FeederActivity}" drawable="rss"  />	
-	<item component="ComponentInfo{com.newsblur/com.newsblur.activity.Login}" drawable="rss"  />
-	<item component="ComponentInfo{com.poloure.simplerss/com.poloure.simplerss.FeedsActivity}" drawable="rss"  />
-	<item component="ComponentInfo{com.sismics.reader/com.sismics.reader.activity.LoginActivity}" drawable="rss"  />
-	<item component="ComponentInfo{de.shandschuh.sparserss/de.shandschuh.sparserss.MainTabActivity}" drawable="rss"  />
-	<item component="ComponentInfo{org.ttrssreader/org.ttrssreader.gui.CategoryActivity}" drawable="rss"  />
-	<item component="ComponentInfo{com.beem.project.beem/com.beem.project.beem.ui.Login}" drawable="xmpp"  />
-	<item component="ComponentInfo{org.bombusmod/org.bombusmod.BombusModActivity}" drawable="xmpp"  />
-	<item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="xmpp"  />
-	<item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="xmpp"  />
-	<item component="ComponentInfo{org.tigase.messenger.phone.pro/org.tigase.mobile.TigaseMobileMessengerActivity}" drawable="xmpp"  />
-	<item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.ContactList}" drawable="xmpp"  />
-	<item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="xmpp"  />
+	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="antenapod"  />
+	<item component="ComponentInfo{com.jadn.cc/com.jadn.cc.ui.CarCast}" drawable="carcast"  />
+	<item component="ComponentInfo{com.axelby.podax/com.axelby.podax.ui.MainActivity}" drawable="podax"  />
+	<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp"  />
+	<item component="ComponentInfo{com.sismics.reader/com.sismics.reader.activity.LoginActivity}" drawable="sismicsreader"  />
+	<item component="ComponentInfo{free.yhc.feeder/free.yhc.feeder.FeederActivity}" drawable="feedhive"  />
+	<item component="ComponentInfo{org.ttrssreader/org.ttrssreader.gui.CategoryActivity}" drawable="ttrss"  />
+	<item component="ComponentInfo{de.shandschuh.sparserss/de.shandschuh.sparserss.MainTabActivity}" drawable="sparserss"  />
+	<item component="ComponentInfo{com.poloure.simplerss/com.poloure.simplerss.FeedsActivity}" drawable="simplerss"  />
+	<item component="ComponentInfo{com.newsblur/com.newsblur.activity.Login}" drawable="newsblur"  />
+	<item component="ComponentInfo{org.andstatus.app/org.andstatus.app.TimelineActivity}" drawable="andstatus"  />
+	<item component="ComponentInfo{com.voidcode.diasporawebclient/com.voidcode.diasporawebclient.MainActivity}" drawable="diasporawebclient"  />
+	<item component="ComponentInfo{de.wikilab.android.friendica01/de.wikilab.android.friendica01.HomeActivity}" drawable="friendica"  />
+	<item component="ComponentInfo{eu.e43.impeller/eu.e43.impeller.activity.MainActivity}" drawable="impeller"  />
+	<item component="ComponentInfo{org.mustard.android/org.mustard.android.activity.Mustard}" drawable="mustard"  />
+	<item component="ComponentInfo{org.mumod.android/org.mumod.android.activity.Mustard}" drawable="mustardmod"  />
+	<item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover"  />
+	<item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes"  />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="orbot"  />
+	<item component="ComponentInfo{org.ethack.orwall/org.ethack.orwall.TabbedMain}" drawable="orwall"  />
+	<item component="ComponentInfo{info.guardianproject.browser/info.guardianproject.browser.Browser}" drawable="orweb"  />
+	<item component="ComponentInfo{org.transdroid/org.transdroid.gui.Torrents}" drawable="transdroid"  />
+	<item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdrone"  />
+	<item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroidsearch"  />
+	<item component="ComponentInfo{com.iven.xdafeedreader/com.iven.xdafeedreader.mainact.SplashActivity}" drawable="xdafeedreader"  />
+	<item component="ComponentInfo{org.tigase.messenger.phone.pro/org.tigase.mobile.TigaseMobileMessengerActivity}" drawable="tigase"  />
+	<item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations"  />
+	<item component="ComponentInfo{com.beem.project.beem/com.beem.project.beem.ui.Login}" drawable="beem"  />
+	<item component="ComponentInfo{org.bombusmod/org.bombusmod.BombusModActivity}" drawable="bombusmod"  />
+	<item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.ContactList}" drawable="xabber"  />
+	<item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim"  />
+
 
 		
 	
