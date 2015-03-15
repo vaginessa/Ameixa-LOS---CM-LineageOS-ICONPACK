@@ -440,12 +440,13 @@
 	<item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera"  />
 	<item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="chatsecure"  />
 	<item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="documentviewer"  />
-	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="pendocumentsreader"  />
+	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentreader"  />	
 	<item component="ComponentInfo{com.googlecode.droidwall.free/com.googlecode.droidwall.free.MainActivity}" drawable="droidwall"  />
 	<item component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}" drawable="apg"  />
 	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="openkeychain"  />
 	<item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect"  />
 	<item component="ComponentInfo{com.willhauck.linconnectclient/com.willhauck.linconnectclient.SettingsActivity}" drawable="linconnect"  />
+<item component="ComponentInfo{net.screenfreeze.deskcon/net.screenfreeze.deskcon.MainActivity}" drawable="deskcon"  />
 	<item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="alogcat"  />
 	<item component="ComponentInfo{rs.pedjaapps.alogcatroot.app/rs.pedjaapps.alogcatroot.app.LogActivity}" drawable="alogcatroot"  />
 	<item component="ComponentInfo{com.nolanlawson.logcat/com.nolanlawson.logcat.LogcatActivity}" drawable="catlog"  />
@@ -494,7 +495,7 @@
 		
 	
 	<!-- Todo Apps -->
-	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentsreader" />
+
 	<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keeppassdroid" />
 	<item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
 	<item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="radio" />

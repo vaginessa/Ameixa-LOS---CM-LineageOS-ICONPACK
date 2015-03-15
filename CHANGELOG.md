@@ -12,7 +12,8 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 **Bootanimation**
 
 # On next update (v0.3) #
-**New icons:** adaway, opencamera, chatsecure, documentviewer, pendocumentsreader, droidwall, apg, openkeychain, kdeconnect, linconnect, alogcat, alogcatroot, catlog, mythdroid, mythmote, keeppassdroid, passandroid, apvpdfreader, mupdf, pdfreader, vudroid, pftpd, antenapod, carcast, podax, ppsspp, sismicsreader, feedhive, ttrss, sparserss, simplerss, newsblur, andstatus, diasporawebclient, friendica, impeller, mustard, mustardmod, systemappmover, themes, orbot, orwall, orweb, transdroid, transdrone, transdroidsearch, trebuchet, xdafeedreader, tigase, conversations, beem, bombusmod, xabber, yaxim
+**New icons:** adaway, opencamera, chatsecure, documentviewer, opendocumentreader, droidwall, apg, openkeychain, kdeconnect, linconnect, alogcat, alogcatroot, catlog, mythdroid, mythmote, keeppassdroid, passandroid, apvpdfreader, mupdf, pdfreader, vudroid, pftpd, antenapod, carcast, podax, ppsspp, sismicsreader, feedhive, ttrss, sparserss, simplerss, newsblur, andstatus, diasporawebclient, friendica, impeller, mustard, mustardmod, systemappmover, themes, orbot, orwall, orweb, transdroid, transdrone, transdroidsearch, trebuchet, xdafeedreader, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, barcodescanner, smsbackup+, palemoon, icecat, fileexplorer, filemanager, filemanagerpro, kerneladuitor
+
 
 **Wallpaper and Lockscreen**
 
