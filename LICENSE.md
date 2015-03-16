@@ -4,11 +4,11 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Icon Licenses**
 
-Google (CC BY-SA 4.0 International): alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat
+Google (CC BY-SA 4.0 International): alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat
 
-Cyanogenmod (Apache v2): apps, audiofx
+Cyanogenmod (Apache v2): apps, audiofx, themes
 
-Austin Andrews @www.materialdesignicons.com: calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3
+Austin Andrews @templarian: calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): fdroid
 
@@ -21,4 +21,27 @@ Wordpress (GPL): wordpress
 Wikipedia (CC BY-SA 3.0): wikipedia
 
 Angelus (CC BY-SA 3.0): bitmask
+
+Ocal (Public Domain): adaway
+
+Gabriel @lastrosestudios: smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur, antennapod, carcast, podax
+
+Sun Microsystems (Apache v2): opendocumentreader
+
+Mysitemyway (Public Domain): alogcat, alogcatroot, catlog
+
+GNU (GPLv3) andstatus, mustard, mustardmod
+
+Friendica (Gnu Affero Public Licence): friendica
+
+Twidere (?): twidere
+
+Delapouite (CC BY 3.0): trebuchet
+
+Xmpp Standards (MIT): tigase, conversations, beem, bombusmod, xabber, yaxim
+
+
+**Bootanimation**
+
+William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
 
