@@ -490,17 +490,17 @@
 	<item component="ComponentInfo{org.bombusmod/org.bombusmod.BombusModActivity}" drawable="bombusmod"  />
 	<item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.ContactList}" drawable="xabber"  />
 	<item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim"  />
-
-
-		
+	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze"  />
+	<item component="ComponentInfo{com.michaldabski.filemanager/com.michaldabski.filemanager.folders.FolderActivity}" drawable="filemanagerpro"  />
+	<item component="ComponentInfo{net.micode.fileexplorer/net.micode.fileexplorer.FileExplorerTabActivity}" drawable="fileexplorer"  />
+	<item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="kerneladiutor"  />
+	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcodescanner"  />
+	<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.activity.MainActivity}" drawable="smsbackup"  />
+	<item component="ComponentInfo{com.zegoggles.smssync/com.zegoggles.smssync.SmsSync}" drawable="smsbackup"  />
+	<item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat"  />
+	<item component="ComponentInfo{org.palemoon.android/org.palemoon.android.App}" drawable="palemoon"  />
+	<item component="ComponentInfo{org.palemoon.mobile/org.palemoon.mobile.App}" drawable="palemoon"  />
+	<item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"  />		
 	
-	<!-- Todo Apps -->
-
-	<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keeppassdroid" />
-	<item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
-	<item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="radio" />
-	<item component="ComponentInfo{com.htc.notes/com.htc.notes.collection.NoteCollectionActivity}" drawable="notes" />
-	<item component="ComponentInfo{org.jtb.alogcat/org.jtb.alogcat.LogActivity}" drawable="alogcat" />
-
-	
+	<!-- Apps version 0.4 -->	
 </resources>
