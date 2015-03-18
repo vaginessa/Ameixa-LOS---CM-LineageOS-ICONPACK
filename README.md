@@ -2,7 +2,7 @@
 
 This theme contains exclusively icons for the apps hosted on [F-droid FLOSS Repository] (https://f-droid.org/).
 
-TwelF follows the guidelines of Google Material Design for Android Lollipop (Android 5) aiming to provide a unified and minimalistic look at devices using CM12 with only Libre/Open Apps. 
+TwelF follows the guidelines of Google Material Design for Android Lollipop aiming to provide a unified and minimalistic look at devices using CM12 with only Libre or Open Source Apps. 
 
 ## Requisites ##
 

@@ -15,7 +15,7 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 # v0.3 #
 
-**New icons:** adaway, opencamera, chatsecure, documentviewer, opendocumentreader, droidwall, apg, openkeychain, kdeconnect, linconnect, alogcat, alogcatroot, catlog, mythdroid, mythmote, keeppassdroid, passandroid, apvpdfreader, mupdf, pdfreader, vudroid, pftpd, antenapod, carcast, podax, ppsspp, sismicsreader, feedhive, ttrss, sparserss, simplerss, newsblur, andstatus, diasporawebclient, friendica, impeller, mustard, mustardmod, systemappmover, themes, orbot, orwall, orweb, transdroid, transdrone, transdroidsearch, trebuchet, xdafeedreader, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, barcodescanner, smsbackup+, palemoon, icecat, fileexplorer, filemanagerpro, kerneladuitor
+**New icons:** adaway, opencamera, chatsecure, documentviewer, opendocumentreader, droidwall, apg, openkeychain, kdeconnect, linconnect, alogcat, alogcatroot, catlog, mythdroid, mythmote, keeppassdroid, passandroid, apvpdfreader, mupdf, pdfreader, vudroid, pftpd, antennapod, carcast, podax, ppsspp, sismicsreader, feedhive, ttrss, sparserss, simplerss, newsblur, andstatus, diasporawebclient, friendica, impeller, mustard, mustardmod, systemappmover, themes, orbot, orwall, orweb, transdroid, transdrone, transdroidsearch, trebuchet, xdafeedreader, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, barcodescanner, smsbackup+, palemoon, icecat, fileexplorer, filemanagerpro, kerneladuitor
 
 
 **Wallpaper and Lockscreen**
@@ -26,6 +26,11 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Ringtone, alarm and notifications sounds**
 
-**New icons:**
+**New icons:** cmupdater, nicecompass, flym, lockclock, redreader, openvpnsettings, openvpn , dsub, subsonic, syncthing, jadcompass, compass, communitycompass, devicemanager, broadcast, libreofficeviewer, mobilehotspot, omnidroid, screencast, search, terminal, wishperpush, devtools, photos, camcorder, voiceplus, justplayer, ghostcommander, ghostcommandersftp, ghostcommandersmb, andbible, dictionaryformids, netmbuddy, terminalemulator, simplealarm
+
+**Fix icons:** antennapod, documents, wikipedia, documents
+
+
+
 
 
