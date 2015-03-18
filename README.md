@@ -22,5 +22,3 @@ Licenses [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) - [Creative Commons 4
 # Snapshots #
 
 ![Screenshot12](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d87bee1f24b48660e6f8f364adadef11/Screenshot12.png)
-
-![bootanimation12](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/a7f42ba0efeb77d22b324da2b6ca1a49/bootanimation12.gif)
