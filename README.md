@@ -4,12 +4,18 @@ This theme contains exclusively icons for the apps hosted on [F-droid FLOSS Repo
 
 TwelF follows the guidelines of Google Material Design for Android Lollipop aiming to provide a unified and minimalistic look at devices using CM12 with only Libre or Open Source Apps. 
 
-## Requisites ##
+## Requirements ##
 
 * A device running the Cyanogenmod 12 ROM (See the [list of compatible devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
 * [F-droid client](https://f-droid.org/) installed
 
 For issues, comments or icon request, please [use the issue tracker] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
+
+# Features #
+
+* Icon Pack
+* Bootanimation
+* Wallpaper & Lockscreen 
 
 [Changelog] (https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
 

@@ -26,9 +26,9 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Ringtone, alarm and notifications sounds**
 
-**New icons:** cmupdater, nicecompass, flym, lockclock, redreader, openvpnsettings, openvpn , dsub, subsonic, syncthing, jadcompass, compass, communitycompass, devicemanager, broadcast, libreofficeviewer, mobilehotspot, omnidroid, screencast, search, terminal, wishperpush, devtools, photos, camcorder, voiceplus, justplayer, ghostcommander, ghostcommandersftp, ghostcommandersmb, andbible, dictionaryformids, netmbuddy, terminalemulator, simplealarm
+**New icons:** cmupdater, nicecompass, flym, lockclock, redreader, openvpnsettings, openvpn , dsub, subsonic, syncthing, jadcompass, compass, communitycompass, devicemanager, broadcast, libreofficeviewer, mobilehotspot, omnidroid, screencast, search, terminal, wishperpush, devtools, camcorder, voiceplus, justplayer, ghostcommander, andbible, dictionaryformids, netmbuddy, terminalemulator, simplealarm
 
-**Fix icons:** antennapod, documents, wikipedia, documents
+**Fix icons:** antennapod, documents, wikipedia
 
 
 
