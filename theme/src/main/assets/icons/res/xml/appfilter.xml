@@ -531,6 +531,9 @@
 <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn "  />
 <item component="ComponentInfo{com.sgr_b2.compass/com.sgr_b2.compass.activities.MainActivity}" drawable="communitycompass"  />
 <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}" drawable="syncthing"  />
+<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.WebGuiActivity}" drawable="syncthing"  />
+<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.SettingsActivity}" drawable="syncthing"  />
+<item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FolderPickerActivity}" drawable="syncthing"  />
 <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander"  />
 <item component="ComponentInfo{com.digitallizard.nicecompass/com.digitallizard.nicecompass.CompassActivity}" drawable="nicecompass"  />
 <item component="ComponentInfo{net.bible.android.activity/net.bible.android.activity.StartupActivity}" drawable="andbible"  />

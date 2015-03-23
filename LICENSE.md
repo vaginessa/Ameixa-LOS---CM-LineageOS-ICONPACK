@@ -40,6 +40,8 @@ Delapouite (CC BY 3.0): trebuchet
 
 Xmpp Standards (MIT): tigase, conversations, beem, bombusmod, xabber, yaxim
 
+Syncthing (MPLv2): syncthing
+
 
 **Bootanimation**
 
