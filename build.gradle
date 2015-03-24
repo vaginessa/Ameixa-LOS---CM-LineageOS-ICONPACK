@@ -17,3 +17,22 @@ allprojects {
         jcenter()
     }
 }
+
+project(':theme') {
+    apply plugin: 'base'
+    apply plugin: 'com.android.application'
+    android {
+        compileSdkVersion 20
+        buildToolsVersion "20.0.0"
+        defaultConfig {
+            applicationId "org.twelf.cmtheme"
+            minSdkVersion 19
+            targetSdkVersion 20
+            versionCode 3
+            versionName "0.3"
+        }
+    }
+    dependencies {
+        compile fileTree(dir: 'libs', include: ['*.jar'])
+    }
+}
