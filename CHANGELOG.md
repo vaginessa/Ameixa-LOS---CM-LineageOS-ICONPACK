@@ -22,15 +22,19 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Fix icon:** davdroid
 
-# On next update (v0.4) #
+# v0.4 #
+
+**New icon for TwelF**
+
+**New icons:** andbible, ask, communitycompass, compass, dictionaryformids, documents, dsub, flym, gadgetbridge, ghostcommander, github, hackerskeyboard, identiconizer, jadcompass, jupiterbroadcast, justplayer, lockclock, netmbuddy, nicecompass, nlpconfig, openvpn , openvpnsettings, osmonitor, osmonitor, plumble, redreader, simplealarm, subsonic, syncthing, terminal, terminalemulator
+
+**Fix icons:** antennapod, keyboard, wikipedia
+
+**Remake icons:** apps, csipsimple , kerneladiutor, myownnotes, orbot, orwall, orweb, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, systemappmover, telegram, xbmc
+
+# On next update (v0.5) #
 
 **Ringtone, alarm and notifications sounds**
 
-**New icons:** cmupdater, nicecompass, flym, lockclock, redreader, openvpnsettings, openvpn , dsub, subsonic, syncthing, jadcompass, compass, communitycompass, devicemanager, broadcast, libreofficeviewer, mobilehotspot, omnidroid, screencast, search, terminal, wishperpush, devtools, camcorder, voiceplus, justplayer, ghostcommander, andbible, dictionaryformids, netmbuddy, terminalemulator, simplealarm
-
-**Fix icons:** antennapod, documents, wikipedia
-
-
-
-
+**New icons**
 
