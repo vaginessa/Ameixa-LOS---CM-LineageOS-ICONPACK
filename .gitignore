@@ -6,3 +6,4 @@
 *.iml
 /*/build
 /theme-build-tmp
+/gradle/local.properties
