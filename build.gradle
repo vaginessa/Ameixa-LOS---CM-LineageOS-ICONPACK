@@ -140,11 +140,11 @@ final colors = [ // main, shade/shadow
 project(':templates') {
     apply plugin: 'base'
     task build << {
-        final master_tpl = new File('./svg-icons/twelf-icon-template.svg').text
+        final master_tpl = new File('./svg-icons/twelf_icon_template.svg').text
         new File("./templates").mkdir()  
         for (c in colors) {
-            println 'Generating twelf-icon-template-' + c.key + '.svg'
-            new File('./templates/twelf-icon-template-' + c.key + '.svg').write(
+            println 'Generating template ' + c.key + '.svg'
+            new File('./templates/' + c.key + '.svg').write(
                 master_tpl
                     .replace('#03a9f4', c.value[0])
                     .replace('#01579b', c.value[1])
