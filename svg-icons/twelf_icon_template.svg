@@ -14,7 +14,7 @@
    id="svg3522"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="twelf-icon-template.svg">
+   sodipodi:docname="twelf_icon_template.svg">
   <defs
      id="defs3524">
     <filter
@@ -36,13 +36,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15.836083"
      inkscape:cx="24.228635"
-     inkscape:cy="8.4732518"
+     inkscape:cy="8.9465547"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1600"
-     inkscape:window-height="874"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1" />
@@ -64,13 +64,13 @@
      inkscape:groupmode="layer"
      transform="translate(0,-5.05)">
     <g
-       id="g3015">
+       id="g3007">
       <path
          transform="matrix(1.0107072,0,0,0.99762402,-0.195765,-1017.7875)"
          inkscape:connector-curvature="0"
          id="rect6141"
          d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-         style="opacity:0.2;fill:#1a237e;fill-opacity:1;stroke:none;filter:url(#filter6206)" />
+         style="opacity:0.20000000000000001;fill:#01579b;fill-opacity:1;stroke:none;filter:url(#filter6206)" />
       <path
          inkscape:connector-curvature="0"
          id="rect4291"
