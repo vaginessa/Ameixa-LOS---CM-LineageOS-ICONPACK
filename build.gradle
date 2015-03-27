@@ -1,13 +1,16 @@
 // Written by Alexander Sosedkin <monk@unboiled.info>
 // This scripts builds the icon theme, rendering png files in build-time.
-// Doesn't require rsvg-tools or inkscape at all.
+// Should be portable, doesn't require rsvg-tools or inkscape at all.
 
 // Somebody who knows groovy/gradle should have a look at that
-// and correct all the dirty hacks I've used here, willingly or unwilingly.
+// and correct all the dirty hacks I've used here, willingly or unwillingly.
 
 // For some reasons the former template was so messy, that the icons
 // based on it do not render. Please paste the icon onto the new template
-// (svg-icons/template.png).
+// (svg-icons/twelf-icon-template.png).
+
+// It also generates pre-colored svg icon templates 
+// in a directory named 'templates'.
 
 buildscript {
     repositories {
@@ -86,5 +89,72 @@ project(':theme-build-tmp') {
     renderPngs.dependsOn(copyTemplate)
     preBuild.dependsOn(renderPngs)
     // TODO: cleaning should be more elegant
+
 }
 
+
+// generating pre-colored svg templates from a master svg template
+
+final shadeIndigo900 = '#1a237e'
+final shadeBlueGrey900 = '#263238'
+final shadeDeepOrange900 = '#bf360c'
+final shadeBrown900 = '#3e2723'
+final shadeGrey900 = '#212121'
+final colors = [ // main, shade/shadow
+    'blue':        ['#2196f3', shadeIndigo900],
+    'indigo':      ['#3f51b5', shadeIndigo900],
+    'deep-purple': ['#673ab7', shadeIndigo900],
+    'purple':      ['#9c27b0', shadeIndigo900],
+
+    'blue-grey':   ['#607d8b', shadeBlueGrey900],
+    'light-blue':  ['#03a9f4', shadeBlueGrey900],
+    'cyan':        ['#00bcd4', shadeBlueGrey900],
+    'teal':        ['#009688', shadeBlueGrey900],
+    'green':       ['#4caf50', shadeBlueGrey900],
+    'light-green': ['#8bc34a', shadeBlueGrey900],
+    'lime':        ['#cddc39', shadeBlueGrey900],
+
+    'yellow':      ['#ffeb3b', shadeDeepOrange900],
+    'amber':       ['#ffc107', shadeDeepOrange900],
+    'orange':      ['#ff9800', shadeDeepOrange900],
+
+    'deep-orange': ['#ff5722', shadeBrown900],
+    'red':         ['#f44336', shadeBrown900],
+    'pink':        ['#e91e63', shadeBrown900],
+    'brown':       ['#795548', shadeBrown900],
+
+    // TODO: maybe these should not be included?
+    /*
+    'grey50':      ['#fafafa', shadeGrey900],
+    'grey100':     ['#f5f5f5', shadeGrey900],
+    'grey200':     ['#eeeeee', shadeGrey900],
+    'grey300':     ['#e0e0e0', shadeGrey900],
+    'grey400':     ['#bdbdbd', shadeGrey900],
+    'grey500':     ['#9e9e9e', shadeGrey900],
+    'grey600':     ['#757575', shadeGrey900],
+    'grey700':     ['#616161', shadeGrey900],
+    'grey800':     ['#424242', shadeGrey900],
+    */
+]
+
+project(':templates') {
+    apply plugin: 'base'
+    task build << {
+        final master_tpl = new File('./svg-icons/twelf-icon-template.svg').text
+        new File("./templates").mkdir()  
+        for (c in colors) {
+            println 'Generating twelf-icon-template-' + c.key + '.svg'
+            new File('./templates/twelf-icon-template-' + c.key + '.svg').write(
+                master_tpl
+                    .replace('#03a9f4', c.value[0])
+                    .replace('#01579b', c.value[1])
+            )
+        }
+    } 
+    build.outputs.upToDateWhen { false } // hack
+    build.outputs.dir './templates'
+    clean.dependsOn cleanBuild
+    // TODO: fix cleaning
+    // TODO: fix rebuilding
+}
+project(':theme-build-tmp').build.dependsOn project(':templates').build
