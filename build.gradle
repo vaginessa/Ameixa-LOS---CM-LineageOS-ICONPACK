@@ -1,4 +1,13 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
+// Written by Alexander Sosedkin <monk@unboiled.info>
+// This scripts builds the icon theme, rendering png files in build-time.
+// Doesn't require rsvg-tools or inkscape at all.
+
+// Somebody who knows groovy/gradle should have a look at that
+// and correct all the dirty hacks I've used here, willingly or unwilingly.
+
+// For some reasons the former template was so messy, that the icons
+// based on it do not render. Please paste the icon onto the new template
+// (svg-icons/template.png).
 
 buildscript {
     repositories {
@@ -6,6 +15,8 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:0.12.2'
+        classpath 'org.apache.xmlgraphics:batik-codec:1.7'
+        classpath 'org.apache.xmlgraphics:batik-rasterizer:1.7'
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -18,7 +29,20 @@ allprojects {
     }
 }
 
-project(':theme') {
+import org.apache.batik.apps.rasterizer.SVGConverter
+import org.apache.batik.apps.rasterizer.DestinationType
+void svgToPng(String svg_filename, String png_filename, int size) {
+    println 'Converting ' + svg_filename + ' to size ' + size
+    SVGConverter svgConverter = new SVGConverter()
+    svgConverter.setSources([svg_filename] as String[])
+    svgConverter.setDestinationType(DestinationType.PNG)
+    svgConverter.setHeight(size)
+    svgConverter.setWidth(size)
+    svgConverter.setDst(new File(png_filename))
+    svgConverter.execute()
+}
+
+project(':theme-build-tmp') {
     apply plugin: 'base'
     apply plugin: 'com.android.application'
     android {
@@ -35,4 +59,32 @@ project(':theme') {
     dependencies {
         compile fileTree(dir: 'libs', include: ['*.jar'])
     }
+
+    task copyTemplate(type:Copy) {
+        from '../theme'
+        into '.'
+    }
+    preBuild.dependsOn(copyTemplate)
+    copyTemplate.outputs.dir '.'
+    clean.dependsOn cleanCopyTemplate
+
+    task renderPngs << {
+        // TODO: proper path concatenation?
+        final outDir = './theme-build-tmp/src/main/assets/icons/res/drawable-'
+        final sizes = [mdpi: 48, hdpi: 72, xhdpi: 96, xxhdpi: 144, xxxhdpi: 192]
+        final svgs = fileTree(dir: '../svg-icons', include: '*.svg')
+        for (f in svgs) {
+            for (e in sizes) {
+                svgToPng(f.path,
+                         outDir + e.key + '/' + 
+                         org.apache.commons.io.FilenameUtils.getBaseName(f.name) +
+                         '.png',
+                         e.value)
+            }
+        }
+    }
+    renderPngs.dependsOn(copyTemplate)
+    preBuild.dependsOn(renderPngs)
+    // TODO: cleaning should be more elegant
 }
+
