@@ -28,11 +28,15 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **New icons:** andbible, ask, communitycompass, compass, dictionaryformids, documents, dsub, flym, gadgetbridge, ghostcommander, github, hackerskeyboard, identiconizer, jadcompass, jupiterbroadcast, justplayer, lockclock, netmbuddy, nicecompass, nlpconfig, openvpn , openvpnsettings, osmonitor, osmonitor, plumble, redreader, simplealarm, subsonic, syncthing, terminal, terminalemulator
 
-**Fix icons:** antennapod, keyboard, wikipedia
+**Fix icons:** keyboard, wikipedia
 
 **Remake icons:** apps, csipsimple , kerneladiutor, myownnotes, orbot, orwall, orweb, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, systemappmover, telegram, xbmc
 
-# On next update (v0.5) #
+# v0.5 #
+
+**Fix icons:** simtk, clocklock, openvpn, terminalemulator, unifiednlp, github
+
+# On next update (v0.6) #
 
 **Ringtone, alarm and notifications sounds**
 
