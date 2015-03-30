@@ -28,8 +28,8 @@ project(':theme') {
             applicationId "org.twelf.cmtheme"
             minSdkVersion 21
             targetSdkVersion 21
-            versionCode 4
-            versionName "0.4"
+            versionCode 5
+            versionName "0.5"
         }
     }
     dependencies {
