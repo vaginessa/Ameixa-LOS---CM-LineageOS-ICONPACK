@@ -4,10 +4,12 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Icon Licenses**
 
+xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, 
+
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, 
 hackerskeyboard, justplayer, kerneladiutor, lkeyboard, lockclock, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, terminal, terminalemulator, documents, xbmc
 
-Cyanogenmod (Apache v2): audiofx, themes
+Cyanogenmod (Apache v2): audiofx, themes, onze, twelf
 
 Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover
 
@@ -35,7 +37,7 @@ GNU (GPLv3) andstatus, mustard, mustardmod
 
 Friendica (AGPL): friendica
 
-Twidere (?): twidere
+Twidere/lordfriend (GPLv3): twidere
 
 Delapouite (CC BY 3.0): trebuchet
 
@@ -50,6 +52,10 @@ OpenVPN Technologies (CC BY-SA 3.0): openvpn, openvpnsettings
 Mumble (BSD): plumble
 
 Rama (CC BY-SA 2.0 fr): subsonic
+
+Identiconizer (Apache v2): identiconizer
+
+VLC (GPLv3): vlc
 
 
 
