@@ -4,10 +4,10 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Icon Licenses**
 
-xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, 
+xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw
 
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, 
-hackerskeyboard, justplayer, kerneladiutor, lkeyboard, lockclock, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, terminal, terminalemulator, documents, xbmc
+hackerskeyboard, justplayer, kerneladiutor, lkeyboard, lockclock, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf
 
@@ -25,7 +25,7 @@ Wikipedia (CC BY-SA 3.0): wikipedia
 
 Angelus (CC BY-SA 3.0): bitmask
 
-Ocal (Public Domain): adaway
+Ocal (Public Domain): adaway, chess, chesswalk, droidfish
 
 Gabriel @lastrosestudios (SIL Open Font License 1.1): smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur, antennapod, carcast, podax
 

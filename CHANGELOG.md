@@ -36,9 +36,13 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Fix icons:** simtk, clocklock, openvpn, terminalemulator, unifiednlp, github
 
-# On next update (v0.6) #
+# v0.6 #
 
-**Ringtone, alarm and notifications sounds**
+**New icons:** smssecure, textsecure, opentraining, budget, androidrun, droidfish, chess, chesswalk, lightningbrowser, tintbrowser, ftpserver, androisens, tinfoilfb, tinfoiltw, vxconnectbot, irssiconnectbot
 
-**New icons**
+**Remake icons:** clocklock, kerneladiutor, myownnotes, nlpconfig, owncloudnewsreader, owncloudsms, redreader, systemappmover, terminal, terminalemulator
+
+# On next update # 
+
+**Shipping svgs instead pngs**
 
