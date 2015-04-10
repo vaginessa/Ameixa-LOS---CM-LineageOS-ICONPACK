@@ -42,7 +42,11 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Remake icons:** clocklock, kerneladiutor, myownnotes, nlpconfig, owncloudnewsreader, owncloudsms, redreader, systemappmover, terminal, terminalemulator
 
-# On next update # 
+# v0.7 #
 
-**Shipping svgs instead pngs**
+**New icons:** swiftnotes, quickdic, gappsbrowser, webopac, quranandroid, ankidroid, openimgur, anymemo, keepass2android, synapse, otaupdate, ...
+
+# Todo # 
+
+**Shipping svgs instead pngs** thanks to t184256
 
