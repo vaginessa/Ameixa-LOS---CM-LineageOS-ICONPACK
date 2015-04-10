@@ -5,3 +5,6 @@
 /build
 *.iml
 /*/build
+/theme-build-tmp
+/gradle/local.properties
+/templates
