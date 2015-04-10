@@ -388,6 +388,8 @@
 <item component="ComponentInfo{com.cyngn.screencast/com.cyngn.screencast.MainActivity}" drawable="screencast"  />
 <item component="ComponentInfo{cmupdaterapp.ui/cmupdaterapp.ui.MainActivity}" drawable="cmupdater" />
 <item component="ComponentInfo{com.android.launcher3/com.android.launcher3.Launcher}" drawable="trebuchet" />
+<item component="ComponentInfo{com.android.launcher3/com.android.launcher3.ToggleWeightWatcher}" drawable="trebuchet" />
+<item component="ComponentInfo{com.android.launcher3/com.android.launcher3.MemoryDumpActivity}" drawable="trebuchet" />
 <item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastListActivity}" drawable="broadcast" />
 <item component="ComponentInfo{com.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.ui.CellBroadcastListActivity}" drawable="broadcast" />
 <item component="ComponentInfo{org.whispersystems.whisperpush/org.whispersystems.whisperpush.ui.RegistrationActivity}" drawable="wishperpush" />
@@ -405,6 +407,13 @@
 <item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="camcorder" />
 <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal"  />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.preference.Preferences}" drawable="lockclock"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="bookmarkbr"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="bookmarkbr"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="bookmarkbr"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="bookmarkbr"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="bookmarkbr"  />
+
+
 
 	<!-- Apps version 0.1 -->
 
