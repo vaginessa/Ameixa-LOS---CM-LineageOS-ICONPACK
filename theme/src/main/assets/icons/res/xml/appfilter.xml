@@ -643,5 +643,8 @@
 <item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudokufree"  />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi"  />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard"  />
+<item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes"  />
+<item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"  />
+<item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="gappsbrowser"  />
 
 </resources>
