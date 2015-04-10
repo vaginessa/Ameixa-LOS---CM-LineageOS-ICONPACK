@@ -1,2 +1,1 @@
-include ':theme-build-tmp'
-include ':templates'
+include ':theme'
