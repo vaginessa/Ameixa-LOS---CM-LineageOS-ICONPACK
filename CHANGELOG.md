@@ -48,7 +48,7 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Remake icons:** fdroid, owncloudnews, lockclock, trebuchet
 
-# Todo # 
+# TODO # 
 
 **Shipping svgs instead pngs** thanks to t184256
 
