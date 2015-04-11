@@ -607,7 +607,11 @@
 <item component="ComponentInfo{com.af.synapse/com.af.synapse.MainActivity}" drawable="synapse"  />
 <item component="ComponentInfo{com.ota.updates/com.ota.updates.activities.MainActivity}" drawable="otaupdate"  />
 
-<!-- end requested -->
+<!-- new requests -->
+<item component="ComponentInfo{com.github.ruleant.getback_gps/com.github.ruleant.getback_gps.MainActivity}" drawable="getbackgps"  />
+<item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}" drawable="apktrack"  />
+<item component="ComponentInfo{fr.simon.marquis.preferencesmanager/fr.simon.marquis.preferencesmanager.ui.AppListActivity}" drawable="prefmanager"  />
+<!-- end request -->
 
 <item component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.GloomyDungeons.opensource.game.MenuActivity}" drawable="gloomydungeons"  />
 <item component="ComponentInfo{teaonly.droideye/teaonly.droideye.MainActivity}" drawable="wificamera"  />
