@@ -40,11 +40,13 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **New icons:** smssecure, textsecure, opentraining, budget, androidrun, droidfish, chess, chesswalk, lightningbrowser, tintbrowser, ftpserver, androisens, tinfoilfb, tinfoiltw, vxconnectbot, irssiconnectbot
 
-**Remake icons:** clocklock, kerneladiutor, myownnotes, nlpconfig, owncloudnewsreader, owncloudsms, redreader, systemappmover, terminal, terminalemulator
+**Remake icons:** lockclock, kerneladiutor, myownnotes, nlpconfig, owncloudnews, owncloudsms, redreader, systemappmover, terminal, terminalemulator
 
 # v0.7 #
 
-**New icons:** swiftnotes, quickdic, gappsbrowser, webopac, quranandroid, ankidroid, openimgur, anymemo, keepass2android, synapse, otaupdate, ...
+**New icons:** swiftnotes, quickdic, gappsbrowser, webopac, quranandroid, ankidroid, openimgur, anymemo, keepass2android, synapse, otaupdate, bookmarkbr...
+
+**Remake icons:** fdroid, owncloudnews, lockclock, trebuchet
 
 # Todo # 
 
