@@ -44,15 +44,12 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 # v0.7 #
 
-**New icons:** swiftnotes, quickdic, gappsbrowser, webopac, quranandroid, ankidroid, openimgur, anymemo, keepass2android, synapse, otaupdate, bookmarkbr
+**New icons:** swiftnotes, quickdic, gappsbrowser, webopac, quranandroid, synapse, otaupdate, bookmarkbr
 
 **Remake icons:** fdroid, owncloudnews, lockclock, trebuchet
 
 # Next update v0.8 #
 
-**New icons:** getbackgps, apktrack, prefmanager
+**New icons:** getbackgps, apktrack, prefmanager, ankidroid, openimgur, anymemo, keepass2android
 
-# TODO # 
-
-**Shipping svgs instead pngs** thanks to t184256
 
