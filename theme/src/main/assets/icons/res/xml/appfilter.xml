@@ -605,7 +605,6 @@
 <item component="ComponentInfo{org.liberty.android.fantastischmemo/org.liberty.android.fantastischmemo.ui.AnyMemo}" drawable="anymemo"  />
 <item component="ComponentInfo{keepass2android.keepass2android_nonet/keepass2android.KeePass}" drawable="keepass2android"  />
 <item component="ComponentInfo{keepass2android.keepass2android/keepass2android.KeePass}" drawable="keepass2android"  />
-<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepass2android"  />
 <item component="ComponentInfo{com.af.synapse/com.af.synapse.MainActivity}" drawable="synapse"  />
 <item component="ComponentInfo{com.ota.updates/com.ota.updates.activities.MainActivity}" drawable="otaupdate"  />
 
