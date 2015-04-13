@@ -594,7 +594,7 @@
 <item component="ComponentInfo{org.woltage.irssiconnectbot/org.woltage.irssiconnectbot.HostListActivity}" drawable="irssiconnectbot"  />
 <item component="ComponentInfo{com.brewcrewfoo.performance/com.brewcrewfoo.performance.activities.MainActivity}" drawable="performancecontrol"  />
 
-<!-- v0.7 and more -->
+<!-- v0.7  -->
 
 <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes"  />
 <item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"  />
@@ -609,15 +609,17 @@
 <item component="ComponentInfo{com.af.synapse/com.af.synapse.MainActivity}" drawable="synapse"  />
 <item component="ComponentInfo{com.ota.updates/com.ota.updates.activities.MainActivity}" drawable="otaupdate"  />
 
+<!-- v0.8 and higher -->
 <!-- new requests -->
 <item component="ComponentInfo{com.github.ruleant.getback_gps/com.github.ruleant.getback_gps.MainActivity}" drawable="getbackgps"  />
 <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}" drawable="apktrack"  />
 <item component="ComponentInfo{fr.simon.marquis.preferencesmanager/fr.simon.marquis.preferencesmanager.ui.AppListActivity}" drawable="prefmanager"  />
+<item component="ComponentInfo{se.johanhil.duckduckgo/se.johanhil.duckduckgo.DuckDuckGoSettings}" drawable="duckduckgo"  />
+<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo"  />
 <!-- end request -->
 
 <item component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.GloomyDungeons.opensource.game.MenuActivity}" drawable="gloomydungeons"  />
 <item component="ComponentInfo{teaonly.droideye/teaonly.droideye.MainActivity}" drawable="wificamera"  />
-<item component="ComponentInfo{se.johanhil.duckduckgo/se.johanhil.duckduckgo.DuckDuckGoSettings}" drawable="dduckgo"  />
 <item component="ComponentInfo{org.totschnig.sendwithftp/org.totschnig.sendwithftp.UriList}" drawable="sendwithftp"  />
 <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.MyExpenses}" drawable="myexpenses"  />
 <item component="ComponentInfo{org.sudowars/org.sudowars.Controller.Local.Activity.MainMenu}" drawable="sudowars"  />
@@ -665,7 +667,6 @@
 <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
 <item component="ComponentInfo{com.glTron/com.glTron.glTron}" drawable="gltron"  />
 <item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts"  />
-<item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo"  />
 <item component="ComponentInfo{com.drodin.tuxrider/com.drodin.tuxrider.Installer}" drawable="tuxrider"  />
 <item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
 <item component="ComponentInfo{com.dngames.mobilewebcam/com.dngames.mobilewebcam.MobileWebCam}" drawable="mobilewebcam"  />
