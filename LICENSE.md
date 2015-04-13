@@ -63,6 +63,8 @@ Keepass2android (GPLv2): keepass2android
 
 Anki (GPLv3): ankidroid
 
+Anymemo (GPLv2): anymemo
+
 
 **Bootanimation**
 
