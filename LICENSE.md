@@ -61,6 +61,8 @@ Swiftnotes (Apache v2): swiftnotes
 
 Keepass2android (GPLv2): keepass2android
 
+Anki (GPLv3): ankidroid
+
 
 **Bootanimation**
 
