@@ -92,8 +92,11 @@
 	<item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="browser"  />
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
-	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
 	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Dark}" drawable="calculator" />
 	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Light}" drawable="calculator" />
 	<item component="ComponentInfo{com.android.calculator2/com.android.calculator2.CalculatorActivity}" drawable="calculator" />
@@ -408,12 +411,6 @@
 <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal"  />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.preference.Preferences}" drawable="lockclock"  />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/.preference.Preferences}" drawable="lockclock"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="browser"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="browser"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="browser"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser"  />
-
 
 
 	<!-- Apps version 0.1 -->
