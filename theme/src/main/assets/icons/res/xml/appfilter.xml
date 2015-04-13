@@ -424,6 +424,18 @@
 	<item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
+	<!-- more activities for Firefox v0.8 -->
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.GeckoApplication}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox/org.mozilla.search.SearchActivity}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.search.SearchPreferenceActivity}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.StartPane}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.webapp.Dispatcher}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.Webapp}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.sync.setup.activities.SetupSyncActivity}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.sync.setup.activities.WebViewActivity}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.search.SearchActivity}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.db.BrowserProvider}" drawable="firefox" />
+	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.CrashReporter}" drawable="firefox" />
 	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />	
 	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mailred" />
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
