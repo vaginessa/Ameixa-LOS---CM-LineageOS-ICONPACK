@@ -65,6 +65,8 @@ Anki (GPLv3): ankidroid
 
 Anymemo (GPLv2): anymemo
 
+Openimgur (Apache v2): openimgur
+
 
 **Bootanimation**
 
