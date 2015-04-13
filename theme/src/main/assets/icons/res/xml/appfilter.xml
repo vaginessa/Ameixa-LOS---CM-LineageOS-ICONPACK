@@ -482,7 +482,7 @@
 	<item component="ComponentInfo{com.nolanlawson.logcat/com.nolanlawson.logcat.LogcatActivity}" drawable="catlog"  />
 	<item component="ComponentInfo{org.mythdroid/org.mythdroid.activities.Main}" drawable="mythdroid"  />
 	<item component="ComponentInfo{tkj.android.homecontrol.mythmote/tkj.android.homecontrol.mythmote.MythMote}" drawable="mythmote"  />
-	<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keeppassdroid"  />
+	<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepassdroid"  />
 	<item component="ComponentInfo{org.ligi.passandroid/org.ligi.passandroid.ui.TicketListActivity}" drawable="passandroid"  />
 	<item component="ComponentInfo{org.ligi.passandroid/org.ligi.passandroid.ui.PassListActivity}" drawable="passandroid"  />
 	<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdfreader"  />
