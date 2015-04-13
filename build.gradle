@@ -17,22 +17,3 @@ allprojects {
         jcenter()
     }
 }
-
-project(':theme') {
-    apply plugin: 'base'
-    apply plugin: 'com.android.application'
-    android {
-        compileSdkVersion 21
-        buildToolsVersion "21.1.2"
-        defaultConfig {
-            applicationId "org.twelf.cmtheme"
-            minSdkVersion 21
-            targetSdkVersion 21
-            versionCode 7
-            versionName "0.7"
-        }
-    }
-    dependencies {
-        compile fileTree(dir: 'libs', include: ['*.jar'])
-    }
-}
