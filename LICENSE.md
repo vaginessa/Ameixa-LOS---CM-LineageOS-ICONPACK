@@ -60,6 +60,8 @@ VLC (GPLv3): vlc
 Swiftnotes (Apache v2): swiftnotes
 
 
+Anki (GPLv3): ankidroid
+
 
 **Bootanimation**
 
