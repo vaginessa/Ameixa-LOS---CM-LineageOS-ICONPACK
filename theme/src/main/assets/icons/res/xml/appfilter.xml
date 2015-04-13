@@ -407,11 +407,11 @@
 <item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="camcorder" />
 <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal"  />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.preference.Preferences}" drawable="lockclock"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="bookmarkbr"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="bookmarkbr"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="bookmarkbr"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="bookmarkbr"  />
-<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="bookmarkbr"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.ShortcutActivity}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.BookmarkSearch}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.widget.BookmarkThumbnailWidgetProvider}" drawable="browser"  />
+<item component="ComponentInfo{com.android.browser/com.android.browser.AddBookmarkPage}" drawable="browser"  />
 
 
 
