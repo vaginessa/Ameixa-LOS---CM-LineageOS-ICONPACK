@@ -424,18 +424,6 @@
 	<item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
-	<!-- more activities for Firefox v0.8 -->
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.GeckoApplication}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox/org.mozilla.search.SearchActivity}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.search.SearchPreferenceActivity}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.StartPane}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.webapp.Dispatcher}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.Webapp}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.sync.setup.activities.SetupSyncActivity}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.sync.setup.activities.WebViewActivity}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.search.SearchActivity}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.db.BrowserProvider}" drawable="firefox" />
-	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.gecko.CrashReporter}" drawable="firefox" />
 	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />	
 	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="mailred" />
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
@@ -611,6 +599,8 @@
 <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac"  />
 <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quranandroid"  />
 <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"  />
+<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.StudyOptions}" drawable="ankidroid"  />
+<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.DeckPicker}" drawable="ankidroid"  />
 <item component="ComponentInfo{com.kenny.openimgur/com.kenny.openimgur.activities.MainActivity}" drawable="openimgur"  />
 <item component="ComponentInfo{org.liberty.android.fantastischmemo/org.liberty.android.fantastischmemo.ui.AnyMemo}" drawable="anymemo"  />
 <item component="ComponentInfo{keepass2android.keepass2android_nonet/keepass2android.KeePass}" drawable="keepass2android"  />
@@ -619,46 +609,50 @@
 <item component="ComponentInfo{com.ota.updates/com.ota.updates.activities.MainActivity}" drawable="otaupdate"  />
 
 <!-- v0.8 and higher -->
-<!-- new requests -->
+
 <item component="ComponentInfo{com.github.ruleant.getback_gps/com.github.ruleant.getback_gps.MainActivity}" drawable="getbackgps"  />
 <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}" drawable="apktrack"  />
 <item component="ComponentInfo{fr.simon.marquis.preferencesmanager/fr.simon.marquis.preferencesmanager.ui.AppListActivity}" drawable="prefmanager"  />
-<item component="ComponentInfo{se.johanhil.duckduckgo/se.johanhil.duckduckgo.DuckDuckGoSettings}" drawable="duckduckgo"  />
+<item component="ComponentInfo{se.johanhil.duckduckgo/se.johanhil.duckduckgo.DuckDuckGoSettings}" drawable="duckduckgo2"  />
 <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo"  />
-<!-- end request -->
-
+<item component="ComponentInfo{org.bottiger.podcast/org.bottiger.podcast.MainActivity}" drawable="soundwaves"  />
 <item component="ComponentInfo{zame.GloomyDungeons.opensource.game/zame.GloomyDungeons.opensource.game.MenuActivity}" drawable="gloomydungeons"  />
 <item component="ComponentInfo{teaonly.droideye/teaonly.droideye.MainActivity}" drawable="wificamera"  />
 <item component="ComponentInfo{org.totschnig.sendwithftp/org.totschnig.sendwithftp.UriList}" drawable="sendwithftp"  />
 <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.MyExpenses}" drawable="myexpenses"  />
+<item component="ComponentInfo{org.gnucash.android/org.gnucash.android.ui.account.AccountsActivity}" drawable="gnucash"  />
 <item component="ComponentInfo{org.sudowars/org.sudowars.Controller.Local.Activity.MainMenu}" drawable="sudowars"  />
+<item component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.MainActivity}" drawable="mathdoku"  />
+<item component="ComponentInfo{de.sudoq/de.sudoq.controller.menus.SplashActivity}" drawable="sudoq"  />
+<item component="ComponentInfo{cz.romario.opensudoku/cz.romario.opensudoku.gui.FolderListActivity}" drawable="opesudoku"  />
+<item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudokufree"  />
 <item component="ComponentInfo{org.sipdroid.sipua/org.sipdroid.sipua.ui.Sipdroid}" drawable="sipdroid"  />
 <item component="ComponentInfo{org.projectmaxs.main/org.projectmaxs.main.activities.MainActivity}" drawable="maxsmain"  />
+<item component="ComponentInfo{org.dyndns.sven_ola.debian_kit/org.dyndns.sven_ola.debian_kit.DebianKitActivity}" drawable="debiankit"  />
+<item component="ComponentInfo{net.debian.debiandroid/net.debian.debiandroid.ItemListActivity}" drawable="debiandroid"  />
+<item component="ComponentInfo{com.botbrew.basil/com.botbrew.basil.Main}" drawable="botbrew"  />
+<item component="ComponentInfo{info.guardianproject.lildebi/info.guardianproject.lildebi.LilDebi}" drawable="lildebi"  />
+
+<!-- adding mark -->
 <item component="ComponentInfo{org.navitproject.navit/org.navitproject.navit.Navit}" drawable="navit"  />
 <item component="ComponentInfo{org.lumicall.android/org.lumicall.android.sip.RegisterAccount}" drawable="lumicall"  />
 <item component="ComponentInfo{org.linphone/org.linphone.LinphoneLauncherActivity}" drawable="linphone"  />
 <item component="ComponentInfo{org.kde.ministro.config/org.kde.ministro.config.MinistroConfigurationToolActivity}" drawable="ministro"  />
 <item component="ComponentInfo{org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen}" drawable="frozenbuble"  />
-<item component="ComponentInfo{org.gnucash.android/org.gnucash.android.ui.account.AccountsActivity}" drawable="gnucash"  />
 <item component="ComponentInfo{org.fastergps/org.fastergps.ui.BaseActivity}" drawable="fastergps"  />
-<item component="ComponentInfo{org.dyndns.sven_ola.debian_kit/org.dyndns.sven_ola.debian_kit.DebianKitActivity}" drawable="debiankit"  />
 <item component="ComponentInfo{org.cyanogenmod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"  />
 <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"  />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro"  />
 <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask"  />
 <item component="ComponentInfo{net.sourceforge.solitaire_cg/net.sourceforge.solitaire_cg.SolitaireCG}" drawable="solitairecg"  />
-<item component="ComponentInfo{net.debian.debiandroid/net.debian.debiandroid.ItemListActivity}" drawable="debiandroid"  />
-<item component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.MainActivity}" drawable="mathdoku"  />
 <item component="ComponentInfo{net.androgames.level/net.androgames.level.Level}" drawable="bubble"  />
 <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="moneybalance"  />
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery"  />
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{fr.xplod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"  />
-<item component="ComponentInfo{de.sudoq/de.sudoq.controller.menus.SplashActivity}" drawable="sudoq"  />
 <item component="ComponentInfo{de.onyxbits.remotekeyboard/de.onyxbits.remotekeyboard.MainActivity}" drawable="remotekeyboard"  />
 <item component="ComponentInfo{de.koelle.christian.trickytripper/de.koelle.christian.trickytripper.TrickyTripperActivity}" drawable="trickytripper"  />
 <item component="ComponentInfo{de.azapps.mirakelandroid/de.azapps.mirakel.static_activities.SplashScreenActivity}" drawable="mirakel"  />
-<item component="ComponentInfo{cz.romario.opensudoku/cz.romario.opensudoku.gui.FolderListActivity}" drawable="opesudoku"  />
 <item component="ComponentInfo{com.volosyukivan/com.volosyukivan.WiFiKeyboard}" drawable="wifikeyboard"  />
 <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game"  />
 <item component="ComponentInfo{com.tum.yahtzee/com.tum.yahtzee.YahtzeeActivity}" drawable="yahtzee"  />
@@ -669,8 +663,6 @@
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}" drawable="acal"  />
 <item component="ComponentInfo{com.kmagic.solitaire/com.kmagic.solitaire.Solitaire}" drawable="solitaire"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
-<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.StudyOptions}" drawable="ankidroid"  />
-<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.DeckPicker}" drawable="ankidroid"  />
 <item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog"  />
 <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
 <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
@@ -680,8 +672,6 @@
 <item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
 <item component="ComponentInfo{com.dngames.mobilewebcam/com.dngames.mobilewebcam.MobileWebCam}" drawable="mobilewebcam"  />
 <item component="ComponentInfo{com.call.recorder/com.call.recorder.MainActivity}" drawable="callrecorder"  />
-<item component="ComponentInfo{com.botbrew.basil/com.botbrew.basil.Main}" drawable="botbrew"  />
-<item component="ComponentInfo{com.app2go.sudokufree/com.app2go.sudokufree.MainActivity}" drawable="sudokufree"  />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi"  />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard"  />
 

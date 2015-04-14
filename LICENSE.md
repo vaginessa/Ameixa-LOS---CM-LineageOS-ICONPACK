@@ -4,14 +4,14 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Icon Licenses**
 
-xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager
+xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager, duckduckgo, gloomydungeons, sudowars, mathdoku, sudoq, opesudoku, sudokufree, maxsmain
 
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, 
-hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps
+hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf, trebuchet
 
-Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack
+Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): fdroid
 
@@ -27,7 +27,7 @@ Angelus (CC BY-SA 3.0): bitmask
 
 Ocal (Public Domain): adaway, chess, chesswalk, droidfish
 
-Gabriel @lastrosestudios (SIL Open Font License 1.1): smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur, antennapod, carcast, podax
+Gabriel @lastrosestudios (SIL Open Font License 1.1): smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur,
 
 Sun Microsystems (Apache v2): opendocumentreader
 
@@ -66,6 +66,10 @@ Anki (GPLv3): ankidroid
 Anymemo (GPLv2): anymemo
 
 Openimgur (Apache v2): openimgur
+
+jmtrivial.info (GPL): sipdroid
+
+Software in the Public Interest, Inc (CC BY-SA 3.0): lildebi, botbrew, debiandroid, debiankit
 
 
 **Bootanimation**

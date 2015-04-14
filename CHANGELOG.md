@@ -50,6 +50,10 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 # Next update v0.8 #
 
-**New icons:** getbackgps, apktrack, prefmanager, ankidroid, openimgur, anymemo, keepass2android
+**New icons:** getbackgps, apktrack, prefmanager, ankidroid, openimgur, anymemo, keepass2android, duckduckgo, gloomydungeons, wificamera, sendwithftp, myexpenses, gnucash, sudowars, mathdoku, sudoq, opesudoku, sudokufree, soundwaves, sipdroid, maxsmain, lildebi, botbrew, debiandroid, debiankit
+
+**Remake:** antennapod, podax, carcast, davdroid. webopac
+
+**Fix icons:** lockclock, browser, keepassdroid, owncloudsms
 
 
