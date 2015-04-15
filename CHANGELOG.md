@@ -48,7 +48,7 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Remake icons:** fdroid, owncloudnews, lockclock, trebuchet
 
-# Next update v0.8 #
+# v0.8 #
 
 **New icons:** getbackgps, apktrack, prefmanager, ankidroid, openimgur, anymemo, keepass2android, duckduckgo, gloomydungeons, wificamera, sendwithftp, myexpenses, gnucash, sudowars, mathdoku, sudoq, opesudoku, sudokufree, soundwaves, sipdroid, maxsmain, lildebi, botbrew, debiandroid, debiankit,authenticator, quasseldroid, authenticator, navit, lumicall, linphone, ministro, frozenbuble, fastergps, focal, blockinger
 
