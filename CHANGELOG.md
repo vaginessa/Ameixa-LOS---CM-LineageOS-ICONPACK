@@ -56,4 +56,8 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Fix icons:** lockclock, browser, keepassdroid, owncloudsms
 
+# v0.9 #
+
+**Hotfix**
+
 
