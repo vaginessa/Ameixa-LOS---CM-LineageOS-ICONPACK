@@ -56,4 +56,11 @@ alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, clock, c
 
 **Fix icons:** lockclock, browser, keepassdroid, owncloudsms
 
+# v0.9 #
+
+**New icons:** rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery
+
+**Remake:** navit
+
+
 

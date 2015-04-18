@@ -641,28 +641,36 @@
 <item component="ComponentInfo{org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen}" drawable="frozenbuble"  />
 <item component="ComponentInfo{org.fastergps/org.fastergps.ui.BaseActivity}" drawable="fastergps"  />
 <item component="ComponentInfo{org.cyanogenmod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"  />
+<item component="ComponentInfo{fr.xplod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"  />
 <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"  />
-<!-- adding mark -->
+<item component="ComponentInfo{com.notriddle.budget/com.notriddle.budget.EnvelopesActivity}" drawable="budget"  />
+
+<!-- v0.9 -->
+<item component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice"  /> 
+<item component="ComponentInfo{com.robert.maps/com.robert.maps.applib.MainActivity}" drawable="rmaps"  />
+<item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}" drawable="tabulae"  />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro"  />
 <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask"  />
 <item component="ComponentInfo{net.sourceforge.solitaire_cg/net.sourceforge.solitaire_cg.SolitaireCG}" drawable="solitairecg"  />
+<item component="ComponentInfo{com.kmagic.solitaire/com.kmagic.solitaire.Solitaire}" drawable="solitaire"  />
 <item component="ComponentInfo{net.androgames.level/net.androgames.level.Level}" drawable="bubble"  />
 <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="moneybalance"  />
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery"  />
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
-<item component="ComponentInfo{fr.xplod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"  />
+
+<!-- adding mark -->
 <item component="ComponentInfo{de.onyxbits.remotekeyboard/de.onyxbits.remotekeyboard.MainActivity}" drawable="remotekeyboard"  />
 <item component="ComponentInfo{de.koelle.christian.trickytripper/de.koelle.christian.trickytripper.TrickyTripperActivity}" drawable="trickytripper"  />
 <item component="ComponentInfo{de.azapps.mirakelandroid/de.azapps.mirakel.static_activities.SplashScreenActivity}" drawable="mirakel"  />
 <item component="ComponentInfo{com.volosyukivan/com.volosyukivan.WiFiKeyboard}" drawable="wifikeyboard"  />
 <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game"  />
 <item component="ComponentInfo{com.tum.yahtzee/com.tum.yahtzee.YahtzeeActivity}" drawable="yahtzee"  />
-<item component="ComponentInfo{com.notriddle.budget/com.notriddle.budget.EnvelopesActivity}" drawable="budget"  />
+
+<!-- v1.0 -->
 <item component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}" drawable="movim"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalTasks}" drawable="acal"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalNotes}" drawable="acal"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}" drawable="acal"  />
-<item component="ComponentInfo{com.kmagic.solitaire/com.kmagic.solitaire.Solitaire}" drawable="solitaire"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
 <item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog"  />
 <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
