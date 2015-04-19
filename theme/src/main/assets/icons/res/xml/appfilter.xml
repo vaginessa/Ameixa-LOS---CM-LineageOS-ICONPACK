@@ -656,32 +656,31 @@
 <item component="ComponentInfo{net.androgames.level/net.androgames.level.Level}" drawable="bubble"  />
 <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="moneybalance"  />
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery"  />
-<item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
-
-<!-- adding mark -->
 <item component="ComponentInfo{de.onyxbits.remotekeyboard/de.onyxbits.remotekeyboard.MainActivity}" drawable="remotekeyboard"  />
 <item component="ComponentInfo{de.koelle.christian.trickytripper/de.koelle.christian.trickytripper.TrickyTripperActivity}" drawable="trickytripper"  />
 <item component="ComponentInfo{de.azapps.mirakelandroid/de.azapps.mirakel.static_activities.SplashScreenActivity}" drawable="mirakel"  />
 <item component="ComponentInfo{com.volosyukivan/com.volosyukivan.WiFiKeyboard}" drawable="wifikeyboard"  />
 <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game"  />
 <item component="ComponentInfo{com.tum.yahtzee/com.tum.yahtzee.YahtzeeActivity}" drawable="yahtzee"  />
-
-<!-- v1.0 -->
+<item component="ComponentInfo{com.call.recorder/com.call.recorder.MainActivity}" drawable="callrecorder"  />
 <item component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}" drawable="movim"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalTasks}" drawable="acal"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCalNotes}" drawable="acal"  />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}" drawable="acal"  />
-<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
-<item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog"  />
-<item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
-<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
-<item component="ComponentInfo{com.glTron/com.glTron.glTron}" drawable="gltron"  />
-<item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts"  />
-<item component="ComponentInfo{com.drodin.tuxrider/com.drodin.tuxrider.Installer}" drawable="tuxrider"  />
-<item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
+<item component="ComponentInfo{de.we.acaldav/org.gege.caldavsyncadapter.authenticator.AuthenticatorActivity}" drawable="acaldav"  />
+<item component="ComponentInfo{org.gege.caldavsyncadapter/org.gege.caldavsyncadapter.authenticator.AuthenticatorActivity}" drawable="caldavsync"  />
 <item component="ComponentInfo{com.dngames.mobilewebcam/com.dngames.mobilewebcam.MobileWebCam}" drawable="mobilewebcam"  />
-<item component="ComponentInfo{com.call.recorder/com.call.recorder.MainActivity}" drawable="callrecorder"  />
+<item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog"  />
+<item component="ComponentInfo{com.glTron/com.glTron.glTron}" drawable="gltron"  />
+<item component="ComponentInfo{com.drodin.tuxrider/com.drodin.tuxrider.Installer}" drawable="tuxrider"  />
+<item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts"  />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi"  />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard"  />
 
+<!-- ToDo -->
+<item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
+<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
+<item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
+<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
+<item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
 </resources>
