@@ -61,5 +61,7 @@ New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitai
 
 Remake: navit
 
+Replace: syncthing
+
 
 
