@@ -442,11 +442,11 @@
 	<!-- Apps version 0.2 -->
 	
 	<item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin"  />
-	<item component="ComponentInfo{com.veken0m.bitcoinium/com.veken0m.bitcoinium.MainActivity}" drawable="bitcoin"  />
-	<item component="ComponentInfo{com.coinbase.android.merchant/com.coinbase.android.MainActivity}" drawable="bitcoin"  />
-	<item component="ComponentInfo{it.greenaddress.cordova/it.greenaddress.cordova.GreenAddressIt}" drawable="bitcoin"  />
-	<item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="bitcoin"  />
-	<item component="ComponentInfo{de.schildbach.wallet_test/de.schildbach.wallet.WalletActivity}" drawable="bitcoin"  />
+	<item component="ComponentInfo{com.veken0m.bitcoinium/com.veken0m.bitcoinium.MainActivity}" drawable="bitconium"  />
+	<item component="ComponentInfo{com.coinbase.android.merchant/com.coinbase.android.MainActivity}" drawable="coinbase"  />
+	<item component="ComponentInfo{it.greenaddress.cordova/it.greenaddress.cordova.GreenAddressIt}" drawable="greenaddress"  />
+	<item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits"  />
+	<item component="ComponentInfo{de.schildbach.wallet_test/de.schildbach.wallet.WalletActivity}" drawable="testnet3"  />
 	<item component="ComponentInfo{se.leap.bitmaskclient/se.leap.bitmaskclient.Dashboard}" drawable="bitmask"  />
 	<item component="ComponentInfo{org.coolreader/org.coolreader.CoolReader}" drawable="coolreader"  />
 	<item component="ComponentInfo{it.angrydroids.epub3reader/it.angrydroids.epub3reader.EpubReaderMain}" drawable="epubreader"  />
@@ -577,6 +577,7 @@
 <item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="chess"  />
 <item component="ComponentInfo{cz.hejl.chesswalk/cz.hejl.chesswalk.MainActivity}" drawable="chesswalk"  />
 <item component="ComponentInfo{be.ppareit.swiftp_free/be.ppareit.swiftp.gui.FsPreferenceActivity}" drawable="ftpserver"  />
+<item component="ComponentInfo{be.ppareit.swiftp/be.ppareit.swiftp.gui.FsPreferenceActivity}" drawable="ftpserver"  />
 <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightningbrowser"  />
 <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.BrowserActivity}" drawable="lightningbrowser"  />
 <item component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.MainActivity}" drawable="lightningbrowser"  />
@@ -676,7 +677,21 @@
 <item component="ComponentInfo{com.elsdoerfer.android.autostarts/com.elsdoerfer.android.autostarts.ListActivity}" drawable="autostarts"  />
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi"  />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard"  />
-
+<item component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}" drawable="androidvnc"  />
+<item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="calendarwidget"  />
+<item component="ComponentInfo{com.bel.android.dspmanager/com.bel.android.dspmanager.activity.DSPManager}" drawable="dspmanager"  />
+<item component="ComponentInfo{net.pejici.easydice/net.pejici.easydice.DiceRollerActivity}" drawable="easydice"  />
+<item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate"  />
+<item component="ComponentInfo{com.androidemu.gba/com.androidemu.EmulatorActivity}" drawable="gameboid"  />
+<item component="ComponentInfo{name.bagi.levente.pedometer/name.bagi.levente.pedometer.Pedometer}" drawable="pedometer"  />
+<item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon"  />
+<item component="ComponentInfo{net.cactii.flash2/net.cactii.flash2.MainActivity}" drawable="torch"  />
+<item component="ComponentInfo{net.mafro.android.wakeonlan/net.mafro.android.wakeonlan.WakeOnLanActivity}" drawable="wakeonlan"  />
+<item component="ComponentInfo{me.guillaumin.android.osmtracker/me.guillaumin.android.osmtracker.activity.TrackManager}" drawable="osmtracker"  />
+<item component="ComponentInfo{org.gfd.gsmlocation/org.gfd.gsmlocation.settings}" drawable="gsmlocation"  />
+<item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="localgsm"  />
+<item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel"  />
+<item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel"  />
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
