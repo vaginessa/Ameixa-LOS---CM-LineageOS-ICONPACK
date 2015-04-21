@@ -85,7 +85,11 @@ WebUpd8 (CC BY-NC-SA): libreoffice
 William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
 
 
-**Gitlab repo**
+**Alarm**
 
-Get it on F-droid banner: Laura Kalbag (CC BY-SA 4.0 International)
+Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
+
+**Ringtone**
+
+El niño del parking - Báilame por tangos (CC BY)
 

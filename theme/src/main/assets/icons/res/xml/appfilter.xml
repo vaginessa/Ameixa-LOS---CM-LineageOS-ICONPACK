@@ -691,7 +691,13 @@
 <item component="ComponentInfo{org.gfd.gsmlocation/org.gfd.gsmlocation.settings}" drawable="gsmlocation"  />
 <item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="localgsm"  />
 <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel"  />
-<item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel"  />
+<item component="ComponentInfo{org.microg.nlp.app/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlplegacy"  />
+<item component="ComponentInfo{org.sufficientlysecure.standalonecalendar/com.android.calendar.AllInOneActivity}" drawable="standalonecalendar"  />
+<item component="ComponentInfo{org.microg.nlp.backend.apple/.PregrabActivity}" drawable="applenlp"  />
+<item component="ComponentInfo{org.fitchfamily.android.wifi_backend/org.fitchfamily.android.wifi_backend.settings}" drawable="localwifinlp"  />
+<item component="ComponentInfo{org.microg.nlp.backend.ichnaea/.SettingsActivity}" drawable="mozillanlp"  />
+<item component="ComponentInfo{org.microg.nlp.backend.nominatim/org.microg.nlp.GEOCODER_BACKEND}" drawable="nominatimnlp"  />
+<item component="ComponentInfo{org.openbmap.unifiedNlp/org.openbmap.unifiedNlp.SettingsActivity}" drawable="openbmapnlp"  />
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />

@@ -21,7 +21,7 @@ For issues, comments or icon request, please [use the issue tracker] (https://gi
 
 Status: Alpha.
 
-[![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.twelf.cmtheme)
+[![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.twelf.cmtheme)Laura Kalbag (CC BY-SA 4.0 International)
 
 Licenses [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) - [Creative Commons 4.0 BY-NC-SA] (http://creativecommons.org/licenses/by-nc-sa/4.0/) and other libre or open licenses (see [LICENSE](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/LICENSE.md) for more details).
 
