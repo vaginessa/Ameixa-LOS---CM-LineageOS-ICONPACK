@@ -57,7 +57,7 @@ Fix icons: lockclock, browser, keepassdroid, owncloudsms
 
 **v0.9**
 
-New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery, remotekeyboard, trickytripper, mirakel, wifikeyboard, 2048game, yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, androidvnc, calendarwidget, dspmanager, easydice, equate, gameboid, pedometer, pixeldungeon, torch, wakeonlan, osmtracker, gsmlocation, shatteredpixel, localgsm, unifiednlplegacy, standalonecalendar, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp
+New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery, remotekeyboard, trickytripper, mirakel, wifikeyboard, 2048game, yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, androidvnc, calendarwidget, dspmanager, easydice, equate, gameboid, pedometer, pixeldungeon, torch, wakeonlan, osmtracker, gsmlocation, shatteredpixel, localgsm, unifiednlplegacy, standalonecalendar, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp, osmuploader, osmbugs
 
 Remake: navit, droidfish
 
