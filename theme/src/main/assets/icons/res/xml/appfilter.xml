@@ -412,6 +412,34 @@
 <item component="ComponentInfo{com.cyanogenmod.lockclock/com.cyanogenmod.preference.Preferences}" drawable="lockclock"  />
 <item component="ComponentInfo{com.cyanogenmod.lockclock/.preference.Preferences}" drawable="lockclock"  />
 
+<!-- secondary system apps-->
+<item component="ComponentInfo{com.android.certinstaller/.CertInstallerMain}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.development/.Development}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.packageinstaller/.Development}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.galaxy4/.Galaxy4}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.wallpaper.holospiral/.HoloSpiralTestActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.htmlviewer/.HTMLViewerActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.keychain/.KeyChainActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.cyanogenmod.trebuchet/.Launcher}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.wallpaper.livepicker/.LiveWallpaperActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.managedprovisioning/.ManagedProvisioningActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.mms.service/.MmsService}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.noisefield/.NoiseFieldWallpaper}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.bluetooth/.opp.BluetoothOppLauncherActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.server.telecom/.PackageInstallerActivity*}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.phasebeam/.PhaseBeamSelector}" drawable="defaulticon"  />
+<item component="ComponentInfo{org.cyanogenmod.wallpapers.photophase/.PhotoPhaseActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.apps.tag/.TagViewer}" drawable="defaulticon"  />
+<item component="ComponentInfo{org.whispersystems.whisperpush/.ui.RegistrationActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.cyanogenmod.account/.ui.SetupWizardActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.cyanogenmod.setupwizard/.ui.SetupWizardActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.cyanogenmod.updater/.UpdatesSettings}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.musicvis/.vis2.Visualization2}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.cyanogenmod.wallpapers/.wallpaper}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.providers.downloads/}" drawable="defaulticon"  />
+<item component="ComponentInfo{com.android.settings/.Settings}" drawable="defaulticon"  />
+<!-- -->
+
 
 	<!-- Apps version 0.1 -->
 
@@ -700,6 +728,10 @@
 <item component="ComponentInfo{org.microg.nlp.backend.ichnaea/.SettingsActivity}" drawable="mozillanlp"  />
 <item component="ComponentInfo{org.microg.nlp.backend.nominatim/org.microg.nlp.GEOCODER_BACKEND}" drawable="nominatimnlp"  />
 <item component="ComponentInfo{org.openbmap.unifiedNlp/org.openbmap.unifiedNlp.SettingsActivity}" drawable="openbmapnlp"  />
+<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="firenightly"  />
+<item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore"  />
+<item component="ComponentInfo{org.freeminer.freeminer/org.freeminer.freeminer.MtNativeActivity}" drawable="freeminer"  />
+<item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest"  />
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
