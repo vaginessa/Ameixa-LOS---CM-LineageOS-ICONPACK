@@ -735,6 +735,7 @@
 <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest"  />
 <item component="ComponentInfo{org.kontalk/org.kontalk.ui.ConversationList}" drawable="kontalk"  />
 <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.MainActivity}" drawable="liberario"  />
+<item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="pedometer2"  />
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
