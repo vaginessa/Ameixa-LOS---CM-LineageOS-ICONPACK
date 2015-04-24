@@ -83,6 +83,10 @@ Watabou (GPLv3): pixeldungeon, shatteredpixel
 
 unholybanquet (not provided): dspmanager, equate, gameboid, pedometer, torch, wakeonlan
 
+Liberario (GPLv3): liberario
+
+Kontalk (): kontalk
+
 **Bootanimation**
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
