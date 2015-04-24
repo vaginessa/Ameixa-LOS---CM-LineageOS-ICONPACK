@@ -16,6 +16,7 @@ For issues, comments or icon request, please [use the issue tracker] (https://gi
 * Icon Pack
 * Bootanimation
 * Wallpaper & Lockscreen 
+* Alarm & Ringtone
 
 [Changelog] (https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
 
