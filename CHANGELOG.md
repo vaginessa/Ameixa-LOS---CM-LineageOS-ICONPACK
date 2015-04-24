@@ -55,7 +55,7 @@ Remake: antennapod, podax, carcast, davdroid, webopac
 
 Fix icons: lockclock, browser, keepassdroid, owncloudsms
 
-**v0.9**
+**v1.0**
 
 New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery, remotekeyboard, trickytripper, mirakel, wifikeyboard, 2048game, androidvnc, calendarwidget, dspmanager, easydice, equate, gameboid, pedometer, pixeldungeon, torch, wakeonlan, osmtracker, shatteredpixel, standalonecalendar, osmuploader, osmbugs, firenightly, minetest, freeminer, kore, kontalk, liberario
 
@@ -65,6 +65,6 @@ Fix icons: bitconium, coinbase, greenaddress, greenbits, testnet3, ftpserver
 
 Alarm & Ringtone
 
-**v1.0**
+**v1.1**
 
 New icons: yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, localgsm, unifiednlplegacy, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp, gsmlocation
