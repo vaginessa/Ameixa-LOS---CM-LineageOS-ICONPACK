@@ -4,7 +4,7 @@ Icons: alarm, apps, audiofx, broadcast, browser, calculator, calendar, camera, c
 
 **v0.2**
 
-Fixed critical issue #2
+Fixed critical issue 2
 
 Fixed icons: mail, k9mail, soundrecorder, vlc, afw+
 
@@ -57,7 +57,7 @@ Fix icons: lockclock, browser, keepassdroid, owncloudsms
 
 **v0.9**
 
-New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery, remotekeyboard, trickytripper, mirakel, wifikeyboard, 2048game, androidvnc, calendarwidget, dspmanager, easydice, equate, gameboid, pedometer, pixeldungeon, torch, wakeonlan, osmtracker, shatteredpixel, standalonecalendar, osmuploader, osmbugs, firenightly, minetest, freeminer, kore
+New icons: rmaps, tabulae, libreoffice, ametro, simpletask, solitairecg, solitaire, bubble, moneybalance, networkdiscovery, remotekeyboard, trickytripper, mirakel, wifikeyboard, 2048game, androidvnc, calendarwidget, dspmanager, easydice, equate, gameboid, pedometer, pixeldungeon, torch, wakeonlan, osmtracker, shatteredpixel, standalonecalendar, osmuploader, osmbugs, firenightly, minetest, freeminer, kore, kontalk, liberario
 
 Remake: navit, droidfish
 
