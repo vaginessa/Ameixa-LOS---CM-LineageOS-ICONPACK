@@ -729,9 +729,12 @@
 <item component="ComponentInfo{org.microg.nlp.backend.nominatim/org.microg.nlp.GEOCODER_BACKEND}" drawable="nominatimnlp"  />
 <item component="ComponentInfo{org.openbmap.unifiedNlp/org.openbmap.unifiedNlp.SettingsActivity}" drawable="openbmapnlp"  />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="firenightly"  />
+<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="firenightly"  />
 <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore"  />
 <item component="ComponentInfo{org.freeminer.freeminer/org.freeminer.freeminer.MtNativeActivity}" drawable="freeminer"  />
 <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest"  />
+<item component="ComponentInfo{org.kontalk/org.kontalk.ui.ConversationList}" drawable="kontalk"  />
+<item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.MainActivity}" drawable="liberario"  />
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
