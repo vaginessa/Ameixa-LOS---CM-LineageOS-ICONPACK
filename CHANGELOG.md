@@ -67,4 +67,4 @@ Alarm & Ringtone
 
 **v1.1**
 
-New icons: yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, localgsm, unifiednlplegacy, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp, gsmlocation
+New icons: yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, localgsm, unifiednlplegacy, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp, gsmlocation, quicklyric, brouter, atomic, i2p, turboeditor, tutanota, redphone, synergy, tasks, sfen, mitzuli, wifiwarning, writeily, fblite, menu icons

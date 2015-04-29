@@ -60,7 +60,10 @@
 	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.HomeActivity}" drawable="music" />
 	<item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}" drawable="music" />
 	<item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="music" />
-    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />	
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SearchActivity}" drawable="music" />
+<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SettingsActivity}" drawable="music" />
+<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ElevenApplication}" drawable="music" />	
     <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="clock" />
 	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
 	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
@@ -534,6 +537,13 @@
 	<item component="ComponentInfo{org.mumod.android/org.mumod.android.activity.Mustard}" drawable="mustardmod"  />
 	<item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover"  />
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.Orbot}" drawable="orbot"  />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.ui.OrbotLogActivity}" drawable="orbot" />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.SettingsPreferences}" drawable="orbot" />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.AppManager}" drawable="orbot" />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotApp}" drawable="orbot" /> 
+	<item component="ComponentInfo{org.torproject.android/.Orbot}" drawable="orbot" />
+	<item component="ComponentInfo{org.torproject.android/.OrbotMainActivity}" drawable="orbot" />
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
 	<item component="ComponentInfo{org.ethack.orwall/org.ethack.orwall.TabbedMain}" drawable="orwall"  />
 	<item component="ComponentInfo{info.guardianproject.browser/info.guardianproject.browser.Browser}" drawable="orweb"  />
 	<item component="ComponentInfo{org.transdroid/org.transdroid.gui.Torrents}" drawable="transdroid"  />
@@ -676,6 +686,8 @@
 
 <!-- v0.9 -->
 <item component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice"  /> 
+<item component="ComponentInfo{org.libreoffice/.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
 <item component="ComponentInfo{com.robert.maps/com.robert.maps.applib.MainActivity}" drawable="rmaps"  />
 <item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}" drawable="tabulae"  />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro"  />
@@ -718,16 +730,16 @@
 <item component="ComponentInfo{me.guillaumin.android.osmtracker/me.guillaumin.android.osmtracker.activity.TrackManager}" drawable="osmtracker"  />
 <item component="ComponentInfo{net.anzix.osm.upload/net.anzix.osm.upload.GpxList}" drawable="osmuploader"  />
 <item component="ComponentInfo{org.gittner.osmbugs/org.gittner.osmbugs.activities.BugMapActivity_}" drawable="osmbugs"  />
-<item component="ComponentInfo{org.gfd.gsmlocation/org.gfd.gsmlocation.settings}" drawable="gsmlocation"  />
-<item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="localgsm"  />
+<item component="ComponentInfo{org.gfd.gsmlocation/org.gfd.gsmlocation.settings}" drawable="nlp"  />
+<item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="nlp"  />
 <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel"  />
-<item component="ComponentInfo{org.microg.nlp.app/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlplegacy"  />
+<item component="ComponentInfo{org.microg.nlp.app/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="nlpconfig"  />
 <item component="ComponentInfo{org.sufficientlysecure.standalonecalendar/com.android.calendar.AllInOneActivity}" drawable="standalonecalendar"  />
-<item component="ComponentInfo{org.microg.nlp.backend.apple/.PregrabActivity}" drawable="applenlp"  />
-<item component="ComponentInfo{org.fitchfamily.android.wifi_backend/org.fitchfamily.android.wifi_backend.settings}" drawable="localwifinlp"  />
-<item component="ComponentInfo{org.microg.nlp.backend.ichnaea/.SettingsActivity}" drawable="mozillanlp"  />
-<item component="ComponentInfo{org.microg.nlp.backend.nominatim/org.microg.nlp.GEOCODER_BACKEND}" drawable="nominatimnlp"  />
-<item component="ComponentInfo{org.openbmap.unifiedNlp/org.openbmap.unifiedNlp.SettingsActivity}" drawable="openbmapnlp"  />
+<item component="ComponentInfo{org.microg.nlp.backend.apple/.PregrabActivity}" drawable="nlp"  />
+<item component="ComponentInfo{org.fitchfamily.android.wifi_backend/org.fitchfamily.android.wifi_backend.settings}" drawable="nlp"  />
+<item component="ComponentInfo{org.microg.nlp.backend.ichnaea/.SettingsActivity}" drawable="nlp"  />
+<item component="ComponentInfo{org.microg.nlp.backend.nominatim/org.microg.nlp.GEOCODER_BACKEND}" drawable="nlp"  />
+<item component="ComponentInfo{org.openbmap.unifiedNlp/org.openbmap.unifiedNlp.SettingsActivity}" drawable="nlp"  />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="firenightly"  />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="firenightly"  />
 <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore"  />
@@ -742,4 +754,26 @@
 <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
 <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
 <item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
+
+<!-- v1.1 -->
+<item component="ComponentInfo{gpapez.sfen/gpapez.sfen.Main}" drawable="sfen" />
+<item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.Tutanota}" drawable="tutanota" />
+<item component="ComponentInfo{org.thoughtcrime.redphone/org.thoughtcrime.redphone.ui.DialerActivity}" drawable="redphone" />
+<item component="ComponentInfo{org.synergy/org.synergy.Synergy}" drawable="synergy" />
+<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
+<item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks2" />
+<item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.ShortcutActivity}" drawable="tasks2" />
+<item component="ComponentInfo{org.tasks/org.tasks.activities.TimePickerActivity}" drawable="tasks2" />
+<item component="ComponentInfo{com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity}" drawable="quicklyric" />
+<item component="ComponentInfo{btools.routingapp/btools.routingapp.BRouterActivity}" drawable="brouter" />
+<item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
+<item component="ComponentInfo{net.i2p.android.router/net.i2p.android.router.MainActivity}" drawable="i2p" />
+<item component="ComponentInfo{com.maskyn.fileeditor/com.maskyn.fileeditor.HomeActivity}" drawable="turboeditor" />
+<item component="ComponentInfo{com.maskyn.fileeditorpro/com.maskyn.fileeditorpro.HomeActivity}" drawable="turboeditor" />
+<item component="ComponentInfo{com.mitzuli/com.mitzuli.MainActivity}" drawable="mitzuli" />
+<item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="fblite" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.PromptPinActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.prome.writeily.pro.MainActivity}" drawable="writeily" />
+<item component="ComponentInfo{nu.firetech.android.wifiwarning/nu.firetech.android.wifiwarning.ConfigActivity}" drawable="wifiwarning" />
+
 </resources>

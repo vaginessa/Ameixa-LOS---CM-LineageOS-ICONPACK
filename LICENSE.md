@@ -4,10 +4,10 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Icon Licenses**
 
-xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager, gloomydungeons, sudowars, mathdoku, sudoq, opesudoku, sudokufree, maxsmain, frozenbuble, blockinger, ametro, solitairecg, solitaire, bubble, networkdiscovery, mirakel, easydice, pixeldungeon, shatteredpixel, minetest, freeminer, 2048game
+xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager, gloomydungeons, sudowars, mathdoku, sudoq, opesudoku, sudokufree, maxsmain, frozenbuble, blockinger, ametro, solitairecg, solitaire, bubble, networkdiscovery, mirakel, easydice, pixeldungeon, shatteredpixel, minetest, freeminer, 2048game, atomic, i2p, synergy, writeily, fblite
 
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, 
-hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly
+hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf, trebuchet
 
@@ -86,6 +86,10 @@ unholybanquet (not provided): dspmanager, equate, gameboid, pedometer, torch, wa
 Liberario (GPLv3): liberario
 
 Kontalk (): kontalk
+
+Tutanota (GPLv3): tutanota
+
+Sfen (): sfen
 
 **Bootanimation**
 
