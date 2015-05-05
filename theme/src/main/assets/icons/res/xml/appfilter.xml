@@ -775,5 +775,17 @@
 <item component="ComponentInfo{me.writeily.pro/me.writeily.pro.PromptPinActivity}" drawable="writeily" />
 <item component="ComponentInfo{me.writeily.pro/me.writeily.prome.writeily.pro.MainActivity}" drawable="writeily" />
 <item component="ComponentInfo{nu.firetech.android.wifiwarning/nu.firetech.android.wifiwarning.ConfigActivity}" drawable="wifiwarning" />
+<item component="ComponentInfo{com.koushikdutta.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
+<item component="ComponentInfo{org.eff.actioncenter/org.eff.actioncenter.CordovaApp}" drawable="effalerts" />
+<item component="ComponentInfo{org.eff.actioncenter/CordovaApp}" drawable="effalerts" />
+<item component="ComponentInfo{bander.notepad/bander.notepad.NoteList}" drawable="notepad" />
+<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="ionotepad" />
+<item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
+<item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}" drawable="tuner" />
+<item component="ComponentInfo{org.yaaic/org.yaaic.activity.MainActivity}" drawable="yaaic" />
+<item component="ComponentInfo{net.dahanne.banq.notifications/net.dahanne.banq.notifications.MainActivity}" drawable="mybanq" />
+<item component="ComponentInfo{com.chessclock.android/com.chessclock.android.ChessClock}" drawable="schessclock" />
+<item component="ComponentInfo{org.hekmatof.chesswatch/org.hekmatof.chesswatch.MainActivity}" drawable="chesswatch" />
+<item component="ComponentInfo{com.lewisjuggins.miband/com.lewisjuggins.miband.MiOverviewActivity}" drawable="mibandnotifier" />
 
 </resources>
