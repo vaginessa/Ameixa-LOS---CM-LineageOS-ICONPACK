@@ -68,3 +68,9 @@ Alarm & Ringtone
 **v1.1**
 
 New icons: yahtzee, callrecorder, movim, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, localgsm, unifiednlplegacy, applenlp, localwifinlp, mozillanlp, nominatimnlp, openbmapnlp, gsmlocation, quicklyric, brouter, atomic, i2p, turboeditor, tutanota, redphone, synergy, tasks, sfen, mitzuli, wifiwarning, writeily, fblite, some menu icons, superuser, effalerts, notepad, ionotepad, octodroid, tuner, yaaic, mybanq, schessclock, chesswatch, mibandnotifier, syncthing
+
+**v1.2**
+
+System menus icons
+
+Fix on alarm and ringtone
