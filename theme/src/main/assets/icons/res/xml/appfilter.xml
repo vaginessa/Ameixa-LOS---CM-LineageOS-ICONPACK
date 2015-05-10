@@ -793,6 +793,7 @@
 
 <!-- v1.2 -->
 
+<item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
 
 
 </resources>
