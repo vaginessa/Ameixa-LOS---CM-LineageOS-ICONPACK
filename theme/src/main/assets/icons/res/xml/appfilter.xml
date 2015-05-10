@@ -793,6 +793,8 @@
 
 <!-- v1.2 -->
 
+<item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
+<item component="ComponentInfo{it.skarafaz.mercury/it.skarafaz.mercury.activity.MainActivity}" drawable="mercury" />
 
 
 </resources>
