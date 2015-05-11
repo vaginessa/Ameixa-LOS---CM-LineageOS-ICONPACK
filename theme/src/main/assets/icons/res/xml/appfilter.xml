@@ -772,8 +772,6 @@
 <item component="ComponentInfo{com.maskyn.fileeditorpro/com.maskyn.fileeditorpro.HomeActivity}" drawable="turboeditor" />
 <item component="ComponentInfo{com.mitzuli/com.mitzuli.MainActivity}" drawable="mitzuli" />
 <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.MainActivity}" drawable="fblite" />
-<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.PromptPinActivity}" drawable="writeily" />
-<item component="ComponentInfo{me.writeily.pro/me.writeily.prome.writeily.pro.MainActivity}" drawable="writeily" />
 <item component="ComponentInfo{nu.firetech.android.wifiwarning/nu.firetech.android.wifiwarning.ConfigActivity}" drawable="wifiwarning" />
 <item component="ComponentInfo{com.koushikdutta.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser" />
 <item component="ComponentInfo{org.eff.actioncenter/org.eff.actioncenter.CordovaApp}" drawable="effalerts" />
@@ -808,5 +806,22 @@
 <item component="ComponentInfo{org.example.libreoffice/.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
 <item component="ComponentInfo{org.example.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
 <item component="ComponentInfo{org.example.libreoffice/.LibreOfficeMainActivity}" drawable="libreoffice" />
+
+<item component="ComponentInfo{pkmx.lcamera/pkmx.lcamera.MainActivity}" drawable="lcamera" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.PromptPinActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/.PromptPinActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.MainActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.NoteActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/me.writeily.pro.PinActivity}" drawable="writeily" />
+<item component="ComponentInfo{me.writeily.pro/.PinActivity}" drawable="writeily" />
+<item component="ComponentInfo{us.shandian.giga/us.shandian.giga.ui.main.MainActivity}" drawable="gigaget" />
+<item component="ComponentInfo{jp.yhonda/jp.yhonda.MaximaOnAndroidActivity}" drawable="maxima" />
+<item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
+<item component="ComponentInfo{com.ugetdm.uGet/com.ugetdm.uGet.MainActivity}" drawable="uget" />
+<item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="uget" />
+<item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic" />
+<item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.FullPlaybackActivity}" drawable="vanillamusic" />
+<item component="ComponentInfo{com.godot.game/com.godot.game.com.android.godot.Godot}" drawable="minilens" />
+<item component="ComponentInfo{com.godot.game/.com.android.godot.Godot}" drawable="minilens" />
 
 </resources>
