@@ -795,6 +795,6 @@
 
 <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
 <item component="ComponentInfo{it.skarafaz.mercury/it.skarafaz.mercury.activity.MainActivity}" drawable="mercury" />
-
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed" />
 
 </resources>
