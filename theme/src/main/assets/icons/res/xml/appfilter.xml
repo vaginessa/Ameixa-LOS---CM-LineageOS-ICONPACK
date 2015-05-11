@@ -688,9 +688,6 @@
 <item component="ComponentInfo{com.notriddle.budget/com.notriddle.budget.EnvelopesActivity}" drawable="budget"  />
 
 <!-- v0.9 -->
-<item component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice"  /> 
-<item component="ComponentInfo{org.libreoffice/.LibreOfficeUIActivity}" drawable="libreoffice" />
-<item component="ComponentInfo{org.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
 <item component="ComponentInfo{com.robert.maps/com.robert.maps.applib.MainActivity}" drawable="rmaps"  />
 <item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}" drawable="tabulae"  />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro"  />
@@ -796,5 +793,20 @@
 <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
 <item component="ComponentInfo{it.skarafaz.mercury/it.skarafaz.mercury.activity.MainActivity}" drawable="mercury" />
 <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed" />
+<!-- Libreoffice Fdroid -->
+<item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{com.collabora.libreoffice/.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{com.collabora.libreoffice/.LibreOfficeMainActivity}" drawable="libreoffice" />
+<!-- Libreoffice Basic -->
+<item component="ComponentInfo{org.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.libreoffice/.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.libreoffice/.LibreOfficeMainActivity}" drawable="libreoffice" />
+<!-- Libreoffice Daily -->
+<item component="ComponentInfo{org.example.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.example.libreoffice/.ui.LibreOfficeUIActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.example.libreoffice/org.libreoffice.LibreOfficeMainActivity}" drawable="libreoffice" />
+<item component="ComponentInfo{org.example.libreoffice/.LibreOfficeMainActivity}" drawable="libreoffice" />
 
 </resources>
