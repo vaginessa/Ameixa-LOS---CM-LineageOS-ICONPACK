@@ -1,5 +1,9 @@
 **v1.2**
 
+Remake: Webopac, mybanq
+
+New icons: mercury, clover, movim, materialplayer, lcamera, gigaget, uget, maxima, tickmate, vanillamusic, exposed
+
 System menus icons
 
 Fix on alarm and ringtone
