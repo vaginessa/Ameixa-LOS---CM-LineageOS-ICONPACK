@@ -443,6 +443,25 @@
 <item component="ComponentInfo{com.android.packageinstaller/.Development}" drawable="defaulticon"  />
 <item component="ComponentInfo{com.android.mms.service/.MmsService}" drawable="defaulticon"  />
 <item component="ComponentInfo{com.android.noisefield/.NoiseFieldWallpaper}" drawable="defaulticon"  />
+<!-- testing second batch-->
+<item component="ComponentInfo{com.android.providers.downloads/.SizeLimitActivity}" drawable="downloads"  />
+<item component="ComponentInfo{com.android.providers.calendar/CalendarContentProviderTests}" drawable="calendar"  />
+<item component="ComponentInfo{com.android.providers.media/.RingtonePickerActivity}" drawable="defaulticon"  />
+<item component="ComponentInfo{org.codeaurora.bluetooth/.ftp.BluetoothFtpActivity}" drawable="bluetooth"  />
+<item component="ComponentInfo{com.android.wallpaper/com.android.wallpaper.polarclock.PolarClockSettings}" drawable="wallpaper"  />
+<item component="ComponentInfo{com.android.providers.contacts/.debug.ContactsDumpActivity}" drawable="contacts"  />
+<item component="ComponentInfo{org.cyanogenmod.bugreport/.MainActivity}" drawable="bugreport"  />
+<item component="ComponentInfo{org.cyanogenmod.bugreport/.CrashFeedbackActivity}" drawable="bugreport"  />
+<item component="ComponentInfo{com.android.onetimerinitializer/.OneTimeInitializerReceiver}" drawable="onetime"  />
+<item component="ComponentInfo{com.android.onetimerinitializer/.OneTimeInitializerService}" drawable="onetime"  />
+<item component="ComponentInfo{com.android.dreams.basic/.Colors}" drawable="wallpaper"  />
+<item component="ComponentInfo{com.android.dreams.phototable/.FlipperDreamSettings}" drawable="wallpaper"  />
+<item component="ComponentInfo{com.android.dreams.phototable/.PhotoTableDreamSettings}" drawable="wallpaper"  />
+<item component="ComponentInfo{com.android.nfc/.BeamShareActivity}" drawable="beamshare"  />
+<item component="ComponentInfo{com.android.exchange/.SettingsRedirector}" drawable="exchange"  />
+<item component="ComponentInfo{com.android.exchange/.EasCertificateRequestor}" drawable="exchange"  />
+<item component="ComponentInfo{com.android.prividers.userdictionary/.UserDictionaryProvider}" drawable="userdictionary"  />
+<item component="ComponentInfo{com.android.provision/.DefaultActivity}" drawable="provision"  />
 
 <!-- -->
 
