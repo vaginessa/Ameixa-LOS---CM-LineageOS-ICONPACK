@@ -1,19 +1,31 @@
 The code of this app is licensed under GPLv3, based on the code of Cyanogenmod Theme Engine Template (Apache v2).
 
-The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another licenses.
+The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another not compatible license.
+
+**Bootanimation**
+
+William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
+
+**Alarm**
+
+Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
+
+**Ringtone**
+
+El niño del parking - Báilame por tangos (CC BY)
 
 **Icon Licenses**
 
 xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager, gloomydungeons, sudowars, mathdoku, sudoq, opesudoku, sudokufree, maxsmain, frozenbuble, blockinger, ametro, solitairecg, solitaire, bubble, networkdiscovery, mirakel, easydice, pixeldungeon, shatteredpixel, minetest, freeminer, 2048game, atomic, i2p, synergy, writeily, fblite, notepad, ionotepad, tuner, mibandnotifier, tickmate
 
 Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, 
-hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater
+hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf, trebuchet
 
 Cyanogenmod (GPL): whisperpush
 
-Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima
+Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima, addi
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): fdroid
 
@@ -30,6 +42,10 @@ Angelus (CC BY-SA 3.0): bitmask
 Ocal (Public Domain): adaway, chess, chesswalk, droidfish
 
 Gabriel @lastrosestudios (SIL Open Font License 1.1): smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur,
+
+Chris Litherland (SIL Open Font License 1.1): mobilewebcam
+
+Yasmina Lembachar (SIL Open Font License 1.1): yahtzee
 
 Sun Microsystems (Apache v2): opendocumentreader
 
@@ -99,16 +115,7 @@ Gigaget (GPLv3+): gigaget
 
 Uget (Lesser GPL): uget
 
-**Bootanimation**
+OpenStreetMap (CC BY-SA): gltron
 
-William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
-
-
-**Alarm**
-
-Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
-
-**Ringtone**
-
-El niño del parking - Báilame por tangos (CC BY)
+Cheese (Public Domain): tuxrider
 

@@ -1,12 +1,12 @@
 **v1.2**
 
-Remake: Webopac, mybanq
+Remake: webopac, mybanq, gadgetbridge
 
-New icons: mercury, clover, movim, materialplayer, lcamera, gigaget, uget, maxima, tickmate, vanillamusic, exposed
+New icons: mercury, clover, movim, materialplayer, lcamera, gigaget, uget, maxima, tickmate, vanillamusic, exposed, yahtzee, callrecorder, acal, acaldav, caldavsync, mobilewebcam, networklog, gltron, tuxrider, autostarts, addi, aard, minilens
 
-System menus icons
+Some new system icons
 
-Fix on alarm and ringtone
+Fix alarm and ringtone
 
 **v1.1**
 

@@ -1,13 +1,11 @@
-## TwelF CM12 Theme for FLOSS apps ##
+## TwelF - CM12 FLOSS Theme ##
 
-This theme contains exclusively icons for the apps hosted on [F-droid FLOSS Repository] (https://f-droid.org/).
-
-TwelF follows the guidelines of Google Material Design for Android Lollipop aiming to provide a unified and minimalistic look at devices using CM12 with only Libre or Open Source Apps. 
+TwelF is a Material Design inspired theme for Android Lollipop aiming to provide a unified and minimalistic look to your device.
 
 ## Requirements ##
 
 * A device running the Cyanogenmod 12 ROM (See the [list of compatible devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
-* [F-droid client](https://f-droid.org/) installed
+* [F-droid client](https://f-droid.org/) installed (optional, but strongly recommended)
 
 For issues, comments or icon request, please [use the issue tracker] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
 
@@ -19,8 +17,6 @@ For issues, comments or icon request, please [use the issue tracker] (https://gi
 * Alarm & Ringtone
 
 [Changelog] (https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
-
-Status: Alpha.
 
 [![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.twelf.cmtheme)
 
