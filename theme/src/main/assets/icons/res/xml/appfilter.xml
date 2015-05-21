@@ -311,6 +311,11 @@
 	<item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="filemanager" />
     	<item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="filemanager" />	
     	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.themes.ThemeActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ShortcutActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.preferences.SettingsPreferences}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.SearchActivity}" drawable="filemanager" />
     	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sms" />
     	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms" />
     	<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="sms" />
@@ -840,4 +845,35 @@
 <item component="ComponentInfo{com.addi/com.addi.Addi}" drawable="addi"  />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard"  />
 
-</resources>
+<!-- v1.3 -->
+
+<item component="ComponentInfo{de.blau.android/.Main}" drawable="vespucci" />
+<item component="ComponentInfo{de.enaikoon.android.keypadmapper3/org.osm.keypadmapper2.KeypadMapper2Activity}" drawable="keypadmapper" />
+<item component="ComponentInfo{org.wheelmap.android.online/org.wheelmap.android.activity.StartupActivity}" drawable="wheelmap" />
+<item component="ComponentInfo{com.vwp.owmini/com.vwp.owmini.OWMiniAtAndroid}" drawable="miniopenwlanmap" />
+<item component="ComponentInfo{com.vwp.owmap/com.vwp.owmap.OWMapAtAndroid}" drawable="openwlanmap" />
+<item component="ComponentInfo{org.mozilla.mozstumbler/.client.navdrawer.MainDrawerActivity}" drawable="mozstumbler" />
+<item component="ComponentInfo{org.openbmap/org.openbmap.activities.StartscreenActivity}" drawable="radiobeacon" />
+<item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
+<item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="wallabag" />
+<item component="ComponentInfo{com.teleca.jamendo/.activity.SplashscreenActivity}" drawable="jamendo" />
+<item component="ComponentInfo{org.wikimedia.commons/.campaigns.CampaignActivity}" drawable="wikimedia" />
+<item component="ComponentInfo{org.wikimedia.commons/.contributions.ContributionsActivity}" drawable="wikimedia" />
+<item component="ComponentInfo{org.wiktionary/.WiktionaryActivity}" drawable="wiktionary" />
+<item component="ComponentInfo{me.sheimi.sgit/.RepoListActivity}" drawable="sgit" />
+<item component="ComponentInfo{com.madgag.agit/.DashboardActivity}" drawable="agit" />
+<item component="ComponentInfo{us.lindanrandy.cidrcalculator/.CIDRCalculator}" drawable="cidrcalc" />
+<item component="ComponentInfo{com.aaronjwood.portauthority/.activity.MainActivity}" drawable="portauthority" />
+<item component="ComponentInfo{com.repay.android/com.repay.android.MainActivity}" drawable="repay" />
+<item component="ComponentInfo{de.measite.contactmerger/.MergeActivity}" drawable="contactmerger" />
+<item component="ComponentInfo{com.integralblue.callerid/.MainActivity}" drawable="callerid" />
+<item component="ComponentInfo{com.alfray.timeriffic/.profiles.ProfilesUI}" drawable="timeriffic" />
+<item component="ComponentInfo{eu.vranckaert.worktime/.activities.timeregistrations.TimeRegistrationListActivity}" drawable="worktime" />
+<item component="ComponentInfo{jp.redmine.redmineclient/.activity.SplashActivity}" drawable="openredmine" />
+<item component="ComponentInfo{org.macno.puma/.activity.MainActivity}" drawable="puma" />
+<item component="ComponentInfo{com.nagopy.android.disablemanager2/.MainActivity}" drawable="disablemanager" />
+<item component="ComponentInfo{com.majeur.applicationsinfo/.MainActivity}" drawable="applicationsinfo" />
+<item component="ComponentInfo{com.mendhak.gpslogger/.GpsMainActivity}" drawable="gpslogger" />
+<item component="ComponentInfo{net.nurik.roman.dashclock/com.google.android.apps.dashclock.configuration.ConfigurationLauncherActivity}" drawable="dashclock" />
+ 
+ </resources>

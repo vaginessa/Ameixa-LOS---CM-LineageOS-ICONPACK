@@ -2,6 +2,8 @@
 
 New icons: portauthority, vespucci, keypadmapper, wheelmap, miniopenwlanmap, openwlanmap, mozillastumbler, radiobeacon, yubico, wallabag, jamendo, wikimedia, wiktionary, sgit, agit, dashclock, cidrcalc, repay, contactmerger, callerid, timeriffic, worktime, openredmine, puma, disablemanager, applicationsinfo, gpslogger
 
+Tweak icons: smssecure, conversations
+
 **v1.2**
 
 Remake: webopac, mybanq, gadgetbridge
