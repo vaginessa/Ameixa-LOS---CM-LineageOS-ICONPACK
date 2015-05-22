@@ -26,10 +26,10 @@ For issues, comments or icon request, please [use the issue tracker] (https://gi
 
 ## Snapshots
 
-![Screenshot_20150522](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d28b47bd3951e7afa7569666a3d2cfd6/Screenshot_20150522.png)    ![fennecshare](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/ca6100724bbcf20c0a774ddb3512fe22/fennecshare.png)
+![Screenshot_20150522](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d28b47bd3951e7afa7569666a3d2cfd6/Screenshot_20150522.png) ![fennecshare](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/ca6100724bbcf20c0a774ddb3512fe22/fennecshare.png)
 
 
-![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/072fd4e99648a16cbbb1cb632d403806/settingsapps.png)    ![insideosmonitor](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/cb5fc90b1a754aa912ceee53c66e3600/insideosmonitor.png)
+![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/072fd4e99648a16cbbb1cb632d403806/settingsapps.png) ![insideosmonitor](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/cb5fc90b1a754aa912ceee53c66e3600/insideosmonitor.png)
 
 ## License 
 
