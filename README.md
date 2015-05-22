@@ -25,7 +25,7 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 
 ## Snapshots
 
-![homescreen](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/e45daaa73cb8786ccfddd9f5dc6ff37f/homescreen.png) ![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d85170ff59946a26939405f323ca41a6/settingsapps.png)
+![homescreen](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/e45daaa73cb8786ccfddd9f5dc6ff37f/homescreen.png) ![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/361f605128e6604fa203d0e4d0096fce/settingsapps.png)
 
 ![fennecshare](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d7249cbcda57e107dae9dc4940dbee0d/fennecshare.png) ![insideosmonitor](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/96ba392b939b9c9ac9028a5540d410a0/insideosmonitor.png)
 
