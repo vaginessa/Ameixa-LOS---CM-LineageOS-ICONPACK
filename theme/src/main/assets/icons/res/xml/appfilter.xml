@@ -577,6 +577,8 @@
 	<item component="ComponentInfo{org.ethack.orwall/org.ethack.orwall.TabbedMain}" drawable="orwall"  />
 	<item component="ComponentInfo{info.guardianproject.browser/info.guardianproject.browser.Browser}" drawable="orweb"  />
 	<item component="ComponentInfo{org.transdroid/org.transdroid.gui.Torrents}" drawable="transdroid"  />
+	<item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdroid" />
+	<item component="ComponentInfo{org.transdroid/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdroid" />
 	<item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdrone"  />
 	<item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroidsearch"  />
 	<item component="ComponentInfo{com.iven.xdafeedreader/com.iven.xdafeedreader.mainact.SplashActivity}" drawable="xdafeedreader"  />
