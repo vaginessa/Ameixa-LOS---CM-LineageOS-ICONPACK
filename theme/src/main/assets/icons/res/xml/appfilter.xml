@@ -877,6 +877,6 @@
 <item component="ComponentInfo{com.majeur.applicationsinfo/.MainActivity}" drawable="applicationsinfo" />
 <item component="ComponentInfo{com.mendhak.gpslogger/.GpsMainActivity}" drawable="gpslogger" />
 <item component="ComponentInfo{net.nurik.roman.dashclock/com.google.android.apps.dashclock.configuration.ConfigurationLauncherActivity}" drawable="dashclock" />
-<item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.AccountsActivity}" drawable="seadroid2" />
+<item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seadroid2" />
  
  </resources>
