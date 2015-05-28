@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<!--
  * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
 * the Free Software Foundation, either version 3 of the License, or
@@ -25,21 +25,21 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
 
-       
+
 
 <!-- System icons -->
 
 	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera2" />
 	<item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera2" />
 	<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera2" />
-    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera2" /> 
-    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera2" />	
-    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera2" />	
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera2" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera2" />
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera2" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera2" />
 	<item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="camera2" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="camera2" />
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera2" />
-    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera2" />	
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera2" />
     <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.ui.activities.ProfileActivity}" drawable="music" />
 	<item component="ComponentInfo{com_android_music_activitymanagement_toplevelactivity}" drawable="music" />
@@ -63,7 +63,7 @@
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
 <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SearchActivity}" drawable="music" />
 <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.SettingsActivity}" drawable="music" />
-<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ElevenApplication}" drawable="music" />	
+<item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ElevenApplication}" drawable="music" />
     <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="clock" />
 	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
 	<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" />
@@ -85,7 +85,7 @@
 	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 	<item component="ComponentInfo{com.android.browser/com.oppo.browser.downloads.ui.DownloadListUI}" drawable="browser" />
 	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivityWithLauncher}" drawable="browser" />
-	<item component="ComponentInfo{com.android.browser/com.google.zxing.client.android.CaptureActivity}" drawable="browser" /> 
+	<item component="ComponentInfo{com.android.browser/com.google.zxing.client.android.CaptureActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="browser" />
@@ -138,12 +138,12 @@
 	<item component="ComponentInfo{com.cyanogenmod.gallerynext/com.cyanogenmod.gallerynext.app.GalleryActivity}" drawable="gallery" />
 	<item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="gallery" />
     <item component="ComponentInfo{com.google.android.gallery3d/com.cooliris.media.Gallery}" drawable="gallery" />
-    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" drawable="gallery" />  
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="phone" />
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone" />
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="phone" />    
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="phone" />
 	<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLog}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogShortcut}" drawable="phone" />
@@ -286,7 +286,7 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.tmo.LaunchCommunityActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.TransparentActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity}" drawable="contacts" />
-    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="contacts" /> 
+    <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.RecntcallEntryActivity}" drawable="contacts" />
@@ -301,7 +301,7 @@
    	<item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 	<item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 	<item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="mail" />
-	<item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />	
+	<item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 	<item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
     	<item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="filemanager" />
 	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="filemanager" />
@@ -309,7 +309,7 @@
 	<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="filemanager" />
 	<item component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity}" drawable="filemanager" />
 	<item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="filemanager" />
-    	<item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="filemanager" />	
+    	<item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="filemanager" />
     	<item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.themes.ThemeActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ShortcutActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
@@ -390,7 +390,7 @@
 <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="lkeyboard" />
 <item component="ComponentInfo{com.shaftamle.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="lkeyboard" />
 <item component="ComponentInfo{com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="lkeyboard" />
-<item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="lkeyboard" />	
+<item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="lkeyboard" />
 <item component="ComponentInfo{com.sec.android.devicehelp/com.sec.android.devicehelp.DeviceHelp}" drawable="help" />
 <item component="ComponentInfo{com.htc.showme/com.htc.showme.ui.MainPage}" drawable="help" />
 <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
@@ -482,7 +482,7 @@
 	<item component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
-	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />	
+	<item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="firewall" />
 	<item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
 	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand" />
@@ -490,17 +490,17 @@
 	<item component="ComponentInfo{net.osmand.sherpafy/net.osmand.sherpafy.SherpafyPluginActivity}" drawable="osmand" />
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
 	<item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />	
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.beta.page.PageActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
     	<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="wordpress" />
-   	<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}" drawable="wordpress" />  
+   	<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}" drawable="wordpress" />
 	<item component="ComponentInfo{org.xbmc.android.remote/org.xbmc.android.remote.presentation.activity.HomeActivity}" drawable="xbmc" />
 
 	<!-- Apps version 0.2 -->
-	
+
 	<item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin"  />
 	<item component="ComponentInfo{com.veken0m.bitcoinium/com.veken0m.bitcoinium.MainActivity}" drawable="bitconium"  />
 	<item component="ComponentInfo{com.coinbase.android.merchant/com.coinbase.android.MainActivity}" drawable="coinbase"  />
@@ -521,14 +521,14 @@
 	<item component="ComponentInfo{be.uhasselt.privacypolice/be.uhasselt.privacypolice.PreferencesActivity}" drawable="wppolice"  />
 	<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.MainActivity}" drawable="satstat"  />
 	<item component="ComponentInfo{com.csipsimple/com.csipsimple.ui.SipHome}" drawable="csipsimple"  />
-	
+
 	<!-- Apps version 0.3 -->
 
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway"  />
 	<item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera"  />
 	<item component="ComponentInfo{info.guardianproject.otr.app.im/info.guardianproject.otr.app.im.app.WelcomeActivity}" drawable="chatsecure"  />
 	<item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="documentviewer"  />
-	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentreader"  />	
+	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocumentreader"  />
 	<item component="ComponentInfo{com.googlecode.droidwall.free/com.googlecode.droidwall.free.MainActivity}" drawable="droidwall"  />
 	<item component="ComponentInfo{org.thialfihar.android.apg/org.thialfihar.android.apg.ui.KeyListActivity}" drawable="apg"  />
 	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity}" drawable="openkeychain"  />
@@ -570,7 +570,7 @@
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.ui.OrbotLogActivity}" drawable="orbot" />
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.SettingsPreferences}" drawable="orbot" />
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.settings.AppManager}" drawable="orbot" />
-	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotApp}" drawable="orbot" /> 
+	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotApp}" drawable="orbot" />
 	<item component="ComponentInfo{org.torproject.android/.Orbot}" drawable="orbot" />
 	<item component="ComponentInfo{org.torproject.android/.OrbotMainActivity}" drawable="orbot" />
 	<item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
@@ -878,5 +878,6 @@
 <item component="ComponentInfo{com.mendhak.gpslogger/.GpsMainActivity}" drawable="gpslogger" />
 <item component="ComponentInfo{net.nurik.roman.dashclock/com.google.android.apps.dashclock.configuration.ConfigurationLauncherActivity}" drawable="dashclock" />
 <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seadroid2" />
- 
+<item component="ComponentInfo{com.google.android.stardroid/.activities.SplashScreenActivity}" drawable="stardroid" />
+
  </resources>
