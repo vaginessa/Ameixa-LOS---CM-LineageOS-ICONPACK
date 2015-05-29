@@ -765,7 +765,6 @@
 <!-- ToDo -->
 <item component="ComponentInfo{info.guardianproject.gpg/info.guardianproject.gpg.MainActivity}" drawable="gnuprivacyguard"  />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor"  />
-<item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="stardroid"  />
 <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"  />
 <item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"  />
 
@@ -879,5 +878,14 @@
 <item component="ComponentInfo{net.nurik.roman.dashclock/com.google.android.apps.dashclock.configuration.ConfigurationLauncherActivity}" drawable="dashclock" />
 <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seadroid2" />
 <item component="ComponentInfo{com.google.android.stardroid/.activities.SplashScreenActivity}" drawable="stardroid" />
+<item component="ComponentInfo{dk.jens.backup/.OAndBackup}" drawable="oandbackup" />
+<item component="ComponentInfo{de.shandschuh.slightbackup/de.shandschuh.slightbackup.BackupActivity}" drawable="slightbackup" />
+<item component="ComponentInfo{com.tobykurien.batteryfu/.ModeSelect}" drawable="batteryfu" />
+<item component="ComponentInfo{com.frozendevs.cache.cleaner/.activity.CleanerActivity}" drawable="cachecleaner" />
+<item component="ComponentInfo{org.cprados.wificellmanager/.ui.Preferences}" drawable="wifimatic" />
+<item component="ComponentInfo{com.danielkim.soundrecorder/.activities.MainActivity}" drawable="soundrecorder" />
+<item component="ComponentInfo{ar.rulosoft.mimanganu/.ActivityMisMangas}" drawable="mimanganu" />
+<item component="ComponentInfo{com.musenkishi.wally/.activities.MainActivity}" drawable="wally" />
+<item component="ComponentInfo{net.somethingdreadful.MAL/.Home}" drawable="atarashii" />
 
  </resources>
