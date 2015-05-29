@@ -23,11 +23,24 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 * If you are looking for an icon template or some howtos, please go to the [**wiki**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
 * For issues, comments or icon request, please use the [**issue tracker**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
 
-## Snapshots ([some more here](snapshots))
+## Snapshots
 
-![homescreen](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/e45daaa73cb8786ccfddd9f5dc6ff37f/homescreen.png) ![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/361f605128e6604fa203d0e4d0096fce/settingsapps.png)
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/97c6faf3cad4619e8079327a5e3d3ac4/Screenshot_2015-05-23-07-53-03.png" 
+alt="with a dark background" width="350" />
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/b0ef81d60e8f4470e41cfec54c4a85b0/Screenshot_2015-05-23-21-03-30.png" 
+alt="into apex launcher" width="350" />
 
-![fennecshare](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/d7249cbcda57e107dae9dc4940dbee0d/fennecshare.png) ![insideosmonitor](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/96ba392b939b9c9ac9028a5540d410a0/insideosmonitor.png)
+
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/081953c26fe1f8d30276f1d16bb0f672/Screenshot_2015-05-22-10-51-04.png" 
+alt="light background" width="350" />
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/cec2077cb5bb09008b98d7c8681af67c/Screenshot_2015-05-22-23-47-06.png" 
+alt="apps settings" width="350" />
+
+
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/7da05d06b5f047f1765a398538f80d80/Screenshot_2015-05-23-00-01-39.png" 
+alt="share feneec" width="350" />
+<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/a49b1be4708a70c2e3c554342ba21edb/Screenshot_2015-05-22-23-55-18.png" 
+alt="inside afw++" width="350" />
 
 ## License 
 
