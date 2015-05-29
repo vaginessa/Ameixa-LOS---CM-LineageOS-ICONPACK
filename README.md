@@ -16,14 +16,14 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 
 #### [Changelog](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CHANGELOG.md)
 
-* If you are looking for an icon template or some howtos, please go to the [**wiki**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
-* For issues, comments or icon request, please use the [**issue tracker**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
-
 
 
 [![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.twelf.cmtheme)
 
-## Snapshots
+* If you are looking for an icon template or some howtos, please go to the [**wiki**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
+* For issues, comments or icon request, please use the [**issue tracker**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
+
+## Snapshots ([some more here](snapshots))
 
 ![homescreen](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/e45daaa73cb8786ccfddd9f5dc6ff37f/homescreen.png) ![settingsapps](https://gitlab.com/xphnx/twelf_cm12_theme/uploads/361f605128e6604fa203d0e4d0096fce/settingsapps.png)
 
