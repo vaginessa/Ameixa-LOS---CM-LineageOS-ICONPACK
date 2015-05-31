@@ -640,7 +640,7 @@
     <item component="ComponentInfo{cz.hejl.chesswalk/cz.hejl.chesswalk.MainActivity}" drawable="chesswalk"  />
     <item component="ComponentInfo{be.ppareit.swiftp_free/be.ppareit.swiftp.gui.FsPreferenceActivity}" drawable="ftpserver"  />
     <item component="ComponentInfo{be.ppareit.swiftp/be.ppareit.swiftp.gui.FsPreferenceActivity}" drawable="ftpserver"  />
-    <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightningbrowser"  />
+    <item component="ComponentInfo{acr.browser.lightning/.activity.MainActivity}" drawable="lightningbrowser"  />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.BrowserActivity}" drawable="lightningbrowser"  />
     <item component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.MainActivity}" drawable="lightningbrowser"  />
     <item component="ComponentInfo{acr.browser.barebones/acr.browser.barebones.activities.BrowserActivity}" drawable="lightningbrowser"  />
