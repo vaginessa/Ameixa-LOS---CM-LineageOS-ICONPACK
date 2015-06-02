@@ -1,6 +1,6 @@
 **v1.3**
 
-New icons: portauthority, vespucci, keypadmapper, wheelmap, miniopenwlanmap, openwlanmap, mozillastumbler, radiobeacon, yubico, wallabag, jamendo, wikimedia, wiktionary, sgit, agit, dashclock, cidrcalc, repay, contactmerger, callerid, timeriffic, worktime, openredmine, puma, disablemanager, applicationsinfo, gpslogger
+New icons: portauthority, vespucci, keypadmapper, wheelmap, miniopenwlanmap, openwlanmap, mozillastumbler, radiobeacon, yubico, wallabag, jamendo, wikimedia, wiktionary, sgit, agit, dashclock, cidrcalc, repay, contactmerger, callerid, timeriffic, worktime, openredmine, puma, disablemanager, applicationsinfo, gpslogger, orfox, beamshare, 
 
 Tweak icons: smssecure, conversations
 
