@@ -912,6 +912,8 @@
     <item component="ComponentInfo{com.musenkishi.wally/.activities.MainActivity}" drawable="wally" />
     <item component="ComponentInfo{net.somethingdreadful.MAL/.Home}" drawable="atarashii" />
     <item component="ComponentInfo{com.jparkie.aizoban/.views.activities.SplashActivity}" drawable="aizoban" />
-    <item component="ComponentInfo{com.javiersantos.mlmanager/.MainActivity}" drawable="mlmanager" />
+<item component="ComponentInfo{com.javiersantos.mlmanager/.MainActivity}" drawable="mlmanager" />
+<item component="ComponentInfo{org.mozilla.fennec_amoghbl1/.App}" drawable="orfox" />
+<item component="ComponentInfo{org.mozilla.fennec_amoghbl1/org.mozilla.gecko.BrowserApp}" drawable="orfox" />
 
  </resources>
