@@ -1,3 +1,3 @@
-1. Place here the svgs to be included in the next update.
-2. Run the script (/tools/svgs_to_pngs.sh). It generates proper pngs from svgs and move* the svg used to "depot". (*under construction)
+1. Place the svgs to be included in the next update here.
+2. (Optional) Run the script (proccess_wipsvg.sh). It generates proper pngs from each svg and move from "wip" to "depot".
 
