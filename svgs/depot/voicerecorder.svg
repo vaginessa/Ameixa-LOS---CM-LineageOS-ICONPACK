@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="voicerecorder.svg"
-   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/alarm.png"
+   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
   <title
@@ -1034,14 +1034,6 @@
        x2="23.625"
        y2="1029.2997"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter6206">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.658125"
-         id="feGaussianBlur6208" />
-    </filter>
     <linearGradient
        id="linearGradient3783-1">
       <stop
@@ -1859,6 +1851,15 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter6206-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.658125"
+         id="feGaussianBlur6208-9" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1867,9 +1868,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="13.241332"
-     inkscape:cy="13.383153"
+     inkscape:zoom="22.627418"
+     inkscape:cx="8.4222163"
+     inkscape:cy="15.389953"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1900,13 +1901,13 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Twelf Icon Template</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>xphnx</dc:title>
           </cc:Agent>
         </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -1935,11 +1936,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="opacity:0.2;fill:#bf360c;fill-opacity:1;stroke:none;filter:url(#filter6206)"
-       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       id="rect6141"
+       transform="matrix(1.0107072,0,0,0.99762402,-0.08787494,2.579008)"
        inkscape:connector-curvature="0"
-       transform="matrix(1.0107072,0,0,0.99762402,-0.19576487,2.5747037)" />
+       id="rect6141-3"
+       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
+       style="display:inline;opacity:0.2;fill:#bf360c;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
        style="display:inline;opacity:1;fill:#ff9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
@@ -2324,9 +2325,9 @@
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <path
        id="path3769"
-       d="m 13.475,6.7543276 a 2.1223177,2.1223177 0 0 1 2.122318,2.1223182 l 0,4.2446352 A 2.1223177,2.1223177 0 0 1 13.475,15.243599 2.1223177,2.1223177 0 0 1 11.352683,13.121281 l 0,-4.2446352 A 2.1223177,2.1223177 0 0 1 13.475,6.7543276 m 4.952074,6.3669534 c 0,2.49726 -1.846416,4.555908 -4.244635,4.902553 l 0,2.171839 -1.414878,0 0,-2.171839 C 10.369342,17.677189 8.5229266,15.618541 8.5229266,13.121281 l 1.4148781,0 A 3.5371963,3.5371963 0 0 0 13.475,16.658478 3.5371963,3.5371963 0 0 0 17.012195,13.121281 l 1.414879,0 z"
+       d="m 13.475,6.7543279 a 2.1223177,2.1223177 0 0 1 2.122318,2.122318 l 0,4.2446351 A 2.1223177,2.1223177 0 0 1 13.475,15.243599 2.1223177,2.1223177 0 0 1 11.352683,13.121281 l 0,-4.2446351 A 2.1223177,2.1223177 0 0 1 13.475,6.7543279 m 4.952074,6.3669531 c 0,2.49726 -1.846416,4.555908 -4.244635,4.902553 l 0,2.171839 -1.414878,0 0,-2.171839 C 10.369342,17.677189 8.5229269,15.618541 8.5229269,13.121281 l 1.414878,0 A 3.5371963,3.5371963 0 0 0 13.475,16.658478 3.5371963,3.5371963 0 0 0 17.012195,13.121281 l 1.414879,0 z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="display:inline;fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2335,27 +2336,27 @@
      style="display:none"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06598354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4387-7-8"
-       width="11.633125"
-       height="11.633125"
-       x="7.6584377"
-       y="-19.291563"
+       width="12.281516"
+       height="12.281517"
+       x="7.3342423"
+       y="-19.615759"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="8.5768757" />
+       width="13.404759"
+       height="10.72601"
+       x="6.7726207"
+       y="8.1119957" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862-6"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="-18.373125"
+       width="13.404759"
+       height="10.726009"
+       x="6.7726207"
+       y="-18.838005"
        transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>

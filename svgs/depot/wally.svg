@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="wally.svg"
-   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/alarm.png"
+   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
   <title
@@ -1034,14 +1034,6 @@
        x2="23.625"
        y2="1029.2997"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter6206">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.658125"
-         id="feGaussianBlur6208" />
-    </filter>
     <linearGradient
        id="linearGradient3783-1">
       <stop
@@ -1859,6 +1851,15 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter6206-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.658125"
+         id="feGaussianBlur6208-9" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1867,11 +1868,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="11.009574"
-     inkscape:cy="14.795937"
+     inkscape:zoom="16.000001"
+     inkscape:cx="12.355088"
+     inkscape:cy="12.193852"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1900,13 +1901,13 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Twelf Icon Template</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>xphnx</dc:title>
           </cc:Agent>
         </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -1935,11 +1936,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206)"
-       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       id="rect6141"
+       transform="matrix(1.0107072,0,0,0.99762402,-0.08787494,2.579008)"
        inkscape:connector-curvature="0"
-       transform="matrix(1.0107072,0,0,0.99762402,-0.19576487,2.5747037)" />
+       id="rect6141-3"
+       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
+       style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
        style="display:inline;opacity:1;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
@@ -2324,9 +2325,9 @@
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <path
        id="path3769"
-       d="m 15.399991,17.966643 -3.849978,-1.35391 0,-7.629374 3.849978,1.353909 m 3.529148,-2.637235 c -0.0385,0 -0.07058,0 -0.102671,0 L 15.399988,9.0475256 11.550008,7.700033 7.931029,8.9191922 C 7.7962804,8.9641152 7.7000303,9.0796089 7.7000303,9.2271904 l 0,9.7019466 a 0.32083158,0.32083158 0 0 0 0.3208311,0.320832 c 0.032088,0 0.070583,0 0.10267,-0.01925 l 3.4264816,-1.328242 3.849978,1.347493 3.618981,-1.219161 c 0.134749,-0.06416 0.230998,-0.160415 0.230998,-0.307998 l 0,-9.7019462 a 0.32083158,0.32083158 0 0 0 -0.320831,-0.320834 z"
+       d="m 15.503111,18.207255 -4.056217,-1.426437 0,-8.0380722 4.056217,1.4264362 m 3.718201,-2.7785087 c -0.04056,0 -0.07436,0 -0.108171,0 L 15.503108,8.8103497 11.446888,7.3906733 7.6340447,8.6751416 C 7.4920777,8.7224711 7.3906716,8.8441517 7.3906716,8.999639 l 0,10.22167 a 0.3380182,0.3380182 0 0 0 0.3380177,0.338019 c 0.033807,0 0.074364,0 0.1081699,-0.02028 l 3.6100348,-1.399395 4.056217,1.419677 3.812846,-1.28447 c 0.141967,-0.0676 0.243372,-0.169008 0.243372,-0.324497 l 0,-10.2216702 A 0.3380182,0.3380182 0 0 0 19.221312,7.390671 Z"
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="display:inline;fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2335,27 +2336,27 @@
      style="display:none"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06598354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4387-7-8"
-       width="11.633125"
-       height="11.633125"
-       x="7.6584377"
-       y="-19.291563"
+       width="12.281516"
+       height="12.281517"
+       x="7.3342423"
+       y="-19.615759"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="8.5768757" />
+       width="13.404759"
+       height="10.72601"
+       x="6.7726207"
+       y="8.1119957" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862-6"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="-18.373125"
+       width="13.404759"
+       height="10.726009"
+       x="6.7726207"
+       y="-18.838005"
        transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
