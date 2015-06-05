@@ -21,8 +21,10 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 
 [![Get_it_on_F-Droid.svg](https://gitlab.com/uploads/xphnx/twelf_cm12_theme/a4649863bd/Get_it_on_F-Droid.svg.png)](https://f-droid.org/app/org.twelf.cmtheme)
 
-##### * If you are looking for an icon template or some howtos, please go to the [**wiki**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
-##### * For issues, comments or icon request, please use the [**issue tracker**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
+## More info
+
+ * If you are looking for an icon template or some howtos, go to the [**WIKI**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
+ * For issues, comments or icon request, please use the [**ISSUE TRACKER**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
 
 ## Snapshots
 
