@@ -20,7 +20,7 @@
 <resources>
 
 <!-- Set deafult scale factor for the icons -->
-<scale factor="1.0" />
+<scale factor="0.8" />
 <iconback img1="iconback" />
 <iconmask img1="iconmask" />
 <iconupon img1="iconupon" />
@@ -297,18 +297,12 @@
 <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}" drawable="downloads" />
 <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
-<item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="mail" />
 <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
-<item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager.ics/com.cyanogenmod.filemanager.ics.activities.NavigationActivity}" drawable="filemanager" />
-<item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="filemanager" />
-<item component="ComponentInfo{com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity}" drawable="filemanager" />
-<item component="ComponentInfo{org.openintents.cmfilemanager/org.openintents.cmfilemanager.FileManagerActivity}" drawable="filemanager" />
-<item component="ComponentInfo{org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.themes.ThemeActivity}" drawable="filemanager" />
-<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ShortcutActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ShortcutActivity}" drawable="filemanagersc" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.ChangeLogActivity}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.preferences.SettingsPreferences}" drawable="filemanager" />
 <item component="ComponentInfo{com.cyanogenmod.filemanager/.activities.PickerActivity}" drawable="filemanager" />

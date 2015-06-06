@@ -1,6 +1,6 @@
 **v1.4**
 
-cmfilemanagerlink,
+hotfix for install
 
 **v1.3**
 
