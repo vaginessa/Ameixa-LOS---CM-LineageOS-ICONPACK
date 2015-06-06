@@ -1,6 +1,6 @@
 **v1.4**
 
-hotfix for install
+hotfix
 
 **v1.3**
 
