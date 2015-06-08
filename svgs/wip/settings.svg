@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="superuser.svg"
+   sodipodi:docname="settings.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1869,10 +1869,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="18.39556"
-     inkscape:cy="7.7309326"
+     inkscape:cx="14.60336"
+     inkscape:cy="11.655222"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4084"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1940,9 +1940,9 @@
        inkscape:connector-curvature="0"
        id="rect6141-3"
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
+       style="display:inline;opacity:0.2;fill:#212121;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2304,7 +2304,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.2;fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.015101,1049.5722 c 0.621799,0 1.123,-0.5012 1.123,-1.123 l 0,-0.3125 c 0,0.6218 -0.5012,1.123 -1.123,1.123 l -19.0821005,0 c -0.6218,0 -1.1230005,-0.5012 -1.1230005,-1.123 l 0,0.3125 c 0,0.6218 0.5012005,1.123 1.1230005,1.123 l 19.0821005,0 z"
        id="rect4731-2" />
   </g>
@@ -2313,17 +2313,6 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.74289131px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="8.0296783"
-       y="20.137512"
-       id="text3763"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3765"
-         x="8.0296783"
-         y="20.137512">#</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4698"
@@ -2335,19 +2324,72 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <g
-       id="g3856"
-       transform="translate(2.8062499,-1.68375)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="4.4899998"
-         y="13.480001"
-         id="text3759"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3761"
-           x="4.4899998"
-           y="13.480001"></tspan></text>
+       style="visibility:visible;fill:#757575;fill-opacity:1;fill-rule:evenodd"
+       visibility="visible"
+       id="Default"
+       transform="matrix(0.03797735,0,0,0.03797735,-78.294294,-51.75723)">
+      <desc
+         id="desc5815">Master slide</desc>
+    </g>
+    <g
+       id="g4084"
+       transform="translate(-1.8530272e-8,0.56125048)">
+      <g
+         id="page1"
+         visibility="visible"
+         style="visibility:visible;fill:#757575;fill-opacity:1;fill-rule:evenodd"
+         transform="matrix(0.03797735,0,0,0.03797735,-287.86894,-47.638951)">
+        <desc
+           id="desc5818">Slide</desc>
+        <g
+           id="g5820"
+           transform="translate(5000.3074,277.12547)"
+           style="fill:#757575;fill-opacity:1">
+          <desc
+             id="desc5822">Drawing</desc>
+          <g
+             id="g5824"
+             style="fill:#757575;fill-opacity:1">
+            <g
+               id="g5826"
+               style="fill:#757575;fill-opacity:1;stroke:none" />
+            <g
+               id="g5830"
+               style="fill:#757575;fill-opacity:1" />
+          </g>
+        </g>
+        <g
+           id="g5832"
+           transform="translate(5000.3074,277.12547)"
+           style="fill:#757575;fill-opacity:1">
+          <desc
+             id="desc5834">Drawing</desc>
+          <g
+             id="g5836"
+             style="fill:#757575;fill-opacity:1">
+            <g
+               id="g5838"
+               style="fill:#757575;fill-opacity:1;stroke:none" />
+            <g
+               id="g5842"
+               style="fill:#757575;fill-opacity:1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g5933"
+         transform="matrix(0.26439908,0,0,0.26439908,7.2351291,6.4595524)">
+        <path
+           id="path5923"
+           d="M 0,0 48,0 48,48 0,48 Z"
+           inkscape:connector-curvature="0"
+           style="fill:none" />
+        <path
+           id="path5925"
+           d="m 42.541578,26.897231 c 0.102007,-0.816054 0.178511,-1.644859 0.178511,-2.486415 0,-0.841556 -0.07651,-1.67036 -0.178511,-2.486414 l 5.393606,-4.220529 c 0.484533,-0.382526 0.624792,-1.071071 0.30602,-1.632107 L 43.140867,7.235431 C 42.822097,6.6871448 42.159052,6.4576296 41.585265,6.6871448 l -6.34992,2.5629195 C 33.922008,8.2427476 32.481162,7.3884411 30.92556,6.7381481 l -0.956314,-6.7579468 c -0.114757,-0.59928978 -0.637541,-1.071071 -1.275084,-1.071071 l -10.200675,0 c -0.637542,0 -1.160326,0.47178122 -1.262333,1.071071 L 16.27484,6.7381481 c -1.555602,0.650293 -2.996448,1.4918486 -4.309784,2.5119162 L 5.6151359,6.6871448 c -0.5737875,-0.2167643 -1.2368319,0 -1.5556025,0.5482862 l -5.1003373,8.836335 c -0.3187711,0.548285 -0.1785119,1.236831 0.30602023,1.632107 l 5.38085617,4.220529 c -0.1020074,0.816054 -0.1785117,1.644858 -0.1785117,2.486414 0,0.841556 0.076507,1.670361 0.1785117,2.486415 L -0.73478367,31.11776 C -1.2193158,31.500286 -1.359575,32.188831 -1.0408039,32.749868 l 5.1003373,8.836334 c 0.3187706,0.548286 0.981815,0.777802 1.5556025,0.548286 l 6.3499201,-2.562919 c 1.313336,1.007317 2.754182,1.861623 4.309784,2.511916 l 0.956314,6.757947 c 0.102007,0.59929 0.624791,1.071071 1.262333,1.071071 l 10.200675,0 c 0.637543,0 1.160327,-0.471781 1.262333,-1.071071 l 0.956314,-6.757947 c 1.555603,-0.650293 2.996448,-1.491849 4.309785,-2.511916 l 6.34992,2.562919 c 0.573788,0.216765 1.236832,0 1.555603,-0.548286 l 5.100337,-8.836334 c 0.318771,-0.548286 0.178511,-1.236832 -0.30602,-1.632108 l -5.380856,-4.220529 z m -18.947754,6.439176 c -4.934576,0 -8.925589,-3.991015 -8.925589,-8.925591 0,-4.934576 3.991013,-8.925589 8.925589,-8.925589 4.934577,0 8.925591,3.991013 8.925591,8.925589 0,4.934576 -3.991014,8.925591 -8.925591,8.925591 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
     </g>
   </g>
   <g

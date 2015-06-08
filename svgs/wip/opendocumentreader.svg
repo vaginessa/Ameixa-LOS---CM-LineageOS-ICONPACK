@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="superuser.svg"
+   sodipodi:docname="opendocumentreader.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1869,10 +1869,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="18.39556"
-     inkscape:cy="7.7309326"
+     inkscape:cx="14.60336"
+     inkscape:cy="11.655222"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4084"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1940,9 +1940,9 @@
        inkscape:connector-curvature="0"
        id="rect6141-3"
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
+       style="display:inline;opacity:0.2;fill:#212121;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2304,7 +2304,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.2;fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.015101,1049.5722 c 0.621799,0 1.123,-0.5012 1.123,-1.123 l 0,-0.3125 c 0,0.6218 -0.5012,1.123 -1.123,1.123 l -19.0821005,0 c -0.6218,0 -1.1230005,-0.5012 -1.1230005,-1.123 l 0,0.3125 c 0,0.6218 0.5012005,1.123 1.1230005,1.123 l 19.0821005,0 z"
        id="rect4731-2" />
   </g>
@@ -2313,17 +2313,6 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.74289131px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="8.0296783"
-       y="20.137512"
-       id="text3763"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3765"
-         x="8.0296783"
-         y="20.137512">#</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4698"
@@ -2335,19 +2324,63 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <g
-       id="g3856"
-       transform="translate(2.8062499,-1.68375)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="4.4899998"
-         y="13.480001"
-         id="text3759"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3761"
-           x="4.4899998"
-           y="13.480001"></tspan></text>
+       style="visibility:visible;fill:#757575;fill-opacity:1;fill-rule:evenodd"
+       visibility="visible"
+       id="Default"
+       transform="matrix(0.03797735,0,0,0.03797735,-78.294294,-51.75723)">
+      <desc
+         id="desc5815">Master slide</desc>
+    </g>
+    <g
+       id="g4084"
+       transform="translate(-1.8530272e-8,0.56125048)">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 9.4453125 6.7597656 C 8.6999881 6.7597656 8.1035156 7.3582156 8.1035156 8.1035156 L 8.1035156 18.847656 C 8.1035156 19.586156 8.6999881 20.189453 9.4453125 20.189453 L 17.503906 20.189453 C 18.207052 20.189453 18.847642 19.550756 18.847656 18.847656 L 18.847656 10.789062 L 14.818359 6.7597656 L 9.4453125 6.7597656 z M 14.146484 7.7675781 L 17.839844 11.460938 L 14.146484 11.460938 L 14.146484 7.7675781 z M 15.494141 15.263672 L 15.785156 15.273438 L 16.089844 15.306641 L 16.40625 15.365234 L 16.734375 15.451172 L 17.072266 15.564453 L 17.417969 15.712891 L 17.283203 15.695312 L 17.117188 15.683594 L 16.925781 15.683594 L 16.714844 15.697266 L 16.234375 15.751953 L 15.712891 15.857422 L 15.171875 16.017578 L 14.902344 16.119141 L 14.638672 16.234375 L 14.386719 16.367188 L 14.146484 16.515625 L 13.923828 16.679688 L 13.722656 16.863281 L 13.533203 16.716797 L 13.332031 16.585938 L 13.126953 16.470703 L 12.910156 16.373047 L 12.683594 16.292969 L 12.447266 16.224609 L 12.201172 16.175781 L 11.947266 16.142578 L 11.681641 16.123047 L 11.40625 16.121094 L 11.121094 16.136719 L 10.826172 16.164062 L 10.201172 16.273438 L 9.53125 16.443359 L 9.5976562 16.363281 L 9.671875 16.285156 L 9.8496094 16.142578 L 10.058594 16.013672 L 10.296875 15.902344 L 10.556641 15.806641 L 10.835938 15.728516 L 11.126953 15.666016 L 11.431641 15.621094 L 11.738281 15.591797 L 12.042969 15.580078 L 12.345703 15.585938 L 12.638672 15.611328 L 12.917969 15.652344 L 13.175781 15.710938 L 13.414062 15.787109 L 13.621094 15.884766 L 13.703125 15.798828 L 13.8125 15.710938 L 13.949219 15.625 L 14.107422 15.544922 L 14.289062 15.466797 L 14.492188 15.400391 L 14.714844 15.34375 L 14.958984 15.300781 L 15.216797 15.273438 L 15.494141 15.263672 z "
+         transform="translate(1.8530272e-8,-0.56125048)"
+         id="path4891" />
+      <g
+         id="page1"
+         visibility="visible"
+         style="visibility:visible;fill:#757575;fill-opacity:1;fill-rule:evenodd"
+         transform="matrix(0.03797735,0,0,0.03797735,-287.86894,-47.638951)">
+        <desc
+           id="desc5818">Slide</desc>
+        <g
+           id="g5820"
+           transform="translate(5000.3074,277.12547)"
+           style="fill:#757575;fill-opacity:1">
+          <desc
+             id="desc5822">Drawing</desc>
+          <g
+             id="g5824"
+             style="fill:#757575;fill-opacity:1">
+            <g
+               id="g5826"
+               style="fill:#757575;fill-opacity:1;stroke:none" />
+            <g
+               id="g5830"
+               style="fill:#757575;fill-opacity:1" />
+          </g>
+        </g>
+        <g
+           id="g5832"
+           transform="translate(5000.3074,277.12547)"
+           style="fill:#757575;fill-opacity:1">
+          <desc
+             id="desc5834">Drawing</desc>
+          <g
+             id="g5836"
+             style="fill:#757575;fill-opacity:1">
+            <g
+               id="g5838"
+               style="fill:#757575;fill-opacity:1;stroke:none" />
+            <g
+               id="g5842"
+               style="fill:#757575;fill-opacity:1" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
   <g

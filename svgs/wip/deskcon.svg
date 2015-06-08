@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="superuser.svg"
+   sodipodi:docname="deskcon.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1868,11 +1868,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="18.39556"
-     inkscape:cy="7.7309326"
+     inkscape:zoom="11.313709"
+     inkscape:cx="5.4551852"
+     inkscape:cy="13.22262"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4993"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1942,7 +1942,7 @@
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
        style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#4caf50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2313,17 +2313,6 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.74289131px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="8.0296783"
-       y="20.137512"
-       id="text3763"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3765"
-         x="8.0296783"
-         y="20.137512">#</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4698"
@@ -2335,19 +2324,23 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <g
-       id="g3856"
-       transform="translate(2.8062499,-1.68375)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="4.4899998"
-         y="13.480001"
-         id="text3759"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3761"
-           x="4.4899998"
-           y="13.480001"></tspan></text>
+       transform="matrix(0.98689456,0,0,0.98689456,0.17659599,-1010.4581)"
+       id="g4993">
+      <g
+         id="g8012"
+         transform="matrix(0.04703644,0,0,0.04703644,9.4086766,1034.4255)"
+         style="fill:#33691e;fill-opacity:1">
+        <g
+           id="g4996">
+          <g
+             id="g4990" />
+        </g>
+      </g>
+      <path
+         id="path4880"
+         d="m 18.987612,1040.2751 -2.458422,0 0,-4.3023 2.458422,0 m 0.614603,-1.2293 -3.68763,0 a 0.61460542,0.61460542 0 0 0 -0.614606,0.6144 l 0,6.1462 a 0.61460542,0.61460542 0 0 0 0.614606,0.6147 l 3.68763,0 a 0.61460542,0.61460542 0 0 0 0.614606,-0.6147 l 0,-6.1462 a 0.61460542,0.61460542 0 0 0 -0.614606,-0.6144 m -11.6775017,-1.2293 11.0628987,0 0,-1.229 -11.0628987,0 a 1.2292109,1.2292109 0 0 0 -1.2292105,1.229 l 0,6.7609 -1.2292106,0 0,1.8437 8.6044748,0 0,-1.8437 -6.1460537,0 0,-6.7609 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
   </g>
   <g

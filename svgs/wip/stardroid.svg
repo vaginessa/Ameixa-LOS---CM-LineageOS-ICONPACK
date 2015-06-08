@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="superuser.svg"
+   sodipodi:docname="stardroid.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1869,8 +1869,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="18.39556"
-     inkscape:cy="7.7309326"
+     inkscape:cx="13.372"
+     inkscape:cy="12.595279"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1942,7 +1942,7 @@
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
        style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#03a9f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2313,17 +2313,6 @@
      id="layer2"
      inkscape:label="icon"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.74289131px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="8.0296783"
-       y="20.137512"
-       id="text3763"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3765"
-         x="8.0296783"
-         y="20.137512">#</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4698"
@@ -2335,19 +2324,70 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <g
-       id="g3856"
-       transform="translate(2.8062499,-1.68375)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="4.4899998"
-         y="13.480001"
-         id="text3759"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3761"
-           x="4.4899998"
-           y="13.480001"></tspan></text>
+       transform="matrix(0.90695687,0,0,0.90695687,1.298615,1.2453737)"
+       style="display:inline"
+       id="g3763">
+      <path
+         inkscape:transform-center-y="0.16319535"
+         inkscape:transform-center-x="-13.042941"
+         d="m 17.609878,14.703155 0.4396,-0.828468 -0.433256,-0.831804 0.923764,0.162074 0.657209,-0.669093 0.131317,0.928636 0.839434,0.418282 -0.842606,0.411854 -0.13841,0.927605 -0.652076,-0.674095 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="3.1454136"
+         sodipodi:arg1="2.5170951"
+         sodipodi:r2="0.70616108"
+         sodipodi:r1="1.4123222"
+         sodipodi:cy="13.877385"
+         sodipodi:cx="18.755634"
+         sodipodi:sides="5"
+         id="path3370"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="star" />
+      <circle
+         r="0.97544122"
+         cy="7.8098826"
+         cx="16.124537"
+         id="path4174"
+         style="fill:#ffffff;stroke:none" />
+      <circle
+         r="1.0786625"
+         cy="19.055382"
+         cx="12.036835"
+         id="path4196"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         inkscape:transform-center-y="-29.281516"
+         inkscape:transform-center-x="0.06832119"
+         d="m 12.215805,14.686242 -1.846531,-0.969084 -1.8451357,0.97174 0.3510444,-2.055619 -1.4943581,-1.454544 2.063489,-0.301358 0.9215714,-1.8706981 0.924262,1.8693701 2.06392,0.298389 -1.492263,1.456692 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5700769"
+         sodipodi:arg1="0.94175838"
+         sodipodi:r2="1.5701599"
+         sodipodi:r1="3.1403203"
+         sodipodi:cy="12.146998"
+         sodipodi:cx="10.368144"
+         sodipodi:sides="5"
+         id="path4198"
+         style="fill:#ffffff;stroke:none"
+         sodipodi:type="star" />
+      <path
+         id="path4200"
+         d="m 10.636511,8.2452251 a 3.9533755,3.9533755 0 0 0 -3.9533779,3.9533779 3.9533755,3.9533755 0 0 0 3.9533779,3.953378 3.9533755,3.9533755 0 0 0 3.953378,-3.953378 3.9533755,3.9533755 0 0 0 -3.953378,-3.9533779 z m -0.0051,1.2077054 a 2.7405253,2.7405253 0 0 1 2.740524,2.7405235 2.7405253,2.7405253 0 0 1 -2.740524,2.740523 2.7405253,2.7405253 0 0 1 -2.7405232,-2.740523 2.7405253,2.7405253 0 0 1 2.7405232,-2.7405235 z"
+         style="fill:#ffffff;stroke:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0.82313641,0.56784368,-0.56784368,0.82313641,0,0)"
+         ry="1.1830007"
+         rx="1.0140005"
+         y="2.9238317"
+         x="19.468771"
+         height="2.1969531"
+         width="7.5105138"
+         id="rect4225"
+         style="fill:#ffffff;stroke:none;stroke-opacity:1" />
     </g>
   </g>
   <g
