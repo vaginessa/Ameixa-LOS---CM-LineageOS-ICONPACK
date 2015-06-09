@@ -787,7 +787,7 @@
 
 <!-- v1.1 -->
 <item component="ComponentInfo{gpapez.sfen/gpapez.sfen.Main}" drawable="sfen" />
-<item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.Tutanota}" drawable="tutanota" />
+<item component="ComponentInfo{de.tutao.tutanota/.Tutanota}" drawable="tutanota" />
 <item component="ComponentInfo{org.thoughtcrime.redphone/org.thoughtcrime.redphone.ui.DialerActivity}" drawable="redphone" />
 <item component="ComponentInfo{org.synergy/org.synergy.Synergy}" drawable="synergy" />
 <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
