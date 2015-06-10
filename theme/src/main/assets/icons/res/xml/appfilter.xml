@@ -907,4 +907,14 @@
 <item component="ComponentInfo{org.mozilla.fennec_amoghbl1/.App}" drawable="orfox" />
 <item component="ComponentInfo{org.mozilla.fennec_amoghbl1/org.mozilla.gecko.BrowserApp}" drawable="orfox" />
 
+<!-- v2.0-->
+<item component="ComponentInfo{genius.mohammad.floating.stickies/.MainActivity}" drawable="floatingstickies" />
+<item component="ComponentInfo{com.SecUpwN.AIMSICD/.AIMSICD}" drawable="imsicatcher" />
+<item component="ComponentInfo{vu.de.urpool.quickdroid/.Quickdroid}" drawable="quickdroid" />
+<item component="ComponentInfo{za.co.lukestonehm.logicaldefence/.MainActivity}" drawable="logicaldefence" />
+<item component="ComponentInfo{com.caf.fmradio/.FMRadio}" drawable="fmradio" />
+<item component="ComponentInfo{com.caf.fmradio/.FMTransmitterActivity}" drawable="fmradio" />
+<item component="ComponentInfo{com.btmura.android.reddit/.MainActivity}" drawable="ffreddit" />
+<item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
+
  </resources>
