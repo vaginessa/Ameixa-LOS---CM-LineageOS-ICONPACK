@@ -1,7 +1,11 @@
-<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/6048c19d11fa071bf67704eb50c9f120/wiki_icon.png" 
-alt="wiki_icon" width="66" />   <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/dd41251de5768e0f2e96460d5b6483f0/issues_icon.png" 
-alt="issues_icon" width="66" />   <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/91a9e58e936fd4e89fadff451a75b068/faq_icon.png" 
-alt="faq_icon" width="66" />
+[<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/6048c19d11fa071bf67704eb50c9f120/wiki_icon.png" 
+alt="wiki_icon" width="66" />](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
+
+[<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/dd41251de5768e0f2e96460d5b6483f0/issues_icon.png" 
+alt="issues_icon" width="66" />](https://gitlab.com/xphnx/twelf_cm12_theme/issues)
+
+[<img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/91a9e58e936fd4e89fadff451a75b068/faq_icon.png" 
+alt="faq_icon" width="66" />](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/faq)
 
 # TwelF - CM12 FLOSS Theme
 
