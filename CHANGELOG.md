@@ -1,3 +1,19 @@
+**v2.0**
+
+New icons: ffreddit, overchan, floating stickies, imsicatcher, quickdroid, logicaldefense, fmradio
+
+Fix icon: tutanota
+
+New bootanimation
+
+New ringtone
+
+General icons revamping 
+
+Shipping svgs
+
+Tweak theme icon
+
 **v1.4**
 
 hotfix
