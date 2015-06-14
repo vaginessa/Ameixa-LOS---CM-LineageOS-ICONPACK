@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="opentraining.svg"
+   sodipodi:docname="lildebi.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1868,11 +1868,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="20.640464"
-     inkscape:cy="9.4363145"
+     inkscape:zoom="16.000001"
+     inkscape:cx="24.219454"
+     inkscape:cy="10.355116"
      inkscape:document-units="pt"
-     inkscape:current-layer="g3827"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1942,7 +1942,7 @@
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
        style="display:inline;opacity:0.2;fill:#3e2723;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#ff5722;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2323,62 +2323,12 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <g
-       transform="translate(-0.01425742,-1025.4122)"
-       id="g3586">
-      <g
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         transform="matrix(-1.0159952,0,0,1.0159952,25.759471,-25.867401)"
-         id="g4341-3">
-        <g
-           id="g3827"
-           transform="translate(17.616854,-0.30448884)">
-          <g
-             id="g4646">
-            <rect
-               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765"
-               width="1.104828"
-               height="6.6289682"
-               x="-1.0695546"
-               y="1044.9817"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-8"
-               width="1.104828"
-               height="6.6289682"
-               x="11.044358"
-               y="1044.9817"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7"
-               width="1.104828"
-               height="8.8473873"
-               x="0.73109096"
-               y="1043.8726"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7-7"
-               width="1.104828"
-               height="8.8473873"
-               x="9.3131847"
-               y="1043.8726"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7-3"
-               width="1.6268088"
-               height="5.8894958"
-               x="1047.4828"
-               y="-8.4958611"
-               transform="matrix(0,1,1,0,0,0)" />
-          </g>
-        </g>
-      </g>
-    </g>
+         id="flowPara4704">your</flowPara></flowRoot>    <path
+       id="path6909"
+       d="m 17.775361,12.488397 c -0.27356,1.381253 -1.077247,1.97786 -2.218941,2.23111 -1.329336,0.16814 -2.875981,-0.609534 -2.956952,-1.885821 -0.06467,-0.819787 0.347438,-1.643183 1.095187,-1.979911 0.731357,-0.361843 1.588742,-0.213557 2.112257,0.275067 -0.287551,-0.376883 -0.860394,-0.776474 -1.538812,-0.739478 -0.664884,0.01083 -1.255806,0.55828 -1.494596,0.892126 -0.293614,0.245559 -0.208316,0.37343 -0.450354,0.844997 -0.25283,4.009615 4.714016,3.895347 5.991391,1.04513 C 19.223609,10.96776 18.421767,8.5370276 16.515101,7.4105481 15.528564,6.856191 15.035265,6.7834217 14.28775,6.7392633 c -0.201908,-0.011928 -0.697579,0.036173 -0.896292,0.00791 -1.286565,0.1320926 -2.269197,0.5213163 -2.789172,1.0386077 -1.2996772,1.1772906 -1.2483462,1.3201336 -1.7669872,2.286617 -1.7344591,3.706808 0.700591,8.96534 4.0797162,9.997559 0.374777,0.134299 0.93198,0.129488 1.406016,0.142722 -0.824692,-0.137108 -1.173937,-0.272951 -1.823654,-0.718122 -0.917631,-0.533287 -1.117288,-0.823614 -1.796133,-1.524381 -0.593294,-0.925282 -0.423671,-0.687933 -0.7339132,-1.164938 -1.041461,-2.297902 -1.476664,-4.122255 -0.498099,-6.07584 2.5998132,-4.6456395 7.8217532,-2.9811051 8.3465872,0.49297"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="ccccccccccscccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"

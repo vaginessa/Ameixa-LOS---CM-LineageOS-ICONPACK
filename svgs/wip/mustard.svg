@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="opentraining.svg"
+   sodipodi:docname="mustard.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1868,11 +1868,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="20.640464"
-     inkscape:cy="9.4363145"
+     inkscape:zoom="22.627418"
+     inkscape:cx="19.222382"
+     inkscape:cy="12.003163"
      inkscape:document-units="pt"
-     inkscape:current-layer="g3827"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -1940,9 +1940,9 @@
        inkscape:connector-curvature="0"
        id="rect6141-3"
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       style="display:inline;opacity:0.2;fill:#3e2723;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
+       style="display:inline;opacity:0.2;fill:#bf360c;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#ff5722;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffeb3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2304,7 +2304,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:0.2;fill:#3e2723;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.2;fill:#bf360c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 23.015101,1049.5722 c 0.621799,0 1.123,-0.5012 1.123,-1.123 l 0,-0.3125 c 0,0.6218 -0.5012,1.123 -1.123,1.123 l -19.0821005,0 c -0.6218,0 -1.1230005,-0.5012 -1.1230005,-1.123 l 0,0.3125 c 0,0.6218 0.5012005,1.123 1.1230005,1.123 l 19.0821005,0 z"
        id="rect4731-2" />
   </g>
@@ -2323,62 +2323,10 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <g
-       transform="translate(-0.01425742,-1025.4122)"
-       id="g3586">
-      <g
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         transform="matrix(-1.0159952,0,0,1.0159952,25.759471,-25.867401)"
-         id="g4341-3">
-        <g
-           id="g3827"
-           transform="translate(17.616854,-0.30448884)">
-          <g
-             id="g4646">
-            <rect
-               style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765"
-               width="1.104828"
-               height="6.6289682"
-               x="-1.0695546"
-               y="1044.9817"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-8"
-               width="1.104828"
-               height="6.6289682"
-               x="11.044358"
-               y="1044.9817"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7"
-               width="1.104828"
-               height="8.8473873"
-               x="0.73109096"
-               y="1043.8726"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7-7"
-               width="1.104828"
-               height="8.8473873"
-               x="9.3131847"
-               y="1043.8726"
-               transform="scale(-1,1)" />
-            <rect
-               style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="rect3765-7-3"
-               width="1.6268088"
-               height="5.8894958"
-               x="1047.4828"
-               y="-8.4958611"
-               transform="matrix(0,1,1,0,0,0)" />
-          </g>
-        </g>
-      </g>
-    </g>
+         id="flowPara4704">your</flowPara></flowRoot>    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 8.1269531 8.1308594 A 1.3369624 1.3369624 0 0 0 6.7910156 9.4667969 L 6.7910156 21.5 L 9.4648438 18.826172 L 18.822266 18.826172 A 1.3369624 1.3369624 0 0 0 20.160156 17.488281 L 20.160156 9.4667969 C 20.160156 8.7246969 19.557595 8.1308594 18.822266 8.1308594 L 8.1269531 8.1308594 z M 11.529297 9.3671875 C 11.572941 9.3597045 11.60952 9.3661594 11.634766 9.3886719 C 11.836729 9.5688718 11.298577 9.7449597 11.341797 10.630859 C 11.360776 11.019959 11.244738 11.322266 11.990234 11.322266 C 12.487699 11.322266 12.283509 10.878906 12.910156 10.878906 C 13.305069 10.878906 13.426218 11.141852 13.470703 11.341797 C 13.514798 11.141467 13.637557 10.878906 14.033203 10.878906 C 14.659853 10.878906 14.453707 11.322266 14.951172 11.322266 C 15.696669 11.322266 15.58063 11.019959 15.599609 10.630859 C 15.642829 9.7449601 15.10663 9.5688718 15.308594 9.3886719 C 15.333839 9.3661594 15.369014 9.3625785 15.412109 9.375 C 15.71378 9.4619503 16.379531 10.314641 16.398438 10.673828 C 16.427364 11.22353 16.426942 12.172101 15.076172 12.328125 C 15.413354 12.672269 15.610318 13.133232 15.685547 13.623047 L 14.570312 13.623047 C 14.416673 13.0459 14.109354 12.777344 13.533203 12.777344 C 13.225919 12.777344 12.958324 12.891604 12.804688 13.083984 C 12.574224 13.314843 12.535156 13.585359 12.535156 14.701172 C 12.535156 15.816987 12.574221 16.085546 12.804688 16.316406 C 12.958324 16.50879 13.225919 16.625 13.533203 16.625 C 13.840484 16.625 14.147797 16.50879 14.339844 16.316406 C 14.493486 16.085546 14.570312 15.854686 14.570312 15.546875 L 14.570312 15.316406 L 13.533203 15.316406 L 13.533203 14.392578 L 15.685547 14.392578 L 15.685547 15.240234 C 15.685547 16.048236 15.568991 16.547465 15.146484 16.970703 C 14.685556 17.470899 14.147764 17.625 13.533203 17.625 C 12.88023 17.625 12.381493 17.433005 11.958984 17.009766 C 11.382829 16.432619 11.382812 15.701558 11.382812 14.701172 C 11.382812 13.700787 11.382829 12.969725 11.958984 12.392578 C 11.978835 12.372693 12.001287 12.358875 12.021484 12.339844 C 10.520191 12.240225 10.542969 11.244231 10.542969 10.673828 C 10.542969 10.144453 11.223786 9.4195685 11.529297 9.3671875 z M 13.470703 11.695312 C 13.465948 11.709893 13.45166 11.729962 13.445312 11.746094 C 13.461531 11.745537 13.475774 11.742448 13.492188 11.742188 C 13.486552 11.727602 13.475019 11.708594 13.470703 11.695312 z "
+       id="path5614" />
   </g>
   <g
      inkscape:groupmode="layer"
