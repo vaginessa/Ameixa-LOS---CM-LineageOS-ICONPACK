@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="aizoban.svg"
-   inkscape:export-filename="/Users/dsbrooks/Work/zz_active/twelf_icons/aizoban/aizoban.png"
+   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
   <title
@@ -1034,14 +1034,6 @@
        x2="23.625"
        y2="1029.2997"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter6206">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.658125"
-         id="feGaussianBlur6208" />
-    </filter>
     <linearGradient
        id="linearGradient3783-1">
       <stop
@@ -1859,6 +1851,15 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter6206-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.658125"
+         id="feGaussianBlur6208-9" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1867,17 +1868,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="33.381358"
-     inkscape:cy="15.823748"
+     inkscape:zoom="16.000001"
+     inkscape:cx="16.474852"
+     inkscape:cy="13.963758"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
-     showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1035"
-     inkscape:window-x="5"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      units="px"
      showguides="false">
     <inkscape:grid
@@ -1900,13 +1901,13 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Twelf Icon Template</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>xphnx</dc:title>
           </cc:Agent>
         </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -1935,11 +1936,11 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="opacity:0.2;fill:#1a237e;fill-opacity:1;stroke:none;filter:url(#filter6206)"
-       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
-       id="rect6141"
+       transform="matrix(1.0107072,0,0,0.99762402,-0.08787494,2.579008)"
        inkscape:connector-curvature="0"
-       transform="matrix(1.0107072,0,0,0.99762402,-0.19576487,2.5747037)" />
+       id="rect6141-3"
+       d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
+       style="display:inline;opacity:0.2;fill:#1a237e;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
        style="display:inline;opacity:1;fill:#3f51b5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
@@ -2323,8 +2324,8 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 13.356999,6.7864578 c 0,0 -2.753178,-0.058814 -4.9722292,1.1542675 l 0.7695117,2.5138607 c 0,0 4.1125315,-1.8640767 5.5623115,-0.236773 0,0 0.295985,0.237023 0.355159,1.035882 0,0 -7.425093,-0.266648 -7.5730306,4.763202 -0.1479366,5.029851 5.5032756,4.143451 6.0062606,3.906751 0.502985,-0.236698 1.123052,-0.473822 1.862736,-1.361442 l 0.236773,1.331846 3.649632,0 c -0.05089,-0.03571 -0.18683,-0.574235 -0.18683,-5.445774 l 0,-2.987408 c 0,0 0.05924,-4.7335869 -5.710294,-4.6744122 z m 5.897124,13.1075942 c 0.01155,0.0082 0.02034,0 0.02034,0 l -0.02034,0 z m -4.778002,-6.119097 c 0.204996,-8.63e-4 0.425245,0.0067 0.658523,0.02404 l -0.01665,1.376242 c 0,0 0.22773,2.032439 -2.143904,2.173501 0,0 -1.570887,-0.0027 -1.568619,-1.627814 0,0 -0.0042,-1.933022 3.070647,-1.945976 z"
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.44873,6.8007444 c 0,0 -2.567235,-0.05881 -4.6364178,1.154267 l 0.717541,2.5138606 c 0,0 3.8347828,-1.8640766 5.1866478,-0.236773 0,0 0.275995,0.237023 0.331173,1.035882 0,0 -6.9236225,-0.266648 -7.0615689,4.763202 -0.1379453,5.029851 5.1315979,4.143451 5.6006129,3.906751 0.469016,-0.236698 1.047204,-0.473822 1.736932,-1.361442 l 0.220782,1.331846 3.403147,0 c -0.04745,-0.03571 -0.174212,-0.574235 -0.174212,-5.445774 l 0,-2.987408 c 0,0 0.05524,-4.7335866 -5.324637,-4.6744116 z m 5.498849,13.1075936 c 0.01077,0.0082 0.01897,0 0.01897,0 l -0.01897,0 z m -4.45531,-6.119097 c 0.191152,-8.63e-4 0.396526,0.0067 0.614049,0.02404 l -0.01553,1.376242 c 0,0 0.21235,2.032439 -1.999109,2.173501 0,0 -1.464794,-0.0027 -1.46268,-1.627814 0,0 -0.0039,-1.933022 2.863264,-1.945976 z"
        id="path4582"
        inkscape:connector-curvature="0" />
   </g>
@@ -2335,27 +2336,27 @@
      style="display:none"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.06598354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4387-7-8"
-       width="11.633125"
-       height="11.633125"
-       x="7.6584377"
-       y="-19.291563"
+       width="12.281516"
+       height="12.281517"
+       x="7.3342423"
+       y="-19.615759"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#5261ff;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="8.5768757" />
+       width="13.404759"
+       height="10.72601"
+       x="6.7726207"
+       y="8.1119957" />
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.06524014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3862-6"
-       width="13.47"
-       height="9.7962503"
-       x="6.7400002"
-       y="-18.373125"
+       width="13.404759"
+       height="10.726009"
+       x="6.7726207"
+       y="-18.838005"
        transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
