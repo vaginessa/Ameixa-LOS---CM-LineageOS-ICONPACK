@@ -4,7 +4,7 @@ New icons: ffreddit, overchan, floating stickies, imsicatcher, quickdroid, logic
 
 Fix icon: tutanota
 
-New bootanimation
+Delete bootanimation
 
 New ringtone
 
@@ -12,7 +12,7 @@ General icons revamping
 
 Shipping svgs
 
-Tweak theme icon
+Tweak TwelF/Onze icon
 
 **v1.4**
 
