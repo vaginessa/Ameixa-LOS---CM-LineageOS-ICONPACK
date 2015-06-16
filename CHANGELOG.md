@@ -4,7 +4,7 @@ New icons: ffreddit, overchan, floating stickies, imsicatcher, quickdroid, logic
 
 Fix icon: tutanota
 
-Delete bootanimation
+Delete bootanimation (for not to do the theme so overweight)
 
 New ringtone
 
