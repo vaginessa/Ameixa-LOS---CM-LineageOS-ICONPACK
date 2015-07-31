@@ -1,10 +1,12 @@
-**v2.1**
+**v2.2**
 
 New icons: smssecure, twittsecure, sparss, xprivacy
 
 Fix icon: materialplayer, smssecure
 
 Fix ringtone
+
+**Do not install v2.1, must be removed from F-droid**
 
 **v2.0**
 
