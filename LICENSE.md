@@ -2,10 +2,6 @@ The code of this app is licensed under GPLv3, based on the code of Cyanogenmod T
 
 The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAlike 4.0 International except for the material released under another not compatible license.
 
-**Bootanimation**
-
-William Theaker/Robert Martinez(CC BY-SA 3.0): F-droid Logo
-
 **Alarm**
 
 Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
@@ -14,7 +10,7 @@ Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
 
 No time Ft Marvellous benji - Dub terminator remix (CC BY-NC –SA)
 
-**Icon Licenses**
+**Icon Credits**
 
 xphnx (BY-NC-SA 4.0): jadcompass, compass, communitycompass, nicecompass, gadgetbridge, opentraining, budget, androidrun, tinfoilfb, tinfoiltw, lockclock, quranandroid, synapse, prefmanager, gloomydungeons, sudowars, mathdoku, sudoq, opesudoku, sudokufree, maxsmain, frozenbuble, blockinger, ametro, solitairecg, solitaire, bubble, networkdiscovery, mirakel, easydice, pixeldungeon, shatteredpixel, minetest, freeminer, 2048game, atomic, i2p, synergy, writeily, fblite, notepad, ionotepad, tuner, mibandnotifier, tickmate, torch, imsicatcher, ffreddit, mercury
 
