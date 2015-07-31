@@ -1,3 +1,11 @@
+**v2.1**
+
+New icons: smssecure, twittsecure, sparss, xprivacy
+
+Fix icon: materialplayer, smssecure
+
+Fix ringtone
+
 **v2.0**
 
 New icons: ffreddit, overchan, floating stickies, imsicatcher, quickdroid, logicaldefense, fmradio
