@@ -961,4 +961,6 @@
 <item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid" />
 <item component="ComponentInfo{org.safermobile.intheclear/.InTheClear}" drawable="intheclear" />
 <item component="ComponentInfo{org.safermobile.intheclear/.apps.Panic}" drawable="intheclear" />
+<item component="ComponentInfo{ru.meefik.linuxdeploy/.MainActivity}" drawable="linuxdeploy" />
+<item component="ComponentInfo{ de.srlabs.gsmmap/.MapActivity}" drawable="gsmmap" />
  </resources>
