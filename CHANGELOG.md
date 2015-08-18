@@ -2,13 +2,17 @@
 
 New icons: diasporanativeweb, linuxdeploy, oasnv, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wiglewifi, gsmmap, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear
 
+Fix icon: gadgetbridge
+
+Fix ringtone
+
+Add fonts: Lato
+
 **v2.2**
 
 New icons: smssecure, twittsecure, sparss, xprivacy
 
 Fix icon: materialplayer, smssecure
-
-Fix ringtone
 
 **Do not install v2.1, must be removed from F-droid**
 
