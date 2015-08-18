@@ -649,6 +649,7 @@
 <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}" drawable="nlpconfig" />
 <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.ControlCenter}" drawable="gadgetbridge" />
 <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.SettingsActivity}" drawable="gadgetbridge" />
+<item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/.activities.ControlCenter}" drawable="gadgetbridge" />
 <item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dictionaryformids" />
 <item component="ComponentInfo{jupiter.broadcasting.live.tv/jupiter.broadcasting.live.tv.Home}" drawable="jupiterbroadcast" />
 <item component="ComponentInfo{com.germainz.identiconizer/com.germainz.identiconizer.IdenticonsSettings}" drawable="identiconizer" />
