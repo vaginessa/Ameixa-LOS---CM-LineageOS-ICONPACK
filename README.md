@@ -45,4 +45,4 @@ alt="inside afw++" width="300" />
 
 ## License 
 
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [LICENSE](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/LICENSE.md) for more details).
+[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CREDITS.md) for more details).

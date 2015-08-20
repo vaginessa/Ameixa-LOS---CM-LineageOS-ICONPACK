@@ -1,6 +1,6 @@
-**v2.3**
+**v2.4**
 
-New icons: diasporanativeweb, linuxdeploy, oasnv, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wiglewifi, gsmmap, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear
+New icons: diasporanativeweb, linuxdeploy, oasnv, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wiglewifi, gsmmap, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, enigmandroid
 
 Fix icon: gadgetbridge
 
