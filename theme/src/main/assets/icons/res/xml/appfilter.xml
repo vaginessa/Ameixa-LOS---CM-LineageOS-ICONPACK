@@ -928,7 +928,7 @@
 <item component="ComponentInfo{net.etuldan.sparss/.activity.HomeActivity}" drawable="sparss" />
 <item component="ComponentInfo{biz.bokhorst.xprivacy/.ActivityMain}" drawable="xprivacy" />
 
-<!-- v2.3-->
+<!-- v2.4-->
 <item component="ComponentInfo{ar.com.tristeslostrestigres.diasporanativewebapp/.SplashActivity}" drawable="diasporanw" />
 <item component="ComponentInfo{org.wheelmap.android.online/.StartupActivity}" drawable="wheelmap" />
 <item component="ComponentInfo{com.valleytg.oasvn.android/.ui.activity.MainMenu}" drawable="oasvn" />
@@ -964,4 +964,6 @@
 <item component="ComponentInfo{org.safermobile.intheclear/.apps.Panic}" drawable="intheclear" />
 <item component="ComponentInfo{ru.meefik.linuxdeploy/.MainActivity}" drawable="linuxdeploy" />
 <item component="ComponentInfo{ de.srlabs.gsmmap/.MapActivity}" drawable="gsmmap" />
- </resources>
+<item component="ComponentInfo{de.vanitasvitae.enigmandroid/.MainActivity}" drawable="enigmandroid" />
+
+</resources>
