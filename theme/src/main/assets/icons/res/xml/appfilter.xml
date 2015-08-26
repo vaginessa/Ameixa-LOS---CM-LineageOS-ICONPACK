@@ -965,5 +965,8 @@
 <item component="ComponentInfo{ru.meefik.linuxdeploy/.MainActivity}" drawable="linuxdeploy" />
 <item component="ComponentInfo{ de.srlabs.gsmmap/.MapActivity}" drawable="gsmmap" />
 <item component="ComponentInfo{de.vanitasvitae.enigmandroid/.MainActivity}" drawable="enigmandroid" />
+<item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+<item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+<item component="ComponentInfo{org.janb.shoppinglist/.activity.MainActivity}" drawable="shoppinglist" />
 
 </resources>
