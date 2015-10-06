@@ -1,14 +1,14 @@
-**v3.0-alpha**
+**v3.0 (to do)**
 
 Add fonts: Lato
 
 UI theming
 
-**v2.4**
+**v2.8**
 
-New icons: diasporanativeweb, linuxdeploy, oasnv, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wiglewifi, gsmmap, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, enigmandroid, shoppinglist, antox
+New icons: diasporanw, wheelmap, oasvn, dashclock, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wigle, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, linuxdeploy, gsmmap, enigmandroid, antox, shoppinglist, chanu, pwdstore, calendarwidget, gearshift, newpipe, tuxpaint, runnerup, fdprivileged
 
-Fix icon: gadgetbridge
+Fix icons: nlpconfig, nlpbackend, libreoffice, hn
 
 Fix ringtone
 
@@ -17,8 +17,6 @@ Fix ringtone
 New icons: smssecure, twittsecure, sparss, xprivacy
 
 Fix icon: materialplayer, smssecure
-
-**Do not install v2.1, must be removed from F-droid**
 
 **v2.0**
 
