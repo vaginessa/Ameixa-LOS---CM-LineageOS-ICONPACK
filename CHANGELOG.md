@@ -1,12 +1,6 @@
-**v3.0 (to do)**
-
-Add fonts: Lato
-
-UI theming
-
 **v2.8**
 
-New icons: diasporanw, wheelmap, oasvn, dashclock, calendula, tacere, whohasmystuff, arij, birthday-adapter, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wigle, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, linuxdeploy, gsmmap, enigmandroid, antox, shoppinglist, chanu, pwdstore, calendarwidget, gearshift, newpipe, tuxpaint, runnerup, fdprivileged
+New icons: diasporanw, wheelmap, oasvn, dashclock, calendula, tacere, whohasmystuff, arij, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wigle, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, linuxdeploy, gsmmap, enigmandroid, antox, shoppinglist, chanu, pwdstore, calendarwidget, gearshift, newpipe, tuxpaint, runnerup, fdprivileged
 
 Fix icons: nlpconfig, nlpbackend, libreoffice, hn
 
