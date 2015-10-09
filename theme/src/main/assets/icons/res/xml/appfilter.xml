@@ -947,5 +947,6 @@
 <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
+<item component="ComponentInfo{info.guardianproject.orfox/info.guardianproject.orfox.App}" drawable="orfox" />
 
 </resources>
