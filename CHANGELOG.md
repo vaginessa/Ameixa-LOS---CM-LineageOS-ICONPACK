@@ -1,3 +1,7 @@
+**v2.9**
+
+Fix icons: wheelmap, calendula, tacere, birthdayadapter, myapplist, yaaic(?), sparss(?), antox, orfox
+
 **v2.8**
 
 New icons: diasporanw, wheelmap, oasvn, dashclock, calendula, tacere, whohasmystuff, arij, piano, cathode, practicehub, obscuracam, videoeditor, diskusage, secrecy, mlmanager, traccar, easytoken, wigle, snoopsnitch, myapplist, locationprivacy, secdroid, cadroid, intheclear, linuxdeploy, gsmmap, enigmandroid, antox, shoppinglist, chanu, pwdstore, calendarwidget, gearshift, newpipe, tuxpaint, runnerup, fdprivileged
