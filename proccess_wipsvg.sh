@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Thanks to t184256
+# Requires Inkscape
 
 
 for SVG in svgs/wip/*.svg; do

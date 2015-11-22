@@ -1,3 +1,8 @@
+**v2.9.1**
+
+New icons: bubblecomics, csploit, transportr
+
+
 **v2.9**
 
 Fix icons: wheelmap, calendula, tacere, birthdayadapter, myapplist, yaaic(?), sparss(?), antox, orfox

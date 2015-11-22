@@ -949,4 +949,9 @@
 <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{info.guardianproject.orfox/info.guardianproject.orfox.App}" drawable="orfox" />
 
+<!-- v2.9.1-->
+<item component="ComponentInfo{com.nkanaev.comics/.activity.MainActivity}" drawable="bubblecomics" />
+<item component="ComponentInfo{de.grobox.liberario/.activities.MainActivity}" drawable="transportr" />
+<item component="ComponentInfo{org.csploit.android/.MainActivity}" drawable="csploit" />
+
 </resources>
