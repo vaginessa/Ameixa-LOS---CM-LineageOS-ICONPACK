@@ -1,6 +1,6 @@
 **v2.9.1**
 
-New icons: bubblecomics, csploit, transportr
+New icons: bubblecomics, csploit, transportr, myposition, ripple, osmand, kisslauncher, pocketmaps
 
 
 **v2.9**

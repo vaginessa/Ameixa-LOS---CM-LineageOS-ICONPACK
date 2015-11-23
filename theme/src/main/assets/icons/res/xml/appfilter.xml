@@ -952,6 +952,10 @@
 <!-- v2.9.1-->
 <item component="ComponentInfo{com.nkanaev.comics/.activity.MainActivity}" drawable="bubblecomics" />
 <item component="ComponentInfo{de.grobox.liberario/.activities.MainActivity}" drawable="transportr" />
-<item component="ComponentInfo{org.csploit.android/.MainActivity}" drawable="csploit" />
+<item component="ComponentInfo{org.csploit.android/.MainActivity}" drawable="csploit2" />
+<item component="ComponentInfo{info.guardianproject.ripple/.MainActivity}" drawable="ripple" />
+<item component="ComponentInfo{fr.neamar.kiss/.MainActivity}" drawable="kisslauncher" />
+<item component="ComponentInfo{net.mypapit.mobile.myposition/.MyLocationActivity}" drawable="myposition" />
+<item component="ComponentInfo{com.junjunguo.pocketmaps/.controller.MainActivity}" drawable="pocketmaps" />
 
 </resources>
