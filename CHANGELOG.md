@@ -1,3 +1,9 @@
+**v2.9.2**
+
+New icons: goblim, speedmeter, sicmuplayer, easyxkcd
+
+Fix icon: lightningbrowser
+
 **v2.9.1**
 
 New icons: bubblecomics, csploit, transportr, myposition, ripple, osmand, kisslauncher, pocketmaps
