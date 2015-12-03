@@ -958,4 +958,10 @@
 <item component="ComponentInfo{net.mypapit.mobile.myposition/.MyLocationActivity}" drawable="myposition" />
 <item component="ComponentInfo{com.junjunguo.pocketmaps/.controller.MainActivity}" drawable="pocketmaps" />
 
+<!-- v2.9.2-->
+<item component="ComponentInfo{com.tap.xkcd_reader/de.tap.easy_xkcd.Activities.MainActivity }" drawable="easyxkcd" />
+<item component="ComponentInfo{souch.smp/.Main }" drawable="sicmuplayer" />
+<item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.MainActivity }" drawable="goblim" />
+<item component="ComponentInfo{fly.speedmeter.grub/.MainActivity }" drawable="speedmeter" />
+
 </resources>
