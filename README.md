@@ -43,6 +43,8 @@ alt="share feneec" width="300" />
 <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/a49b1be4708a70c2e3c554342ba21edb/Screenshot_2015-05-22-23-55-18.png" 
 alt="inside afw++" width="300" />
 
-## License 
+## License
 
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CREDITS.md) for more details).
+[GPLv3sticker](http://gplv3.fsf.org/gplv3-127x51.png)](https://fsf.org/)
+
+[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CREDITS.md) for more details)
