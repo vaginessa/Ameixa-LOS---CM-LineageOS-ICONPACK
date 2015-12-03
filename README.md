@@ -4,7 +4,7 @@ TwelF is a Material Design inspired theme for Android Lollipop aiming to provide
 
 ## Requirements
 
-* A device running the Cyanogenmod 12 ROM (See the [list of compatible devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
+* A device running the Cyanogenmod 12 ROM (See the [list of supported devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
 * [F-droid client](https://f-droid.org/) installed (optional, but strongly recommended)
 
 ## Features
