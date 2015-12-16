@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="kdeconnect.svg"
+   sodipodi:docname="mapsme.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1869,8 +1869,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="27.072256"
-     inkscape:cy="11.984857"
+     inkscape:cx="15.468164"
+     inkscape:cy="10.557003"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1942,7 +1942,7 @@
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
        style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#607d8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#4caf50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2324,10 +2324,9 @@
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
          id="flowPara4704">your</flowPara></flowRoot>    <path
-       id="path4880"
-       d="m 19.119094,16.48474 -2.407796,0 0,-4.213657 2.407796,0 m 0.601945,-1.203917 -3.611686,0 a 0.60194729,0.60194727 0 0 0 -0.601948,0.601799 l 0,6.019585 a 0.60194729,0.60194727 0 0 0 0.601948,0.602012 l 3.611686,0 a 0.60194729,0.60194727 0 0 0 0.601945,-0.602012 l 0,-6.019585 A 0.60194729,0.60194727 0 0 0 19.721039,11.067166 M 8.284036,9.8631424 l 10.835058,0 0,-1.203704 -10.835058,0 a 1.2038947,1.2038947 0 0 0 -1.203889,1.203704 l 0,6.6215976 -1.203897,0 0,1.805822 8.427258,0 0,-1.805822 -6.019472,0 0,-6.6215976 z"
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 12.125 6.0605469 L 10.773438 7.4101562 L 10.773438 8.7617188 L 8.0722656 8.7617188 C 7.3227077 8.7617188 6.7226562 9.3617709 6.7226562 10.111328 L 6.7226562 17.539062 A 1.3505544 1.3505544 0 0 0 8.0722656 18.890625 L 18.876953 18.890625 A 1.3505544 1.3505544 0 0 0 20.228516 17.539062 L 20.228516 10.111328 C 20.228516 9.3617709 19.619757 8.7617188 18.876953 8.7617188 L 16.175781 8.7617188 L 16.175781 7.4101562 L 14.826172 6.0605469 L 12.125 6.0605469 z M 12.125 7.4101562 L 14.826172 7.4101562 L 14.826172 8.7617188 L 12.125 8.7617188 L 12.125 7.4101562 z M 10.414062 12.976562 L 12.662109 15.222656 L 10.414062 17.470703 L 8.1660156 15.222656 L 10.414062 12.976562 z "
+       id="path4" />
   </g>
   <g
      inkscape:groupmode="layer"

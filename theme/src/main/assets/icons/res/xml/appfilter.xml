@@ -959,9 +959,16 @@
 <item component="ComponentInfo{com.junjunguo.pocketmaps/.controller.MainActivity}" drawable="pocketmaps" />
 
 <!-- v2.9.2-->
-<item component="ComponentInfo{com.tap.xkcd_reader/de.tap.easy_xkcd.Activities.MainActivity }" drawable="easyxkcd" />
-<item component="ComponentInfo{souch.smp/.Main }" drawable="sicmuplayer" />
-<item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.MainActivity }" drawable="goblim" />
-<item component="ComponentInfo{fly.speedmeter.grub/.MainActivity }" drawable="speedmeter" />
+<item component="ComponentInfo{com.tap.xkcd_reader/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
+<item component="ComponentInfo{souch.smp/.Main}" drawable="sicmuplayer" />
+<item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.MainActivity}" drawable="goblim" />
+<item component="ComponentInfo{fly.speedmeter.grub/.MainActivity}" drawable="speedmeter" />
+<item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MaterialActivity}" drawable="kdeconnect" />
+<item component="ComponentInfo{ru.meefik.busybox/.MainActivity}" drawable="busybox" />
+<item component="ComponentInfo{is.pinterjann.jaws/.activities.JAWSActivity}" drawable="jaws" />
+<item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
+<item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
+<item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etarcalendar" />
+<item component="ComponentInfo{x.org.server/.MainActivity}" drawable="xsdl" />
 
 </resources>

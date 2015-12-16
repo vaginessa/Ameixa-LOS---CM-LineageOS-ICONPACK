@@ -1,8 +1,8 @@
 **v2.9.2**
 
-New icons: goblim, speedmeter, sicmuplayer, easyxkcd
+New icons: goblim, speedmeter, sicmuplayer, easyxkcd, busybox, etarcalendar, jaws, mapsme, timber, xsdl
 
-Fix icon: lightningbrowser
+Fix icon: lightningbrowser, kdeconnect 
 
 **v2.9.1**
 
