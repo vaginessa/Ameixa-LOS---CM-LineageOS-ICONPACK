@@ -1,3 +1,9 @@
+**v2.9.3**
+
+New icons: icsdroid, muzei, omninotes, ttcomics, faceslim
+
+Fix icons: andstatus, kontalk, ttrss, xabber, easyxkcd, myownnotes
+
 **v2.9.2**
 
 New icons: goblim, speedmeter, sicmuplayer, easyxkcd, busybox, etarcalendar, jaws, mapsme, timber, xsdl

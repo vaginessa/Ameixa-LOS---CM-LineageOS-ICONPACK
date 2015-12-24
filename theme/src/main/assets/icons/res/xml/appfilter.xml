@@ -971,4 +971,17 @@
 <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etarcalendar" />
 <item component="ComponentInfo{x.org.server/.MainActivity}" drawable="xsdl" />
 
+<!-- v2.9.3-->
+<item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
+<item component="ComponentInfo{org.aykit.MyOwnNotes/.NoteListActivity}" drawable="myownnotes" />
+<item component="ComponentInfo{com.xabber.android/.ui.activity.ContactList}" drawable="xabber" />
+<item component="ComponentInfo{org.andstatus.app/.msg.TimelineActivity}" drawable="andstatus" />
+<item component="ComponentInfo{org.fox.ttrss/.LaunchActivity}" drawable="ttrss" />
+<item component="ComponentInfo{org.kontalk/.ui.ConversationsActivity}" drawable="kontalk" />
+<item component="ComponentInfo{org.indywidualni.fblite/.activity.SplashActivity}" drawable="fblite" />
+<item component="ComponentInfo{at.bitfire.icsdroid/.ui.CalendarListActivity}" drawable="icsdroid" />
+<item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
+<item component="ComponentInfo{it.feio.android.omninotes/.MainActivity}" drawable="omninotes" />
+<item component="ComponentInfo{org.fox.ttcomics2/.LaunchActivity}" drawable="ttcomics" />
+
 </resources>
