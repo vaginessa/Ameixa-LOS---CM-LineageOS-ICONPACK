@@ -1,10 +1,10 @@
-# TwelF - CM12 FLOSS Theme
+# TwelF - CM12/CM12.1/CM13 FLOSS Theme
 
-TwelF is a Material Design inspired theme for Android Lollipop aiming to provide a consistent and minimalistic look to your device.
+TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
 ## Requirements
 
-* A device running the Cyanogenmod 12 ROM (See the [list of supported devices](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/compatible-devices))
+* A device running Cyanogenmod ROM (CM12, CM12.1 and CM13 supported). For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme)
 * [F-droid client](https://f-droid.org/) installed (optional, but strongly recommended)
 
 ## Features

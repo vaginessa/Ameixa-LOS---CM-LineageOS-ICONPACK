@@ -4,15 +4,11 @@ The artwork are licensed under Creative Commons Attribution-NonComercial-ShareAl
 
 **Alarm**
 
-Soldiah Beez - Mineral K High Time (CC BY-NC –SA)
+Soldiah Beez - Mineral K High Time (CC BY-NC-SA)
 
 **Ringtone**
 
-No time Ft Marvellous benji - Dub terminator remix (CC BY-NC –SA)
-
-**Fonts**
-
-Lato by tyPoland Łukasz Dziedzic (SIL Open Font License 1.1)
+No time Ft Marvellous benji - Dub terminator remix (CC BY-NC-SA)
 
 **Icon Credits**
 
