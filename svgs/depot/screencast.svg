@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="pedometer2.svg"
+   sodipodi:docname="screencast.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -1869,10 +1869,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="-1.8748744"
-     inkscape:cy="12.275787"
+     inkscape:cx="13.404678"
+     inkscape:cy="11.42406"
      inkscape:document-units="pt"
-     inkscape:current-layer="g4856"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
@@ -2323,40 +2323,11 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <g
-       transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,-23.025309,61.89399)"
-       id="g3786">
-      <g
-         id="g4856"
-         transform="matrix(1.3880728,0,0,1.3880728,-3.2705917,-23.302613)">
-        <g
-           style="fill:#d32f2f;fill-opacity:1;stroke:none"
-           id="g4705"
-           transform="matrix(-0.61442623,-0.61442623,0.61442623,-0.61442623,-621.59712,706.63065)">
-          <g
-             style="fill:#d32f2f;fill-opacity:1;stroke:none"
-             id="g4720"
-             transform="translate(2.3456087e-7,6.9641564e-4)" />
-        </g>
-        <g
-           transform="matrix(-0.00424115,-0.00250956,0.00335582,-0.00479072,11.449898,64.640454)"
-           style="display:inline;fill:#ffffff;fill-opacity:1"
-           id="g4593">
-          <path
-             sodipodi:nodetypes="cccccc"
-             id="path2890-7"
-             d="m 1223.9817,645.32413 c -106.6306,3.09425 -182.5942,24.10952 -324.23321,35.31473 -126.35594,16.7352 -222.35013,4.2125 -380.64261,-45.35315 C -58.185247,489.35 -47.253007,0.01789745 544.50926,-7.2089352 679.04959,-21.907552 1218.3906,101.32637 1309.8884,241.16494 1270.109,374.9765 1259.8677,512.47475 1223.9817,645.32413 Z"
-             inkscape:connector-curvature="0"
-             style="fill:#ffffff;fill-opacity:1" />
-          <path
-             sodipodi:nodetypes="ccc"
-             id="path2890-7-9"
-             d="m 1398.5865,687.83542 c 33.143,-132.00417 51.8167,-247.8567 88.1179,-414.94584 793.5181,16.20611 542.6438,788.25132 -88.1179,414.94584 z"
-             inkscape:connector-curvature="0"
-             style="display:inline;fill:#ffffff;fill-opacity:1" />
-        </g>
-      </g>
-    </g>
+         id="flowPara4704">your</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       d="m 17.225001,12.35 0,-2.6249988 A 0.75000001,0.75000001 0 0 0 16.475,8.9750005 l -8.9999995,0 a 0.75000001,0.75000001 0 0 0 -0.75,0.7500007 l 0,7.4999988 a 0.75000001,0.75000001 0 0 0 0.75,0.75 l 8.9999995,0 a 0.75000001,0.75000001 0 0 0 0.750001,-0.75 l 0,-2.625 2.999999,3 0,-8.2499993 L 17.225001,12.35 Z"
+       id="path4"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

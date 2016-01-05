@@ -984,4 +984,10 @@
 <item component="ComponentInfo{it.feio.android.omninotes/.MainActivity}" drawable="omninotes" />
 <item component="ComponentInfo{org.fox.ttcomics2/.LaunchActivity}" drawable="ttcomics" />
 
+<!-- v2.9.4-->
+<item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="sms" />
+<item component="ComponentInfo{org.cyanogenmod.screencast/.MainActivity}" drawable="screencast" />
+<item component="ComponentInfo{com.koushikdutta.superuser/.MainActivity}" drawable="superuser" />
+<item component="ComponentInfo{com.commit451.gitlab/.activities.GitlabActivity}" drawable="gitlab" />
+
 </resources>

@@ -1,3 +1,11 @@
+**v2.9.4**
+
+New icons: screencast, superuser, gitlab
+
+Fix icons: sms
+
+Revamp icons: pedometer, gadgetbridge
+
 **v2.9.3**
 
 New icons: icsdroid, muzei, omninotes, ttcomics, faceslim

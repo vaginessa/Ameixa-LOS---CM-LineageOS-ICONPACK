@@ -1868,16 +1868,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-6.1073611"
-     inkscape:cy="14.691136"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="-55.624635"
+     inkscape:cy="9.8070456"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
-     showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:current-layer="g4566"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="px"
      showguides="false">
@@ -2323,35 +2323,26 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <path
-       id="path3962"
-       d="M 10.104554,13.475 A 3.3704468,3.3704468 0 0 1 13.475,10.104555 3.3704468,3.3704468 0 0 1 16.845447,13.475 3.3704468,3.3704468 0 0 1 13.475,16.845447 3.3704468,3.3704468 0 0 1 10.104554,13.475 m 7.864376,0 c 0,-1.432439 -0.668472,-2.701974 -1.713311,-3.5221155 l -0.533654,-3.2187773 -4.49393,0 -0.533653,3.2187773 C 9.6495432,10.773026 8.9810712,12.042561 8.9810712,13.475 c 0,1.426823 0.668472,2.701974 1.7133108,3.522117 l 0.533653,3.218777 4.49393,0 0.533654,-3.218777 C 17.300458,16.176974 17.96893,14.901823 17.96893,13.475 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39625001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3758"
-       cx="13.475"
-       cy="11.277354"
-       r="0.59884542" />
-    <circle
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39625001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3758-1"
-       cx="13.475"
-       cy="15.636366"
-       r="0.59884542" />
-    <circle
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39625001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3758-1-7"
-       cx="11.255095"
-       cy="13.475"
-       r="0.59884542" />
-    <circle
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39625001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3758-1-7-9"
-       cx="15.656877"
-       cy="13.475"
-       r="0.59884542" />
+         id="flowPara4704">your</flowPara></flowRoot>    <g
+       id="g4566"
+       transform="matrix(0,1,-1,0,26.950001,2.3841858e-7)">
+      <rect
+         ry="0"
+         y="6.7400002"
+         x="10.949375"
+         height="13.47"
+         width="5.05125"
+         id="rect4562"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="1.3475003"
+         y="9.0956249"
+         x="11.790626"
+         height="8.75875"
+         width="3.3687501"
+         id="rect4564"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff5722;stroke-width:0.625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
