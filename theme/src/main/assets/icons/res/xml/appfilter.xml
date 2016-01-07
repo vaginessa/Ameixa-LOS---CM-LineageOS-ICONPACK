@@ -998,6 +998,6 @@
 <item component="ComponentInfo{com.khuttun.notificationnotes/.MainActivity}" drawable="notificationnotes" />
 <item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.MainActivity}" drawable="github" />
 <item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.user.HomeActivity}" drawable="github" />
-<item component="ComponentInfo{com.github.mobile/.ui.user.HomeActivity}" drawable="forkhub" />
+<item component="ComponentInfo{com.github.mobile/.ui.user.HomeActivity}" drawable="github" />
 
 </resources>
