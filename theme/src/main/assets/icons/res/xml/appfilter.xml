@@ -558,7 +558,6 @@
 <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
 <item component="ComponentInfo{com.beem.project.beem/com.beem.project.beem.ui.Login}" drawable="beem" />
 <item component="ComponentInfo{org.bombusmod/org.bombusmod.BombusModActivity}" drawable="bombusmod" />
-<item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{org.yaxim.androidclient/org.yaxim.androidclient.MainWindow}" drawable="yaxim" />
 <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
 <item component="ComponentInfo{com.michaldabski.filemanager/com.michaldabski.filemanager.folders.FolderActivity}" drawable="filemanagerpro" />
@@ -597,8 +596,6 @@
 <item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dictionaryformids" />
 <item component="ComponentInfo{jupiter.broadcasting.live.tv/jupiter.broadcasting.live.tv.Home}" drawable="jupiterbroadcast" />
 <item component="ComponentInfo{com.germainz.identiconizer/com.germainz.identiconizer.IdenticonsSettings}" drawable="identiconizer" />
-<item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.MainActivity}" drawable="github" />
-<item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.user.HomeActivity}" drawable="github" />
 <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="ask" />
 <item component="ComponentInfo{com.eolwral.osmonitor/com.eolwral.osmonitor.OSMonitor}" drawable="osmonitor" />
 <item component="ComponentInfo{com.eolwral.osmonitor.legacy/com.eolwral.osmonitor.legacy.OSMonitor}" drawable="osmonitor" />
@@ -627,7 +624,6 @@
 
 <!-- v0.7  -->
 <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="swiftnotes" />
-<item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
 <item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="gappsbrowser" />
 <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac" />
 <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quranandroid" />
@@ -966,15 +962,12 @@
 <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MaterialActivity}" drawable="kdeconnect" />
 <item component="ComponentInfo{ru.meefik.busybox/.MainActivity}" drawable="busybox" />
 <item component="ComponentInfo{is.pinterjann.jaws/.activities.JAWSActivity}" drawable="jaws" />
-<item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
 <item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
 <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etarcalendar" />
 <item component="ComponentInfo{x.org.server/.MainActivity}" drawable="xsdl" />
 
 <!-- v2.9.3-->
-<item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{org.aykit.MyOwnNotes/.NoteListActivity}" drawable="myownnotes" />
-<item component="ComponentInfo{com.xabber.android/.ui.activity.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{org.andstatus.app/.msg.TimelineActivity}" drawable="andstatus" />
 <item component="ComponentInfo{org.fox.ttrss/.LaunchActivity}" drawable="ttrss" />
 <item component="ComponentInfo{org.kontalk/.ui.ConversationsActivity}" drawable="kontalk" />
@@ -992,5 +985,19 @@
 
 <!-- v2.9.5-->
 <item component="ComponentInfo{de.reimardoeffinger.quickdic/de.reimardoeffinger.quickdic.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
+<item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
+<item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+<item component="ComponentInfo{com.xabber.android/.ui.activity.ContactList}" drawable="xabber" />
+<item component="ComponentInfo{com.xabber.androiddev/.ui.ContactList}" drawable="xabber" />
+<item component="ComponentInfo{com.mapswithme.maps/.DownloadResourcesActivity}" drawable="mapsme" />
+<item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
+<item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/.ActivityMain}" drawable="clipstack" />
+<item component="ComponentInfo{net.bierbaumer.otp_authenticator/.MainActivity}" drawable="otpauth" />
+<item component="ComponentInfo{com.khuttun.notificationnotes/.MainActivity}" drawable="notificationnotes" />
+<item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.MainActivity}" drawable="github" />
+<item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.user.HomeActivity}" drawable="github" />
+<item component="ComponentInfo{com.github.mobile/.ui.user.HomeActivity}" drawable="forkhub" />
 
 </resources>
