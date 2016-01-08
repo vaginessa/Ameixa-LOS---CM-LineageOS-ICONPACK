@@ -1,3 +1,28 @@
+**v3.0.1-alpha**
+
+- New fonts
+- Apps theming
+- New icon requests
+
+**v3.0.0-alpha**
+
+- TwelF renamed to Corza
+- New icon
+- New bootanimation
+- New notification sound
+- New wallpaper and lockscreen
+- UI&system theming
+- CM13 support
+- Icon Request Tool
+
+**v2.9.5**
+
+New icons: clipstack, otpauth, notificationnotes, forkhub
+
+Fix icons: easyxkcd, mapsme, xabber
+
+Revamp icons: sms
+
 **v2.9.4**
 
 New icons: screencast, superuser, gitlab
