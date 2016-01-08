@@ -1,10 +1,10 @@
-**v3.0.1-alpha**
+**v3.0.1-alpha** (experimental branch)
 
 - New fonts
 - Apps theming
 - New icon requests
 
-**v3.0.0-alpha**
+**v3.0.0-alpha** (experimental branch)
 
 - TwelF renamed to Corza
 - New icon
