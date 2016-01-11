@@ -992,6 +992,7 @@
 <item component="ComponentInfo{com.xabber.android/.ui.activity.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.xabber.androiddev/.ui.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.mapswithme.maps/.DownloadResourcesActivity}" drawable="mapsme" />
+<item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
 <item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
 <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/.ActivityMain}" drawable="clipstack" />
 <item component="ComponentInfo{net.bierbaumer.otp_authenticator/.MainActivity}" drawable="otpauth" />
@@ -999,5 +1000,7 @@
 <item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.MainActivity}" drawable="github" />
 <item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.user.HomeActivity}" drawable="github" />
 <item component="ComponentInfo{com.github.mobile/.ui.user.HomeActivity}" drawable="github" />
+<item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub"/>
+<item component="ComponentInfo{com.bitpay.copay/com.bitpay.copay.MainActivity}" drawable="copay"/>
 
 </resources>
