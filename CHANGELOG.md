@@ -2,26 +2,26 @@
 
 - New fonts
 - Apps theming
-- New icon requests
+- New bootanimation
 
 **v3.0.0-alpha** (experimental branch)
 
 - TwelF renamed to Corza
 - New icon
-- New bootanimation
 - New notification sound
 - New wallpaper and lockscreen
 - UI&system theming
 - CM13 support
 - Icon Request Tool
+- Backgrounds
 
 **v2.9.5**
 
-New icons: clipstack, otpauth, notificationnotes, forkhub
+New icons: clipstack, otpauth, notificationnotes, forkhub, forecastie, copay, visualbitcoin, torchlight
 
 Fix icons: easyxkcd, mapsme, xabber
 
-Revamp icons: sms
+Revamp icons: sms, gadgetbridge
 
 **v2.9.4**
 
