@@ -19,7 +19,7 @@
 
 New icons: clipstack, otpauth, notificationnotes, forkhub, forecastie, copay, visualbitcoin, torchlight
 
-Fix icons: easyxkcd, mapsme, xabber
+Fix icons: easyxkcd, mapsme, xabber, gitlab
 
 Revamp icons: sms, gadgetbridge
 
