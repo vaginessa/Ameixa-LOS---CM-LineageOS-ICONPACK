@@ -1004,5 +1004,6 @@
 <item component="ComponentInfo{com.bitpay.copay/com.bitpay.copay.MainActivity}" drawable="copay"/>
 <item component="ComponentInfo{com.btcontract.wallet/.MainActivity}" drawable="visualbitcoin"/>
 <item component="ComponentInfo{com.secuso.torchlight2/.MainActivity}" drawable="torchlight"/>
+<item component="ComponentInfo{cz.martykan.forecastie/.MainActivity" drawable="forecastie"/>
 
 </resources>
