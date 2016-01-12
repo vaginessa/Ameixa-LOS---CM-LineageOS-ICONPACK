@@ -1002,5 +1002,7 @@
 <item component="ComponentInfo{com.github.mobile/.ui.user.HomeActivity}" drawable="github" />
 <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub"/>
 <item component="ComponentInfo{com.bitpay.copay/com.bitpay.copay.MainActivity}" drawable="copay"/>
+<item component="ComponentInfo{com.btcontract.wallet/.MainActivity}" drawable="visualbitcoin"/>
+<item component="ComponentInfo{com.secuso.torchlight2/.MainActivity}" drawable="torchlight"/>
 
 </resources>
