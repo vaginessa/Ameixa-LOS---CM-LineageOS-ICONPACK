@@ -1008,4 +1008,7 @@
 <item component="ComponentInfo{com.secuso.torchlight2/.MainActivity}" drawable="torchlight"/>
 <item component="ComponentInfo{cz.martykan.forecastie/.MainActivity" drawable="forecastie"/>
 
+<!-- v2.9.6-->
+<item component="ComponentInfo{cz.martykan.webtube/.MainActivity" drawable="webtube"/>
+
 </resources>
