@@ -104,7 +104,7 @@ Tutanota (GPLv3): tutanota
 
 Sfen (): sfen
 
-Font awesome (Public Domain): github, octodroid, forkhub
+Font awesome (Public Domain): github, octodroid, forkhub, td
 
 Gigaget (GPLv3+): gigaget
 
