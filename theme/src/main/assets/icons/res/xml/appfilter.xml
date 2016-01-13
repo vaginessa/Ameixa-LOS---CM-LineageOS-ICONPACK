@@ -1010,5 +1010,6 @@
 
 <!-- v2.9.6-->
 <item component="ComponentInfo{cz.martykan.webtube/.MainActivity" drawable="webtube"/>
+<item component="ComponentInfo{org.libreoffice.impressremote/.activity.ComputersActivity" drawable="impressremote"/>
 
 </resources>
