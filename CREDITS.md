@@ -159,3 +159,5 @@ Easyxkcd: easyxkcd
 Muzei: muzei
 
 Bitpay: copay
+
+Clementine (GPLv3): clementineremote
