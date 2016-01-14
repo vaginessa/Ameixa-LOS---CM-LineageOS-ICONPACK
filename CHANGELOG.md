@@ -12,8 +12,14 @@
 - New wallpaper and lockscreen
 - UI&system theming
 - CM13 support
-- Icon Request Tool
-- Backgrounds
+- Icon Request Tool--> Turtl
+- Backgrounds --> probably new standalone app
+
+**v2.9.6**
+
+New icons: td, termux, clementineremote, impressremote, webtube
+
+Fix icons: forecastie, cameraCM13
 
 **v2.9.5**
 
