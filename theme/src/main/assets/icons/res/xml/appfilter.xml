@@ -1006,13 +1006,14 @@
 <item component="ComponentInfo{com.bitpay.copay/com.bitpay.copay.MainActivity}" drawable="copay"/>
 <item component="ComponentInfo{com.btcontract.wallet/.MainActivity}" drawable="visualbitcoin"/>
 <item component="ComponentInfo{com.secuso.torchlight2/.MainActivity}" drawable="torchlight"/>
-<item component="ComponentInfo{cz.martykan.forecastie/.MainActivity" drawable="forecastie"/>
+<item component="ComponentInfo{cz.martykan.forecastie/.MainActivity}" drawable="forecastie"/>
 
 <!-- v2.9.6-->
-<item component="ComponentInfo{cz.martykan.webtube/.MainActivity" drawable="webtube"/>
-<item component="ComponentInfo{org.libreoffice.impressremote/.activity.ComputersActivity" drawable="impressremote"/>
-<item component="ComponentInfo{de.qspool.clementineremote/.ui.ConnectDialog" drawable="clementineremote"/>
-<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity" drawable="termux"/>
-<item component="ComponentInfo{ch.citux.td/.ui.TDActivity" drawable="td"/>
+<item component="ComponentInfo{cz.martykan.webtube/.MainActivity}" drawable="webtube"/>
+<item component="ComponentInfo{org.libreoffice.impressremote/.activity.ComputersActivity}" drawable="impressremote"/>
+<item component="ComponentInfo{de.qspool.clementineremote/.ui.ConnectDialog}" drawable="clementineremote"/>
+<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
+<item component="ComponentInfo{ch.citux.td/.ui.TDActivity}" drawable="td"/>
+<item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera2"/>
 
 </resources>
