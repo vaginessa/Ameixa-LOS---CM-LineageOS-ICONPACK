@@ -2,10 +2,11 @@
 
 TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
-## Requirements
+This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1 and CM13 supported). 
+ 
+For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme).
 
-* A device running Cyanogenmod ROM (CM12, CM12.1 and CM13 supported). For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme)
-* [F-droid client](https://f-droid.org/) installed (optional, but strongly recommended)
+You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) or the [issue tracker](https://gitlab.com/xphnx/twelf_cm12_theme/issues) for requesting icons. As determining if the icons requests are related to FLOSS apps, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ## Features
 
@@ -23,7 +24,6 @@ TwelF is a Material Design inspired theme aiming to provide a consistent and min
 ## More info
 
  * If you are looking for an icon template or some howtos, go to the [**WIKI**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
- * For issues, commenting or icon request, please use the [**ISSUE TRACKER**] (https://gitlab.com/xphnx/twelf_cm12_theme/issues)
  * See the [**FAQ**] (https://gitlab.com/xphnx/twelf_cm12_theme/wikis/faq)
 
 ## Snapshots
