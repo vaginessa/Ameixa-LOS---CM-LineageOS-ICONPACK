@@ -720,7 +720,6 @@
 
 <!-- v1.1 -->
 <item component="ComponentInfo{gpapez.sfen/gpapez.sfen.Main}" drawable="sfen" />
-<item component="ComponentInfo{de.tutao.tutanota/.Tutanota}" drawable="tutanota" />
 <item component="ComponentInfo{org.thoughtcrime.redphone/org.thoughtcrime.redphone.ui.DialerActivity}" drawable="redphone" />
 <item component="ComponentInfo{org.synergy/org.synergy.Synergy}" drawable="synergy" />
 <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
@@ -803,7 +802,6 @@
 <item component="ComponentInfo{org.mozilla.mozstumbler/.client.navdrawer.MainDrawerActivity}" drawable="mozstumbler" />
 <item component="ComponentInfo{org.openbmap/org.openbmap.activities.StartscreenActivity}" drawable="radiobeacon" />
 <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
-<item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="wallabag" />
 <item component="ComponentInfo{com.teleca.jamendo/.activity.SplashscreenActivity}" drawable="jamendo" />
 <item component="ComponentInfo{org.wikimedia.commons/.campaigns.CampaignActivity}" drawable="wikimedia" />
 <item component="ComponentInfo{org.wikimedia.commons/.contributions.ContributionsActivity}" drawable="wikimedia" />
@@ -937,9 +935,6 @@
 <item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter" />
 <item component="ComponentInfo{org.yaaic/org.yaaic.activity.MainActivity}" drawable="yaaic" />
 <item component="ComponentInfo{org.yaaic/.activity.MainActivity}" drawable="yaaic" />
-<item component="ComponentInfo{net.etuldan.sparss/.activity.HomeActivity}" drawable="sparss" />
-<item component="ComponentInfo{net.etuldan.sparss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
-<item component="ComponentInfo{net.etuldan.sparss/.MainApplication}" drawable="sparss" />
 <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antoxnightly/im.tox.antox.activities.LoginActivity}" drawable="antox" />
 <item component="ComponentInfo{im.tox.antox/im.tox.antox.activities.LoginActivity}" drawable="antox" />
@@ -987,6 +982,7 @@
 <!-- v2.9.5-->
 <item component="ComponentInfo{de.reimardoeffinger.quickdic/de.reimardoeffinger.quickdic.DictionaryManagerActivity}" drawable="quickdic" />
 <item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
 <item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
@@ -1015,5 +1011,44 @@
 <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 <item component="ComponentInfo{ch.citux.td/.ui.TDActivity}" drawable="td"/>
 <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera2"/>
+
+<!-- v2.9.7-->
+<item component="ComponentInfo{se.tube42.drum.android/se.tube42.drum.android.MainActivity}" drawable="drumon"/>
+<item component="ComponentInfo{com.alexkang.loopboard/com.alexkang.loopboard.MainActivity}" drawable="loopboard"/>
+<item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="doomytorch"/>
+<item component="ComponentInfo{ch.bailu.aat/ch.bailu.aat.activities.MainActivity}" drawable="aat"/>
+<item component="ComponentInfo{de.ub0r.android.clipboardbeam/de.ub0r.android.clipboardbeam.MainActivity}" drawable="clipboardbeam"/>
+<item component="ComponentInfo{kaljurand_at_gmail_dot_com.diktofon/kaljurand_at_gmail_dot_com.diktofon.activity.RecordingListActivity}" drawable="diktofon"/>
+<item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="droidshows"/>
+<item component="ComponentInfo{org.droidupnp/org.droidupnp.Main}" drawable="droidupnp"/>
+<item component="ComponentInfo{com.Bisha.TI89EmuDonation/com.graph89.emulationcore.EmulatorActivity}" drawable="graph89"/>
+<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
+<item component="ComponentInfo{org.brandroid.openmanager/org.brandroid.openmanager.activities.OpenExplorer}" drawable="openexplorer"/>
+<item component="ComponentInfo{be.brunoparmentier.openbikesharing.app/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity}" drawable="openbikesharing"/>
+<item component="ComponentInfo{de.jdsoft.law/de.jdsoft.law.LawListActivity}" drawable="openlaw"/>
+<item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa"/>
+<item component="ComponentInfo{com.hlidskialf.android.pomodoro/com.hlidskialf.android.pomodoro.PomodoroActivity}" drawable="pomodoro"/>
+<item component="ComponentInfo{com.spydiko.rotationmanager_foss/com.spydiko.rotationmanager_foss.HelperActivity}" drawable="rotationmanager"/>
+<item component="ComponentInfo{com.platypus.SAnd/com.platypus.SAnd.MainActivity}" drawable="sand"/>
+<item component="ComponentInfo{net.sourceforge.servestream/net.sourceforge.servestream.activity.MainActivity}" drawable="servestream"/>
+<item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="tvkill"/>
+<item component="ComponentInfo{cz.yetanotherview.webcamviewer.app/cz.yetanotherview.webcamviewer.app.MainActivity}" drawable="webcamviewer"/>
+<item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab"/>
+<item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota"/>
+<item component="ComponentInfo{de.tutao.tutanota/.Tutanota}" drawable="tutanota" />
+<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fmradio"/>
+<item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.ui.activities.MainActivity}" drawable="recurrence"/>
+<item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss"/>
+<item component="ComponentInfo{net.etuldan.sparss/.activity.HomeActivity}" drawable="sparss" />
+<item component="ComponentInfo{net.etuldan.sparss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
+<item component="ComponentInfo{net.etuldan.sparss/.MainApplication}" drawable="sparss" />
+<item component="ComponentInfo{ch.corten.aha.worldclock/ch.corten.aha.worldclock.WorldClockActivity}" drawable="worldclock"/>
+<item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo"/>
+<item component="ComponentInfo{io.github.otakuchiyan.dnsman/io.github.otakuchiyan.dnsman.MainActivity}" drawable="dnsman"/>
+<item component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.KiwixMobileActivity}" drawable="kiwix"/>
+<item component="ComponentInfo{com.politedroid/com.politedroid.Preferences}" drawable="politedroid"/>
+<item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl"/>
+<item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.ArticlesListActivity}" drawable="wallabag" />
+<item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="wallabag" />
 
 </resources>
