@@ -6,7 +6,7 @@ This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engi
  
 For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme).
 
-You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) or the [issue tracker](https://gitlab.com/xphnx/twelf_cm12_theme/issues) for requesting icons. As determining if the icons requests are related to FLOSS apps, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
+You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. As determining if the icons requested are related to FLOSS apps is a tedious work, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
 
 ## Features
 

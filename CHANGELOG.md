@@ -8,12 +8,17 @@
 
 - TwelF renamed to Corza
 - New icon
-- New notification sound
 - New wallpaper and lockscreen
 - UI&system theming
 - CM13 support
 - Icon Request Tool--> Turtl
 - Backgrounds --> probably new standalone app
+
+**v2.9.7**
+
+New icons: drumon, loopboard, doomytorch, aat, clipboardbeam, diktofon, droidshows, droidupnp, graph89, markers, openexplorer, openbikesharing, openlaw, openmensa, pomodoro, rotationmanager, sand, servestream, tvkill, webcamviewer, yaab, fmradio, recurrence, cgeo, dnsman, kiwix, politedroid, worldclock 
+
+Fix icons: quickdic, tutanota, sparss, turtl, sparss
 
 **v2.9.6**
 
