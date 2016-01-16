@@ -45,6 +45,6 @@ alt="inside afw++" width="300" />
 
 ## License
 
-<img src="http://gplv3.fsf.org/gplv3-127x51.png" />
+<img src="https://gnu.org/graphics/gplv3-127x51.png" />
 
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and other libre or open licenses for the artwork (see [CREDITS](https://gitlab.com/xphnx/twelf_cm12_theme/blob/master/CREDITS.md) for more details)
