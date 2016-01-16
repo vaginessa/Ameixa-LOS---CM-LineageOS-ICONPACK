@@ -1059,5 +1059,9 @@
 <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.LoadingData}" drawable="redditslide"/>
 <item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms"/>
+<item component="ComponentInfo{jp.takke.datastats/jp.takke.datastats.MainActivity}" drawable="datastats"/>
+<item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid"/>
+<item component="ComponentInfo{net.glsk.wpgen/net.glsk.wpgen.ColorsActivity}" drawable="wpgen"/>
+<item component="ComponentInfo{net.bytten.xkcdviewer/net.bytten.xkcdviewer.XkcdViewerActivity}" drawable="xkcdviewer"/>
 
 </resources>
