@@ -980,9 +980,6 @@
 <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.GitlabActivity}" drawable="gitlab"/>
 
 <!-- v2.9.5-->
-<item component="ComponentInfo{de.reimardoeffinger.quickdic/de.reimardoeffinger.quickdic.DictionaryManagerActivity}" drawable="quickdic" />
-<item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
-<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
 <item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
 <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
@@ -1022,7 +1019,6 @@
 <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="droidshows"/>
 <item component="ComponentInfo{org.droidupnp/org.droidupnp.Main}" drawable="droidupnp"/>
 <item component="ComponentInfo{com.Bisha.TI89EmuDonation/com.graph89.emulationcore.EmulatorActivity}" drawable="graph89"/>
-<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
 <item component="ComponentInfo{org.brandroid.openmanager/org.brandroid.openmanager.activities.OpenExplorer}" drawable="openexplorer"/>
 <item component="ComponentInfo{be.brunoparmentier.openbikesharing.app/be.brunoparmentier.openbikesharing.app.activities.StationsListActivity}" drawable="openbikesharing"/>
 <item component="ComponentInfo{de.jdsoft.law/de.jdsoft.law.LawListActivity}" drawable="openlaw"/>
@@ -1050,5 +1046,13 @@
 <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl"/>
 <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.ArticlesListActivity}" drawable="wallabag" />
 <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="wallabag" />
+<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{de.reimardoeffinger.quickdic/de.reimardoeffinger.quickdic.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
+<item component="ComponentInfo{org.y20k.transistor/.MainActivity}" drawable="transistor"/>
+<item component="ComponentInfo{fm.a2d.sf/fm.a2d.sf.gui_act}" drawable="spiritf"/>
+<item component="ComponentInfo{in.p1x.tanks_of_freedom/com.android.godot.Godot}" drawable="tanksoffreedom"/>
+<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
+<item component="ComponentInfo{com.nutomic.zertman/.MainActivity}" drawable="movecerts"/>
 
 </resources>
