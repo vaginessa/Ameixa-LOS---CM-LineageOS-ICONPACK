@@ -842,8 +842,6 @@
 <item component="ComponentInfo{com.SecUpwN.AIMSICD/.AIMSICD}" drawable="imsicatcher" />
 <item component="ComponentInfo{vu.de.urpool.quickdroid/.Quickdroid}" drawable="quickdroid" />
 <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/.MainActivity}" drawable="logicaldefence" />
-<item component="ComponentInfo{com.caf.fmradio/.FMRadio}" drawable="fmradio" />
-<item component="ComponentInfo{com.caf.fmradio/.FMTransmitterActivity}" drawable="fmradio" />
 <item component="ComponentInfo{com.btmura.android.reddit/.MainActivity}" drawable="ffreddit" />
 <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
 
@@ -957,7 +955,6 @@
 <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MaterialActivity}" drawable="kdeconnect" />
 <item component="ComponentInfo{ru.meefik.busybox/.MainActivity}" drawable="busybox" />
 <item component="ComponentInfo{is.pinterjann.jaws/.activities.JAWSActivity}" drawable="jaws" />
-<item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
 <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etarcalendar" />
 <item component="ComponentInfo{x.org.server/.MainActivity}" drawable="xsdl" />
 
@@ -1032,7 +1029,6 @@
 <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab"/>
 <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota"/>
 <item component="ComponentInfo{de.tutao.tutanota/.Tutanota}" drawable="tutanota" />
-<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fmradio"/>
 <item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.ui.activities.MainActivity}" drawable="recurrence"/>
 <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss"/>
 <item component="ComponentInfo{net.etuldan.sparss/.activity.HomeActivity}" drawable="sparss" />
@@ -1054,5 +1050,14 @@
 <item component="ComponentInfo{in.p1x.tanks_of_freedom/com.android.godot.Godot}" drawable="tanksoffreedom"/>
 <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
 <item component="ComponentInfo{com.nutomic.zertman/.MainActivity}" drawable="movecerts"/>
+<item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="episodes"/>
+<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera2"/>
+<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="fmradio"/>
+<item component="ComponentInfo{com.caf.fmradio/.FMRadio}" drawable="fmradio" />
+<item component="ComponentInfo{com.caf.fmradio/.FMTransmitterActivity}" drawable="fmradio" />
+<item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloudbeta"/>
+<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.LoadingData}" drawable="redditslide"/>
+<item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms"/>
 
 </resources>
