@@ -469,8 +469,6 @@
 <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.beta.page.PageActivity}" drawable="wikipedia" />
 <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
 <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
-<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="wordpress" />
-<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}" drawable="wordpress" />
 <item component="ComponentInfo{org.xbmc.android.remote/org.xbmc.android.remote.presentation.activity.HomeActivity}" drawable="xbmc" />
 
 <!-- v0.2 -->
@@ -1063,5 +1061,27 @@
 <item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid"/>
 <item component="ComponentInfo{net.glsk.wpgen/net.glsk.wpgen.ColorsActivity}" drawable="wpgen"/>
 <item component="ComponentInfo{net.bytten.xkcdviewer/net.bytten.xkcdviewer.XkcdViewerActivity}" drawable="xkcdviewer"/>
+<item component="ComponentInfo{info.guardianproject.notepadbot/info.guardianproject.notepadbot.NoteCipher}" drawable="notecipher"/>
+<item component="ComponentInfo{org.ntpsync/org.ntpsync.ui.BaseActivity}" drawable="ntpsync"/>
+<item component="ComponentInfo{de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog}" drawable="clementineremote"/>
+<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater"/>
+<item component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}" drawable="mpdroid"/>
+<item component="ComponentInfo{trikita.obsqr/trikita.obsqr.ObsqrActivity}" drawable="obsqr"/>
+<item component="ComponentInfo{com.einmalfel.podlisten/com.einmalfel.podlisten.MainActivity}" drawable="podlisten"/>
+<item component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}" drawable="rainwave"/>
+<item component="ComponentInfo{com.MarcosDiez.shareviahttp/com.MarcosDiez.shareviahttp.activities.MainActivity}" drawable="shareviahttp"/>
+<item component="ComponentInfo{fm.a2d.sf/fm.a2d.sf.gui_act}" drawable="fmradio"/>
+<item component="ComponentInfo{csci567.squeez/csci567.squeez.FileViewer}" drawable="squeez"/>
+<item component="ComponentInfo{org.tomdroid/org.tomdroid.ui.Tomdroid}" drawable="tomdroid"/>
+<item component="ComponentInfo{com.wikijourney.wikijourney/com.wikijourney.wikijourney.HomeActivity}" drawable="wikijourney"/>
+<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.posts.PostsActivity}" drawable="wordpress"/>
+<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="wordpress" />
+<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}" drawable="wordpress" />
+<item component="ComponentInfo{com.haringeymobile.ukweather/com.haringeymobile.ukweather.MainActivity}" drawable="ukweather"/>
+<item component="ComponentInfo{com.zoffcc.applications.zanavi/com.zoffcc.applications.zanavi.Navit}" drawable="navit"/>
+<item component="ComponentInfo{com.fr3ts0n.ecu.gui.androbd/com.fr3ts0n.ecu.gui.androbd.MainActivity}" drawable="androbd"/>
+<item component="ComponentInfo{org.bobstuff.bobball/org.bobstuff.bobball.BobBallActivity}" drawable="bobball"/>
+<item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport"/>
+<item component="ComponentInfo{goo.TeaTimer/goo.TeaTimer.TimerActivity}" drawable="teatimer"/>
 
 </resources>
