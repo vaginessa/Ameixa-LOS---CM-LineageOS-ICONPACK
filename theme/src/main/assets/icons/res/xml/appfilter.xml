@@ -673,7 +673,6 @@
 
 <!-- v0.9 -->
 <item component="ComponentInfo{com.robert.maps/com.robert.maps.applib.MainActivity}" drawable="rmaps" />
-<item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}" drawable="tabulae" />
 <item component="ComponentInfo{org.ametro/org.ametro.ui.MapViewActivity}" drawable="ametro" />
 <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask" />
 <item component="ComponentInfo{net.sourceforge.solitaire_cg/net.sourceforge.solitaire_cg.SolitaireCG}" drawable="solitairecg" />
@@ -981,9 +980,6 @@
 <item component="ComponentInfo{com.xabber.android/.ui.activity.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.xabber.androiddev/.ui.ContactList}" drawable="xabber" />
 <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber"/>
-<item component="ComponentInfo{com.mapswithme.maps/.DownloadResourcesActivity}" drawable="mapsme" />
-<item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
-<item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
 <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/.ActivityMain}" drawable="clipstack" />
 <item component="ComponentInfo{net.bierbaumer.otp_authenticator/.MainActivity}" drawable="otpauth" />
 <item component="ComponentInfo{com.khuttun.notificationnotes/.MainActivity}" drawable="notificationnotes" />
@@ -1044,7 +1040,6 @@
 <item component="ComponentInfo{de.reimardoeffinger.quickdic/de.reimardoeffinger.quickdic.DictionaryManagerActivity}" drawable="quickdic" />
 <item component="ComponentInfo{com.hughes.android.dictionary/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
 <item component="ComponentInfo{org.y20k.transistor/.MainActivity}" drawable="transistor"/>
-<item component="ComponentInfo{fm.a2d.sf/fm.a2d.sf.gui_act}" drawable="spiritf"/>
 <item component="ComponentInfo{in.p1x.tanks_of_freedom/com.android.godot.Godot}" drawable="tanksoffreedom"/>
 <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
 <item component="ComponentInfo{com.nutomic.zertman/.MainActivity}" drawable="movecerts"/>
@@ -1083,5 +1078,40 @@
 <item component="ComponentInfo{org.bobstuff.bobball/org.bobstuff.bobball.BobBallActivity}" drawable="bobball"/>
 <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport"/>
 <item component="ComponentInfo{goo.TeaTimer/goo.TeaTimer.TimerActivity}" drawable="teatimer"/>
+
+<!-- second batch -->
+<item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" drawable="meditationassistant"/>
+<item component="ComponentInfo{org.aminb.mathtools.app/org.aminb.mathtools.app.activity.MainActivity}" drawable="mathtools"/>
+<item component="ComponentInfo{com.gelakinetic.mtgfam/com.gelakinetic.mtgfam.FamiliarActivity}" drawable="mtgfamiliar"/>
+<item component="ComponentInfo{biz.codefuture.svgviewer/biz.codefuture.svgviewer.MainActivity}" drawable="svgviewer"/>
+<item component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}" drawable="arxiv"/>
+<item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="baumann"/>
+<item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera2"/>
+<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater"/>
+<item component="ComponentInfo{com.tassadar.multirommgr.debug/com.tassadar.multirommgr.MainActivity}" drawable="multirommgr"/>
+<item component="ComponentInfo{org.sagemath.droid/org.sagemath.droid.CellActivity}" drawable="sage"/>
+<item component="ComponentInfo{org.tuxemon.game/org.renpy.android.PythonActivity}" drawable="tuxemon"/>
+<item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi"/>
+<item component="ComponentInfo{org.ntpsync/org.ntpsync.ui.BaseActivity}" drawable="ntpsync"/>
+<item component="ComponentInfo{com.ath0.rpn/com.ath0.rpn.Main}" drawable="rpn"/>
+<item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat"/>
+<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera2"/>
+<item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary"/>
+<item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="netstat"/>
+<item component="ComponentInfo{com.murrayc.galaxyzoo.app/com.murrayc.galaxyzoo.app.ClassifyActivity}" drawable="galaxyzoo"/>
+<item component="ComponentInfo{de.nico.ha_manager/de.nico.ha_manager.activities.Main}" drawable="hwmanager"/>
+<item component="ComponentInfo{com.dozuki.ifixit/com.dozuki.ifixit.ui.topic_view.TopicActivity}" drawable="ifixit"/>
+<item component="ComponentInfo{com.jorgecastillo.kanadrill/com.jorgecastillo.kanadrill.MainActivity}" drawable="kanadrill"/>
+<item component="ComponentInfo{com.leafdigital.kanji.android/com.leafdigital.kanji.android.MainActivity}" drawable="kanji"/>
+<item component="ComponentInfo{com.adonai.manman/com.adonai.manman.MainPagerActivity}" drawable="manman"/>
+<item component="ComponentInfo{com.mapswithme.maps.libre/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
+<item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
+<item component="ComponentInfo{com.mapswithme.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
+<item component="ComponentInfo{com.gmail.jerickson314.sdscanner/com.gmail.jerickson314.sdscanner.MainActivity}" drawable="sdscanner"/>
+<item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.MainActivity}" drawable="tabulae"/>
+<item component="ComponentInfo{org.pyneo.maps/org.pyneo.maps.applib.MainActivity}" drawable="tabulae" />
+<item component="ComponentInfo{de.naturalnet.mirwtfapp/de.naturalnet.mirwtfapp.MainActivity}" drawable="miros"/>
+<item component="ComponentInfo{org.vono.narau/org.vono.narau.Narau}" drawable="narau"/>
+<item component="ComponentInfo{ch.rrelmy.android.batterymanager/ch.rrelmy.android.batterymanager.Main}" drawable="batterylevel"/>
 
 </resources>
