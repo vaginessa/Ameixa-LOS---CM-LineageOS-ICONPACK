@@ -1087,15 +1087,12 @@
 <item component="ComponentInfo{com.commonsware.android.arXiv/com.commonsware.android.arXiv.arXiv}" drawable="arxiv"/>
 <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="baumann"/>
 <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera2"/>
-<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater"/>
 <item component="ComponentInfo{com.tassadar.multirommgr.debug/com.tassadar.multirommgr.MainActivity}" drawable="multirommgr"/>
 <item component="ComponentInfo{org.sagemath.droid/org.sagemath.droid.CellActivity}" drawable="sage"/>
 <item component="ComponentInfo{org.tuxemon.game/org.renpy.android.PythonActivity}" drawable="tuxemon"/>
 <item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi"/>
-<item component="ComponentInfo{org.ntpsync/org.ntpsync.ui.BaseActivity}" drawable="ntpsync"/>
 <item component="ComponentInfo{com.ath0.rpn/com.ath0.rpn.Main}" drawable="rpn"/>
 <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat"/>
-<item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera2"/>
 <item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary"/>
 <item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="netstat"/>
 <item component="ComponentInfo{com.murrayc.galaxyzoo.app/com.murrayc.galaxyzoo.app.ClassifyActivity}" drawable="galaxyzoo"/>
