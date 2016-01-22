@@ -1051,7 +1051,6 @@
 <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloudbeta"/>
 <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.LoadingData}" drawable="redditslide"/>
 <item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
-<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms"/>
 <item component="ComponentInfo{jp.takke.datastats/jp.takke.datastats.MainActivity}" drawable="datastats"/>
 <item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid"/>
 <item component="ComponentInfo{net.glsk.wpgen/net.glsk.wpgen.ColorsActivity}" drawable="wpgen"/>
@@ -1078,8 +1077,6 @@
 <item component="ComponentInfo{org.bobstuff.bobball/org.bobstuff.bobball.BobBallActivity}" drawable="bobball"/>
 <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport"/>
 <item component="ComponentInfo{goo.TeaTimer/goo.TeaTimer.TimerActivity}" drawable="teatimer"/>
-
-<!-- second batch -->
 <item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" drawable="meditationassistant"/>
 <item component="ComponentInfo{org.aminb.mathtools.app/org.aminb.mathtools.app.activity.MainActivity}" drawable="mathtools"/>
 <item component="ComponentInfo{com.gelakinetic.mtgfam/com.gelakinetic.mtgfam.FamiliarActivity}" drawable="mtgfamiliar"/>
@@ -1110,5 +1107,15 @@
 <item component="ComponentInfo{de.naturalnet.mirwtfapp/de.naturalnet.mirwtfapp.MainActivity}" drawable="miros"/>
 <item component="ComponentInfo{org.vono.narau/org.vono.narau.Narau}" drawable="narau"/>
 <item component="ComponentInfo{ch.rrelmy.android.batterymanager/ch.rrelmy.android.batterymanager.Main}" drawable="batterylevel"/>
+<item component="ComponentInfo{org.kore.kolabnotes.android/org.kore.kolabnotes.android.MainActivity}" drawable="kolabnotes"/>
+<item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica"/>
+<item component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.MainActivity}" drawable="shadereditor"/>
+<item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball"/>
+<item component="ComponentInfo{com.dozingcatsoftware.asciicam/com.dozingcatsoftware.asciicam.AsciiCamActivity}" drawable="asciicam"/>
+<item component="ComponentInfo{net.cactii.mathdoku/net.cactii.mathdoku.ui.PuzzleFragmentActivity}" drawable="mathdoku"/>
+<item component="ComponentInfo{com.nononsenseapps.notepad/com.nononsenseapps.notepad.ActivityMain_}" drawable="nononsensenotepad"/>
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Pink}" drawable="qksmspink"/>
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms"/>
+<item component="ComponentInfo{com.phikal.regex/com.phikal.regex.Activities.GameActivity}" drawable="regex"/>
 
 </resources>
