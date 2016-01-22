@@ -1868,11 +1868,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.562501"
-     inkscape:cx="4.1769927"
-     inkscape:cy="13.533714"
+     inkscape:zoom="6.0615938"
+     inkscape:cx="17.196181"
+     inkscape:cy="-2.2025469"
      inkscape:document-units="pt"
-     inkscape:current-layer="g4588"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="695"
@@ -2323,22 +2323,7 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4567"
-       sodipodi:sides="6"
-       sodipodi:cx="-7.2962499"
-       sodipodi:cy="5.0612507"
-       sodipodi:r1="10.241851"
-       sodipodi:r2="5.1209259"
-       sodipodi:arg1="1.3089969"
-       sodipodi:arg2="1.8325957"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m -4.6454634,14.954119 -9.8928686,-2.650786 -2.650786,-9.892868 7.2420817,-7.2420825 9.89286834,2.6507857 2.65078646,9.8928682 z" />
-    <g
+         id="flowPara4704">your</flowPara></flowRoot>    <g
        id="g4588"
        transform="matrix(0.22837821,0,0,0.22837821,5.5001592,5.0339442)">
       <g
