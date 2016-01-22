@@ -1,22 +1,21 @@
-**v3.0.1-alpha** (experimental branch)
+**v3.0.1-alpha** (ToDo)
 
 - New fonts
 - Apps theming
 - New bootanimation
+- New wallpaper and lockscreen
+- Backgrounds --> probably new standalone app
 
-**v3.0.0-alpha** (experimental branch)
+**v3.0.0-alpha** (ToDo)
 
 - TwelF renamed to Corza
 - New icon
-- New wallpaper and lockscreen
 - UI&system theming
 - CM13 support
-- Icon Request Tool--> Turtl
-- Backgrounds --> probably new standalone app
 
 **v2.9.7**
 
-New icons: drumon, loopboard, doomytorch, aat, clipboardbeam, diktofon, droidshows, droidupnp, graph89, markers, openexplorer, openbikesharing, openlaw, openmensa, pomodoro, rotationmanager, sand, servestream, tvkill, webcamviewer, yaab, fmradio, recurrence, cgeo, dnsman, kiwix, politedroid, worldclock 
+New icons: drumon, loopboard, doomytorch, aat, clipboardbeam, diktofon, droidshows, droidupnp, graph89, markers, openexplorer, openbikesharing, openlaw, openmensa, pomodoro, rotationmanager, sand, servestream, tvkill, webcamviewer, yaab, fmradio, recurrence, cgeo, dnsman, kiwix, politedroid, worldclock, and much more ...
 
 Fix icons: quickdic, tutanota, sparss, turtl, sparss
 
