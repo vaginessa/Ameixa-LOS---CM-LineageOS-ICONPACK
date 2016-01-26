@@ -1050,7 +1050,7 @@
 <item component="ComponentInfo{com.caf.fmradio/.FMTransmitterActivity}" drawable="fmradio" />
 <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloudbeta"/>
 <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.LoadingData}" drawable="redditslide"/>
-<item component="ComponentInfo{com.naman14.timber/.activities.MainActivity}" drawable="timber" />
+<item component="ComponentInfo{naman14.timber/.activities.MainActivity}" drawable="timber" />
 <item component="ComponentInfo{jp.takke.datastats/jp.takke.datastats.MainActivity}" drawable="datastats"/>
 <item component="ComponentInfo{com.ringdroid/com.ringdroid.RingdroidSelectActivity}" drawable="ringdroid"/>
 <item component="ComponentInfo{net.glsk.wpgen/net.glsk.wpgen.ColorsActivity}" drawable="wpgen"/>
