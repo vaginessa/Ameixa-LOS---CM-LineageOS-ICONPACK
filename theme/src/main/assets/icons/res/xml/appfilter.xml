@@ -1198,5 +1198,8 @@
 <item component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}" drawable="pwdhash"/>
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Teal}" drawable="qksms"/>
 <item component="ComponentInfo{net.iexos.musicalarm/.AlarmViewActivity}" drawable="bipolalarm"/>
+<item component="ComponentInfo{org.yaaic/org.yaaic.activity.ServersActivity}" drawable="yaaic"/>
+<item component="ComponentInfo{org.legtux.m_316k.fortune/org.legtux.m_316k.fortune.MainActivity}" drawable="fortunes"/>
+<item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper"/>
 
 </resources>
