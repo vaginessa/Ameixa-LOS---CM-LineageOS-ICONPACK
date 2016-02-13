@@ -1201,5 +1201,11 @@
 <item component="ComponentInfo{org.yaaic/org.yaaic.activity.ServersActivity}" drawable="yaaic"/>
 <item component="ComponentInfo{org.legtux.m_316k.fortune/org.legtux.m_316k.fortune.MainActivity}" drawable="fortunes"/>
 <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper"/>
+<item component="ComponentInfo{nl.frankkie.bronylivewallpaper/.MyPreferencesActivity}" drawable="bronylivewallpaper"/>
+<item component="ComponentInfo{com.android2.calculator3/.Calculator}" drawable="calculator2"/>
+<item component="ComponentInfo{com.mustafaali.sensorssandbox/com.mustafaali.sensorssandbox.MainActivity}" drawable="sensorssandbox"/>
+<item component="ComponentInfo{org.billthefarmer.scope/.MainActivity}" drawable="oscilloscope"/>
+<item component="ComponentInfo{org.billthefarmer.siggen/org.billthefarmer.siggen.Main}" drawable="signalgenerator"/>
+<item component="ComponentInfo{com.gunshippenguin.openflood/.GameActivity}" drawable="openflood"/>
 
 </resources>
