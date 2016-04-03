@@ -1207,5 +1207,6 @@
 <item component="ComponentInfo{org.billthefarmer.scope/.MainActivity}" drawable="oscilloscope"/>
 <item component="ComponentInfo{org.billthefarmer.siggen/org.billthefarmer.siggen.Main}" drawable="signalgenerator"/>
 <item component="ComponentInfo{com.gunshippenguin.openflood/.GameActivity}" drawable="openflood"/>
+<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.MainActivity}" drawable="redditslide"/>
 
 </resources>
