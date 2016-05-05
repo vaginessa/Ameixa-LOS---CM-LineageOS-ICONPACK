@@ -1221,5 +1221,8 @@
 <item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.Shadowsocks}" drawable="shadowsocks"/>
 <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer"/>
 <item component="ComponentInfo{com.maralexbar.wifikeyview/com.maralexbar.wifikeyview.MainActivity}" drawable="wifikeyview"/>
+<item component="ComponentInfo{de.baumann.weather/.SplashActivity}" drawable="wetter"/>
+<item component="ComponentInfo{net.damsy.soupeaucaillou.heriswap/com.maralexbar.wifikeyview.MainActivity}" drawable="wifikeyview"/>
+<item component="ComponentInfo{com.maralexbar.wifikeyview/com.maralexbar.wifikeyview.MainActivity}" drawable="wifikeyview"/>
 
 </resources>
