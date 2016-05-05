@@ -1192,7 +1192,6 @@
 <item component="ComponentInfo{de.syss.MifareClassicTool/de.syss.MifareClassicTool.Activities.MainMenu}" drawable="mifare"/>
 <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.activities.WifiListActivity}" drawable="wifikeyshare"/>
 <item component="ComponentInfo{byrne.utilities.hashpass/byrne.utilities.hashpass.HashPassActivity}" drawable="hashpass"/>
-<item component="ComponentInfo{com.nononsenseapps.notepad/com.nononsenseapps.notepad.ActivityMain_}" drawable="nonsensenotepad"/>
 <item component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}" drawable="pwdhash"/>
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Teal}" drawable="qksms"/>
 <item component="ComponentInfo{net.iexos.musicalarm/.AlarmViewActivity}" drawable="bipolalarm"/>
