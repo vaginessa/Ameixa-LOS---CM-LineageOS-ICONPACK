@@ -1222,5 +1222,7 @@
 <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer"/>
 <item component="ComponentInfo{com.maralexbar.wifikeyview/com.maralexbar.wifikeyview.MainActivity}" drawable="wifikeyview"/>
 <item component="ComponentInfo{de.baumann.weather/.SplashActivity}" drawable="wetter"/>
+<item component="ComponentInfo{de.stephanlindauer.criticalmaps/de.stephanlindauer.criticalmaps.Main}" drawable="criticalmaps"/>
+<item component="ComponentInfo{com.jonbanjo.cupsprintservice/com.jonbanjo.cupsprint.PrinterMainActivity}" drawable="cupsprintservice"/>
 
 </resources>
