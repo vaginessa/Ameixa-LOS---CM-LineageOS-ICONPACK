@@ -1186,7 +1186,6 @@
 <item component="ComponentInfo{com.github.redpanal.android/com.github.redpanal.android.SplashActivity}" drawable="redpanal"/>
 <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring"/>
 <item component="ComponentInfo{com.ilm.sandwich/com.ilm.sandwich.StartChooser}" drawable="smartnavi"/>
-<item component="ComponentInfo{org.pygoscelis.mobile.wakeup/org.pygoscelis.mobile.wakeup.WakeGestureSettings}" drawable="wakeup"/>
 <item component="ComponentInfo{ca.rmen.nounours/ca.rmen.nounours.android.handheld.MainActivity}" drawable="nounours"/>
 <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyFriendlyCodeScanner.MainActivity}" drawable="qrscanner"/>
 <item component="ComponentInfo{org.schabi.terminightor/org.schabi.terminightor.AlarmItemListActivity}" drawable="terminightor"/>
