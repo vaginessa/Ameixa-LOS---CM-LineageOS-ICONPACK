@@ -1215,5 +1215,11 @@
 <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="owncloudnotes"/>
 <item component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat"/>
 <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare"/>
+<item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.ShadesActivity}" drawable="redmoon"/>
+<item component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}" drawable="seriesguide"/>
+<item component="ComponentInfo{de.baumann.sieben/de.baumann.sieben.MainActivity}" drawable="sieben"/>
+<item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.Shadowsocks}" drawable="shadowsocks"/>
+<item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer"/>
+<item component="ComponentInfo{com.maralexbar.wifikeyview/com.maralexbar.wifikeyview.MainActivity}" drawable="wifikeyview"/>
 
 </resources>
