@@ -700,8 +700,8 @@
 <item component="ComponentInfo{org.gittner.osmbugs/org.gittner.osmbugs.activities.BugMapActivity_}" drawable="osmbugs" />
 <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixel" />
 <item component="ComponentInfo{org.sufficientlysecure.standalonecalendar/com.android.calendar.AllInOneActivity}" drawable="standalonecalendar" />
-<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="firenightly" />
-<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="firenightly" />
+<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="aurora" />
+<item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
 <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />
 <item component="ComponentInfo{org.freeminer.freeminer/org.freeminer.freeminer.MtNativeActivity}" drawable="freeminer" />
 <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest" />
@@ -1134,7 +1134,6 @@
 <item component="ComponentInfo{de.skubware.opentraining/de.skubware.opentraining.activity.MainActivity}" drawable="opentraining"/>
 <item component="ComponentInfo{org.pyload.android.client/org.pyload.android.client.pyLoad}" drawable="pyload"/>
 <item component="ComponentInfo{de.yaacc/de.yaacc.browser.TabBrowserActivity}" drawable="yaacc"/>
-<item component="ComponentInfo{de.ub0r.android.callmeter/de.ub0r.android.callmeter.ui.Plans}" drawable="callmeter"/>
 <item component="ComponentInfo{com.hayaisoftware.launcher/com.hayaisoftware.launcher.activities.SearchActivity}" drawable="hayai"/>
 <item component="ComponentInfo{org.kost.nmap.android.networkmapper/org.kost.nmap.android.networkmapper.MainActivity}" drawable="networkmapper"/>
 <item component="ComponentInfo{net.kismetwireless.android.smarterwifimanager/net.kismetwireless.android.smarterwifimanager.MainActivity}" drawable="smarterwifimanager"/>
@@ -1275,6 +1274,6 @@
 <item component="ComponentInfo{libretasks.app/libretasks.app.view.simple.ActivityMain}" drawable="libretasks"/>
 <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer"/>
 <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable=" imsicatcher"/>
-<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="firenightly"/>
+<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="aurora"/>
 
 </resources>
