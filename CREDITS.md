@@ -12,13 +12,13 @@ No time Ft Marvellous benji - Dub terminator remix (CC BY-NC-SA)
 
 **Icon Credits**
 
-Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard, jamendo, beamshare, cidrcalc, contactmerger, callerid, puma, applicationsinfo, disablemanager, oandbackup, slightbackup, batteryfu, minumanga, soundrecorder, wally, providersmedia, exchange, floatingstickies, overchan, materialplayer, movim, obscuracam, videoeditor, tacere, arij, birthday-adapter, myapplist, secdroid, antox, orfox, myposition, goblim, busybox, etarcalendar, jaws, mapsme, timber, icsdroid, omninotes, clipstack, notificationnotes, movecerts, sensorssandbox
+Google (CC BY-SA 4.0 International): apps, alarm, browser, calendar, camera1, camera2, cellbroadcast, clock, connectbot, contacts, davdroid, downloads, fennec, firefox, filemanager, firewall, gallery, help, mail, lkeyboard, osmand, owncloud, phone, settings, sms, soundrecorder, xbmc, myownotes, owncloudnewsreader, otp, ebook, cipsimple, wppolice, satstat, adaway, opencamera, chatsecure, droidwall, kdeconnect, deskcon, linconnect, mythdroid, mythmote, keepassdroid, passandroid, pftpd, ppsspp, andstatus, mustard, impeller, diasporawebclient, friendica, twidere, mustardmod, systemappmover, orweb, tigase, conversations, beem, bombusmod, xabber, yaxim, amaze, fileexplorer, smsbackup, filemanagerpro, kerneladiutor, palemoon, icecat, andbible, ask, csipsimple, dictionaryformids, dsub, flym, ghostcommander, hackerskeyboard, justplayer, kerneladiutor, lkeyboard, myownnotes, netmbuddy, nlpconfig, orweb, osmonitor, owncloudnewsreader, owncloudsms, performancecontrol, pftpd, simplealarm, systemappmover, documents, xbmc, smssecure, textsecure, lightningbrowser, tintbrowser, ftpserver, androsens, vxconnectbot, irssiconnect, webopac, quickdic, gappsbrowser, otaupdate, bookmarkff, bookmarkbr, apktrack, getbackgps, wificamera, antennapod, podax, carcast, soundwaves, sendwithftp, gnucash, authenticator, navit, lumicall, linphone, fastergps, focal, rmaps, tabulae, simpletask, remotekeyboard, trickytripper, wifikeyboard, standalonecalendar, osmtracker, osmuploader, osmbugs, calendarwidget, osmtracker, firenightly, brouter, turboeditor, redphone, tasks, mitzuli, wifiwarning, yaaic, mybanq, schessclock, chesswatch, lcamera, xposed, vanillamusic, wallpaper, bluetooth, tags, cmupdater, callrecorder, acal, acaldav, caldavsync, networklog, autostarts, aard, jamendo, beamshare, cidrcalc, contactmerger, callerid, puma, applicationsinfo, disablemanager, oandbackup, slightbackup, batteryfu, minumanga, soundrecorder, wally, providersmedia, exchange, floatingstickies, overchan, materialplayer, movim, obscuracam, videoeditor, tacere, arij, birthday-adapter, myapplist, secdroid, antox, orfox, myposition, goblim, busybox, etarcalendar, jaws, mapsme, timber, icsdroid, omninotes, clipstack, notificationnotes, movecerts, sensorssandbox, ametro, andquote, androidvnc, apkextractor, ardroid, aurora, bipolalarm, bluemono, bvnc, calendarie, calendarnotifications, candymemory, characterrecognition, chromium, cmbrowser, coloring, counterme, crocodilenote, crosswords, cupsprintservice, dilbert, dimmer, driibo, dumbphoneassistant, dvfont, eddymalou, ensichat, enumbers, facebooknotifications, ffupdater, findmyphone, fortunes, freeshisen, gobandroid, hashpass, hayai, heartobserve, hexiano, holocounter, holokenmod, imapnotes, impression, intentexplode, keepscore, libretasks, listado.txt, listmyapps, localcalendar, mahjonggbuilder, micopi, midisheetmusic, mifare, netguard, networkmapper, ocreader, offlinecalendar, opencvengine, openlinkwith, opennotescanner, owncloudnotes, packlist, paddletennis, passwdsafe, periodical, persiancalendar, pipepanic, prboom, pwdhash, pyload, qrstream, receipts, recursiverunner, redmoon, redpanal, retrobreaker, ring, rootverifier, saveforoffline, scid, scrabble, screennotifications, searchtool, sendreduced, seriesguide, shadowsocks, sharetoclipboard, sieben, signal, simpleexplorer, slfms, smarterwifimanager, smartnavi, snooperstopper, snoopsnitch, steamgifts, superuser, swisschess, taskwarrior, Temp, terminightor, textfiction, textwarrior, togozip, transdroid, transdroidsearch, trolly, tuxpaintconfig, umbrella, vimtouch, voicedialer, weathernotification, webapps, whatsappbetaupdater, wifianalyzer, wifikeyshare, wifikeyview
 
 Cyanogenmod (Apache v2): audiofx, themes, onze, twelf, trebuchet
 
 Cyanogenmod (GPL): whisperpush
 
-Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima, addi, cidrcalc, repay, timeriffic, worktime, cachecleaner, wifimatic, whohasmystuff, practicehub, forecastie, visualbitcoin, otpauth, calculator2
+Austin Andrews @templarian (SIL Open Font License 1.1): calculator, wikipedia, bitcoin, bitconium, coinbase, greenaddress, greenbits, testnet3, documentviewer, opendocumentreader, apg, openkeychain, apvpdfreader, mupdf, pdfreader, vudroid, orbot, orwall, barcodescanner, systemappmover, apktrack, wificamera, wifikeyboard, maxima, addi, cidrcalc, repay, timeriffic, worktime, cachecleaner, wifimatic, whohasmystuff, practicehub, forecastie, visualbitcoin, otpauth, calculator2, bipolalarm, qrscanner, currencyconverter, drinks, androidweight, kalgebra, esserpad
 
 William Theaker/Robert Martinez(CC BY-SA 3.0): fdroid
 
@@ -38,7 +38,7 @@ Ocal (Public Domain): adaway, chess, chesswalk, droidfish
 
 Gabriel @lastrosestudios (SIL Open Font License 1.1): smsbackup, sismicsreader, feedhive, ttrss, sparserss, ttrss, simplerss, newsblur,
 
-Chris Litherland (SIL Open Font License 1.1): mobilewebcam
+Chris Litherland (SIL Open Font License 1.1): mobilewebcam, matrixconsole, 
 
 Yasmina Lembachar (SIL Open Font License 1.1): yahtzee
 
@@ -122,17 +122,15 @@ Martin Herr (CC-BY-SA 2.5): openredmine
 
 Vlad Marin (Attribution): logicaldefense
 
-Simpleicon.com (Attribution): fmradio, spiritf, transistor
+Simpleicon.com (Attribution): fmradio, spiritf, transistor, constellations, nounours
 
-Freepick (Attribution): overchan
+Freepick (Attribution): overchan, secrecy
 
 Celli (Public Domain): overchan
 
 Nevit Dilmen (CC BY-SA): clover
 
 Clker.com (Attribution): diskusage
-
-Freepik at flaticon (Attribution): secrecy
 
 Calendula: calendula
 
@@ -167,3 +165,9 @@ Tanks of Freedom (MIT): tanksoffreedom
 Markers (Apache v2): markers
 
 Silverwing (CC BY 4.0): bronylivewallpaper
+
+Critical maps: criticalmaps
+
+Rami McMin (CC BY 3.0): bites
+
+Catalin Fertu: mytronome
