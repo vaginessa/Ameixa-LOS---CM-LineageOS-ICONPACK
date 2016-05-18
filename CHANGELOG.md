@@ -1,17 +1,6 @@
-**v3.0.1-alpha** (ToDo)
-
-- New fonts
-- Apps theming
-- New bootanimation
-- New wallpaper and lockscreen
-- Backgrounds --> probably new standalone app
-
-**v3.0.0-alpha** (ToDo)
-
-- TwelF renamed to Corza
-- New icon
-- UI&system theming
-- CM13 support
+**v2.9.8** 
+New icons: ametro, andquote, androidvnc, apkextractor, ardroid, aurora, bipolalarm, bites, bluemono, bvnc, calendarie, calendarnotifications, candymemory, characterrecognition, chromium, cmbrowser, coloring, constellations, counterme, criticalmaps, crocodilenote, crosswords, cupsprintservice, currencyconverter, dilbert, dimmer, driibo, drinks, droidweignt, dumbphoneassistant, dvfont, eddymalou, ensichat, enumbers, facebooknotifications, ffupdater, findmyphone, fortunes, freeshisen, gobandroid, hashpass, hayai, heartobserve, hexiano, holocounter, holokenmod, imapnotes, impression, intentexplode, kalgebra, keepscore, kungfoobarracuda, lesserpad, libretasks, listado.txt, listmyapps, localcalendar, mahjonggbuilder, matrixconsole, micopi, midisheetmusic, mifare, mytronome, netguard, networkmapper, nounours, ocreader, offlinecalendar, opencvengine, openlinkwith, opennotescanner, owncloudnotes, packlist, paddletennis, passwdsafe, periodical, persiancalendar, pipepanic, prboom, pwdhash, pyload, qrscanner, qrstream, receipts, recursiverunner, redmoon, redpanal, retrobreaker, ring, rootverifier, saveforoffline, scid, scrabble, screennotifications, searchtool, sendreduced, seriesguide, shadowsocks, sharetoclipboard, sieben, signal, simpleexplorer, slfms, smarterwifimanager, smartnavi, snooperstopper, snoopsnitch, steamgifts, superuser, swisschess, taskwarrior, Temp, terminightor, textfiction, textwarrior, togozip, transdroid, transdroidsearch, trolly, tuxpaintconfig, umbrella, vimtouch, voicedialer, weathernotification, webapps, whatsappbetaupdater, wifianalyzer, wifikeyshare, wifikeyview
+Fix icons: minumanga, smsbackup, syncthing, opentraining, yaacc, minilens, timber, gameboid, yaaic, snoopswitch, davdroid, gadgetbridge, mirakel, tanksoffreedom, imsicatcher, aurora
 
 **v2.9.7**
 
