@@ -1868,16 +1868,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="15.195377"
-     inkscape:cy="12.264604"
+     inkscape:zoom="32.000002"
+     inkscape:cx="17.555717"
+     inkscape:cy="13.561596"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="false">
@@ -1942,7 +1942,7 @@
        d="m 4.417683,1028.1747 0,1.6051 -1.605183,0 0,18.1922 1.605183,0 0,2.1402 18.192073,0 0,-2.1402 2.140244,0 0,-18.1922 -2.140244,0 0,-1.6051 -18.192073,0 z"
        style="display:inline;opacity:0.2;fill:#263238;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#4caf50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#8bc34a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="21.327499"
        height="21.327499"
@@ -2323,17 +2323,11 @@
            height="5.05125"
            x="10.66375"
            y="11.235001" /></flowRegion><flowPara
-         id="flowPara4704">your</flowPara></flowRoot>    <g
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="text10496"
-       transform="matrix(1.4637089,0,0,1.0749218,-6.0506552,-1102.2614)">
-      <path
-         d="m 11.39453,1032.9559 1.921875,7.4948 0.01696,0 1.940079,-7.4948 2.613281,0 0,8.5313 -1.986328,0 0,-2.1153 0.1875,-3.955 -0.01172,-0.01 -2.080703,7.5768 -1.335938,0 -2.056015,-7.5241 -0.01172,0.01 0.1875,3.9023 0,2.1153 -1.9863282,0 0,-8.5313 2.6015622,0"
-         id="path10570"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccccc"
-         style="fill:#ffffff;fill-opacity:1" />
-    </g>
+         id="flowPara4704">your</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       d="m 17.520312,12.800782 -8.0906238,0 0,-3.3710941 8.0906238,0 M 13.475,17.520313 c -0.748382,0 -1.348438,-0.606797 -1.348438,-1.348437 0,-0.748383 0.600056,-1.348438 1.348438,-1.348438 A 1.3484375,1.3484375 0 0 1 14.823437,16.171876 1.3484375,1.3484375 0 0 1 13.475,17.520313 M 8.0812507,16.508984 a 2.3597657,2.3597657 0 0 0 2.3597653,2.359767 l -1.0113278,1.011327 0,0.33711 8.0906238,0 0,-0.33711 -1.011327,-1.011327 a 2.3597657,2.3597657 0 0 0 2.359765,-2.359767 l 0,-7.0792961 c 0,-2.3597659 -2.413703,-2.6968753 -5.39375,-2.6968753 -2.980046,0 -5.3937493,0.3371094 -5.3937493,2.6968753 l 0,7.0792961 z"
+       id="path4"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Thanks to t184256
-# Requires Inkscape
+# Requires Inkscape and Imagemagic
 
 
 for SVG in svgs/wip/*.svg; do
