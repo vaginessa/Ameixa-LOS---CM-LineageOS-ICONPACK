@@ -1276,4 +1276,35 @@
 <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable=" imsicatcher"/>
 <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="aurora"/>
 
+<!-- v2.9.9-->
+<item component="ComponentInfo{gq.nulldev.animeopenings.app/gq.nulldev.animeopenings.app.ActivityNewVideo}" drawable="animeopenings"/>
+<item component="ComponentInfo{byrne.utilities.converter/byrne.utilities.converter.ConverterActivity}" drawable="bodha"/>
+<item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow"/>
+<item component="ComponentInfo{com.mridang.throttle/com.mridang.throttle.SettingsActivity}" drawable="microchip"/>
+<item component="ComponentInfo{com.hectorone.multismssender/com.hectorone.multismssender.MultiSmsSender}" drawable="multisms"/>
+<item component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.LaunchActivity}" drawable="nightscreen"/>
+<item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openfood"/>
+<item component="ComponentInfo{com.alexcruz.papuhwalls/com.alexcruz.papuhwalls.Papuh}" drawable="papuh"/>
+<item component="ComponentInfo{uk.co.busydoingnothing.prevo/uk.co.busydoingnothing.prevo.LanguagesActivity}" drawable="prevo"/>
+<item component="ComponentInfo{com.jarsilio.android.waveup/com.jarsilio.android.waveup.MainActivity}" drawable="waveup"/>
+<item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.MainActivity}" drawable="sudoku"/>
+<item component="ComponentInfo{com.leafpic.app/com.leafpic.app.SplashScreen}" drawable="leafpic"/>
+<item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.SplashScreen}" drawable="leafpic"/>
+<item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal"/>
+<item component="ComponentInfo{net.zygotelabs.locker/net.zygotelabs.locker.MainActivity}" drawable="locker"/>
+<item component="ComponentInfo{org.tvheadend.tvhguide/org.tvheadend.tvhguide.ChannelListActivity}" drawable="thvguide"/>
+<item component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}" drawable="autoconnect"/>
+<item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diaspora"/>
+<item component="ComponentInfo{com.github.marmalade.aRevelation/com.github.marmalade.aRevelation.MainActivity}" drawable="arevelations"/>
+<item component="ComponentInfo{com.boombuler.piraten.map/com.boombuler.piraten.map.PirateMap}" drawable="piraten"/>
+<item component="ComponentInfo{net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.MainActivity}" drawable="radiodroid"/>
+<item component="ComponentInfo{org.ciasaboark.tacere/org.ciasaboark.tacere.activity.MainActivity}" drawable="tacere"/>
+<item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie"/>
+<item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microg"/>
+<item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup"/>
+<item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="webtube"/>
+<item component="ComponentInfo{com.afollestad.cabinet/com.afollestad.cabinet.ui.MainActivity}" drawable="cabinet"/>
+<item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor"/>
+<item component="ComponentInfo{net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.ActivityMain}" drawable="radiodroid"/>
+
 </resources>
