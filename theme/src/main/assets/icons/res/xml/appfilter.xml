@@ -23,7 +23,6 @@
 <iconmask img1="iconmask" />
 <iconupon img1="iconupon" />
 
-<!-- System icons -->
 <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game" />
 <item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor" />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard" />
