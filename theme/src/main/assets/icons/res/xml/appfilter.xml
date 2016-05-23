@@ -1314,5 +1314,10 @@
 <item component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}" drawable="fotofinder"/>
 <item component="ComponentInfo{de.k3b.android.androFotoFinder/de_k3b_android.androFotoFinder.locationmap.MapGeoPickerActivity}" drawable="fotofinder2"/>
 <item component="ComponentInfo{eu.faircode.finegeotag/eu.faircode.finegeotag.ActivitySettings}" drawable="finegeotag"/>
+<item component="ComponentInfo{org.eztarget.micopifull/org.eztarget.micopifull.ui.WelcomeActivity}" drawable="micopi"/>
+<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist"/>
+<item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.MainWebViewActivity}" drawable="privacybrowser"/>
+<item component="ComponentInfo{com.dgmltn.morphclock.app/com.dgmltn.morphclock.app.MainActivity}" drawable="morphclock"/>
+<item component="ComponentInfo{com.dimtion.shaarlier/com.dimtion.shaarlier.MainActivity}" drawable="shaarlier"/>
 
 </resources>
