@@ -1,13 +1,14 @@
 **v2.9.9**
 
-New icons: animeopenings, bodha, gasflow, microchip, multisms, nightscreen, openfood, papuh, prevo, waveup, sudoku, leafpic, leafpic, signal, locker, thvguide, autoconnect, diaspora, arevelations, piraten, radiodroid, radiodroid, tacere, torchie, microg, runnerup, webtube, cabinet, calendarcolor, fonbot, getchromium, hrm, heregps, loaned, fotofinder, fotofinder2, finegeotag, micopi, myapplist, privacybrowser, morphclock, shaarlier
+New icons: animeopenings, bodha, gasflow, microchip, multisms, nightscreen, openfood, papuh, prevo, waveup, sudoku, leafpic, locker, tvhguide, autoconnect, diaspora, arevelations, piraten, radiodroid, torchie, microg, webtube, cabinet, calendarcolor, fonbot, getchromium, hrm, heregps, loaned, fotofinder, fotofinder2, finegeotag, micopi, myapplist, privacybrowser, morphclock, shaarlier, loophabits, prevo, rumble, tricorder, pointandhit, apps2org, gravitydefied
+Fix icons: tacere, micopi, nonsensenotepad, minumanga, whisperpush, 920editor, calendarwidget, camcorder, firefox, gnuprivacyguard, gtalksms
 
 **v2.9.8** 
 
 New icons: ametro, andquote, androidvnc, apkextractor, ardroid, aurora, bipolalarm, bites, bluemono, bvnc, calendarie, calendarnotifications, candymemory, characterrecognition, chromium, cmbrowser, coloring, constellations, counterme, criticalmaps, crocodilenote, crosswords, cupsprintservice, currencyconverter, dilbert, driibo, drinks, droidweignt, dumbphoneassistant, dvfont, eddymalou, ensichat, enumbers, facebooknotifications, ffupdater, findmyphone, fortunes, freeshisen, gobandroid, hashpass, hayai, heartobserve, hexiano, holocounter, holokenmod, imapnotes, impression, intentexplode, kalgebra, keepscore, kungfoobarracuda, lesserpad, libretasks, listado.txt, listmyapps, localcalendar, mahjonggbuilder, matrixconsole, micopi, midisheetmusic, mifare, mytronome, netguard, networkmapper, nounours, offlinecalendar, opencvengine, openlinkwith, opennotescanner, owncloudnotes, packlist, paddletennis, passwdsafe, periodical, persiancalendar, pipepanic, prboom, pwdhash, pyload, qrscanner, qrstream, receipts, recursiverunner, redpanal, retrobreaker, rootverifier, saveforoffline, scid, scrabble, screennotifications, searchtool, sendreduced, sharetoclipboard, signal, simpleexplorer, smarterwifimanager, smartnavi, snooperstopper, snoopsnitch, steamgifts, superuser, swisschess, taskwarrior, Temp, terminightor, textfiction, textwarrior, togozip, transdroid, transdroidsearch, trolly, tuxpaintconfig, umbrella, vimtouch, voicedialer, weathernotification, webapps, whatsappbetaupdater, wifianalyzer, wifikeyshare,
 New icons (courtesy of Danial Behzadi): ring, wifikeyview, slfms, dimmer, shadowsocks, sieben, seriesguide, redmoon, ocreader
 New icons (courtesy of topu):  transistor, spiritf, tanksoffreedom, markers and movecerts ; fixed new quickdic icon
-Fix icons: minumanga, smsbackup, syncthing, opentraining, yaacc, minilens, timber, gameboid, yaaic, snoopswitch, davdroid, gadgetbridge, mirakel, tanksoffreedom, imsicatcher, aurora
+Fix icons: smsbackup, syncthing, opentraining, yaacc, minilens, timber, gameboid, yaaic, snoopswitch, davdroid, gadgetbridge, mirakel, tanksoffreedom, imsicatcher, aurora
 
 **v2.9.7**
 
