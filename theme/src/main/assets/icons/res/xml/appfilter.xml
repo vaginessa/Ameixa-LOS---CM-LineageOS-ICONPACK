@@ -61,7 +61,6 @@
 <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.ApkTrack.MainActivity}" drawable="apktrack" />
 <item component="ComponentInfo{com.majeur.applicationsinfo/.MainActivity}" drawable="applicationsinfo" />
 <item component="ComponentInfo{com.android.settings/com.android.settings.ApplicationSettings}" drawable="apps" />
-<item component="ComponentInfo{com.android.settings/com_android_settings_applicationsettings}" drawable="apps" />
 <item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdfreader" />
 <item component="ComponentInfo{org.ardour/org.ardour.ArdroidMain}" drawable="ardroid" />
 <item component="ComponentInfo{com.tadamski.arij/.account.activity.AccountSelectorActivity_}" drawable="arij" />
