@@ -1206,7 +1206,7 @@
 <item component="ComponentInfo{org.happysanta.gd/org.happysanta.gd.GDActivity}" drawable="gravitydefied" />
 <item component="ComponentInfo{org.hermit.tricorder/org.hermit.tricorder.Tricorder}" drawable="tricorder" />
 <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
-<item component="ComponentInfo{ovh.ice.icecons/ovh.ice.icecons.MainActivity}" drawable="icecons"/>
-<item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit"/>
+<item component="ComponentInfo{ovh.ice.icecons/ovh.ice.icecons.MainActivity}" drawable="icecons" />
+<item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit" />
 
 </resources>
