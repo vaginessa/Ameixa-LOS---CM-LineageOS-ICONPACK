@@ -1,5 +1,6 @@
-# TwelF - CM12/CM12.1/CM13 FLOSS Theme ![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
+![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
 
+# TwelF - CM12/CM12.1/CM13 FLOSS Theme 
 TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
 This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1 and CM13 supported). 
