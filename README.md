@@ -1,4 +1,4 @@
-https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg
+![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
 
 # TwelF - CM12/CM12.1/CM13 FLOSS Theme
 
