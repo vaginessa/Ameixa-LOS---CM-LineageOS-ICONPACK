@@ -535,9 +535,11 @@
 <item component="ComponentInfo{com.godot.game/.com.android.godot.Godot}" drawable="minilens" />
 <item component="ComponentInfo{com.godot.game/com.godot.game.com.android.godot.Godot}" drawable="minilens" />
 <item component="ComponentInfo{io.github.kobuge.games.minilens/com.android.godot.Godot}" drawable="minilens" />
+<item component="ComponentInfo{io.github.kobuge.games.minilens/org.godotengine.godot.Godot}" drawable="minilens"/>
 <item component="ComponentInfo{com.vwp.owmini/com.vwp.owmini.OWMiniAtAndroid}" drawable="miniopenwlanmap" />
 <item component="ComponentInfo{org.kde.ministro.config/org.kde.ministro.config.MinistroConfigurationToolActivity}" drawable="ministro" />
 <item component="ComponentInfo{ar.rulosoft.mimanganu/ar.rulosoft.mimanganu.ActivityMisMangas}" drawable="minumanga" />
+<item component="ComponentInfo{ar.rulosoft.mimanganu/ar.rulosoft.mimanganu.MainActivity}" drawable="minumanga"/>
 <item component="ComponentInfo{de.azapps.mirakelandroid/de.azapps.mirakel.new_ui.activities.SplashScreenActivity}" drawable="mirakel" />
 <item component="ComponentInfo{de.azapps.mirakelandroid/de.azapps.mirakel.static_activities.SplashScreenActivity}" drawable="mirakel" />
 <item component="ComponentInfo{de.naturalnet.mirwtfapp/de.naturalnet.mirwtfapp.MainActivity}" drawable="miros" />
@@ -844,6 +846,7 @@
 <item component="ComponentInfo{cc.rainwave.android/cc.rainwave.android.LandingActivity}" drawable="rainwave" />
 <item component="ComponentInfo{wb.receiptspro/wb.receiptspro.SmartReceiptsProActivity}" drawable="receipts" />
 <item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.ui.activities.MainActivity}" drawable="recurrence" />
+<item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.activities.MainActivity}" drawable="recurrence" />
 <item component="ComponentInfo{net.damsy.soupeaucaillou.recursiveRunner/net.damsy.soupeaucaillou.SacActivity}" drawable="recursiverunner" />
 <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.LoadingData}" drawable="redditslide" />
 <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.MainActivity}" drawable="redditslide" />
@@ -1208,6 +1211,15 @@
 <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
 <item component="ComponentInfo{ovh.ice.icecons/ovh.ice.icecons.MainActivity}" drawable="icecons" />
 <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit" />
-<item component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}" drawable="birthdroid"/>
+<item component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}" drawable="birthdroid" />
+<item component="ComponentInfo{de.grobox.liberario.debug/de.grobox.liberario.activities.MainActivity}" drawable="transportrdev" />
+<item component="ComponentInfo{pl.nkg.geokrety/pl.nkg.geokrety.activities.MainActivity}" drawable="geokrety" />
+<item component="ComponentInfo{com.wifiafterconnect/com.wifiafterconnect.MainActivity}" drawable="wifiafterconnect" />
+<item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
+<item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
+<item component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}" drawable="addresstogps"/>
+<item component="ComponentInfo{com.github.wdkapps.fillup/com.github.wdkapps.fillup.StartupActivity}" drawable="fillup"/>
+<item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail"/>
+
 
 </resources>
