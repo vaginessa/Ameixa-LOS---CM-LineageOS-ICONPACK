@@ -23,8 +23,8 @@
 <iconmask img1="iconmask" />
 <iconupon img1="iconupon" />
 
-<item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="2048game" />
-<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="920editor" />
+<item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="game2048" />
+<item component="ComponentInfo{com.jecelyin.editor/com.jecelyin.editor.JecEditor}" drawable="editor920" />
 <item component="ComponentInfo{aarddict.android/aarddict.android.LookupActivity}" drawable="aard" />
 <item component="ComponentInfo{ch.bailu.aat/ch.bailu.aat.activities.MainActivity}" drawable="aat" />
 <item component="ComponentInfo{com.morphoss.acal/com.morphoss.acal.aCal}" drawable="acal" />
@@ -312,7 +312,7 @@
 <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
 <item component="ComponentInfo{se.johanhil.duckduckgo/se.johanhil.duckduckgo.DuckDuckGoSettings}" drawable="duckduckgo2" />
 <item component="ComponentInfo{com.github.yeriomin.dumbphoneassistant/com.github.yeriomin.dumbphoneassistant.ManageContactsActivity}" drawable="dumbphoneassistant" />
-<item component="ComponentInfo{org.sufficientlysecure.viewer.fontpack/org.sufficientlysecure.viewer.fontpack.ui.MainActivity}" drawable="dvfonts" />
+<item component="ComponentInfo{org.sufficientlysecure.viewer.fontpack/org.sufficientlysecure.viewer.fontpack.ui.MainActivity}" drawable="dvfont" />
 <item component="ComponentInfo{net.pejici.easydice/net.pejici.easydice.DiceRollerActivity}" drawable="easydice" />
 <item component="ComponentInfo{app.easytoken/.MainActivity}" drawable="easytoken" />
 <item component="ComponentInfo{com.tap.xkcd_reader/.Activities.MainActivity}" drawable="easyxkcd" />
@@ -529,6 +529,7 @@
 <item component="ComponentInfo{it.skarafaz.mercury/it.skarafaz.mercury.activity.MainActivity}" drawable="mercury" />
 <item component="ComponentInfo{com.lewisjuggins.miband/com.lewisjuggins.miband.MiOverviewActivity}" drawable="mibandnotifier" />
 <item component="ComponentInfo{com.easytarget.micopi/com.easytarget.micopi.ui.WelcomeActivity}" drawable="micopi" />
+<item component="ComponentInfo{org.eztarget.micopifull/org.eztarget.micopifull.ui.WelcomeActivity}" drawable="micopi" />
 <item component="ComponentInfo{com.midisheetmusic/com.midisheetmusic.MidiSheetMusicActivity}" drawable="midisheetmusic" />
 <item component="ComponentInfo{de.syss.MifareClassicTool/de.syss.MifareClassicTool.Activities.MainMenu}" drawable="mifare" />
 <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest" />
@@ -578,6 +579,7 @@
 <item component="ComponentInfo{org.mumod.android/org.mumod.android.activity.Mustard}" drawable="mustardmod" />
 <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
 <item component="ComponentInfo{com.projectsexception.myapplist/.MainActivity}" drawable="myapplist" />
+<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist" />
 <item component="ComponentInfo{net.dahanne.banq.notifications/net.dahanne.banq.notifications.MainActivity}" drawable="mybanq" />
 <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.MyExpenses}" drawable="myexpenses" />
 <item component="ComponentInfo{org.aykit.MyOwnNotes/.NoteListActivity}" drawable="myownnotes" />
@@ -1197,8 +1199,6 @@
 <item component="ComponentInfo{de.k3b.android.androFotoFinder/de.k3b.android.androFotoFinder.FotoGalleryActivity}" drawable="fotofinder" />
 <item component="ComponentInfo{de.k3b.android.androFotoFinder/de_k3b_android.androFotoFinder.locationmap.MapGeoPickerActivity}" drawable="fotofinder2" />
 <item component="ComponentInfo{eu.faircode.finegeotag/eu.faircode.finegeotag.ActivitySettings}" drawable="finegeotag" />
-<item component="ComponentInfo{org.eztarget.micopifull/org.eztarget.micopifull.ui.WelcomeActivity}" drawable="micopi" />
-<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist" />
 <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.MainWebViewActivity}" drawable="privacybrowser" />
 <item component="ComponentInfo{com.dgmltn.morphclock.app/com.dgmltn.morphclock.app.MainActivity}" drawable="morphclock" />
 <item component="ComponentInfo{com.dimtion.shaarlier/com.dimtion.shaarlier.MainActivity}" drawable="shaarlier" />
@@ -1214,12 +1214,11 @@
 <item component="ComponentInfo{com.rigid.birthdroid/com.rigid.birthdroid.BirthdroidActivity}" drawable="birthdroid" />
 <item component="ComponentInfo{de.grobox.liberario.debug/de.grobox.liberario.activities.MainActivity}" drawable="transportrdev" />
 <item component="ComponentInfo{pl.nkg.geokrety/pl.nkg.geokrety.activities.MainActivity}" drawable="geokrety" />
-<item component="ComponentInfo{com.wifiafterconnect/com.wifiafterconnect.MainActivity}" drawable="wifiafterconnect" />
 <item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
 <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
 <item component="ComponentInfo{me.danielbarnett.addresstogps/me.danielbarnett.AddressToGPS.MainActivity}" drawable="addresstogps"/>
 <item component="ComponentInfo{com.github.wdkapps.fillup/com.github.wdkapps.fillup.StartupActivity}" drawable="fillup"/>
 <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail"/>
-
+<item component="ComponentInfo{com.unwind.networkmonitor/.Scan}" drawable="networkscanner"/>
 
 </resources>
