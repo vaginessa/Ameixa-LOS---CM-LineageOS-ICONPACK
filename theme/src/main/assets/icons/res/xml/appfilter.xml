@@ -1220,5 +1220,6 @@
 <item component="ComponentInfo{com.github.wdkapps.fillup/com.github.wdkapps.fillup.StartupActivity}" drawable="fillup"/>
 <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail"/>
 <item component="ComponentInfo{com.unwind.networkmonitor/.Scan}" drawable="networkscanner"/>
+<item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.Unpacker}" drawable="scummvm"/>
 
 </resources>
