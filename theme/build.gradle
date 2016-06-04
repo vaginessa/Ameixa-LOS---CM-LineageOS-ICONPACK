@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.4.1"
+    compileSdkVersion 23
+    buildToolsVersion "23.1.0"
 
     defaultConfig {
         applicationId "org.twelf.cmtheme"
         minSdkVersion 21
-        targetSdkVersion 24
+        targetSdkVersion 23
         versionCode 39
         versionName "3.0.0"
     }
