@@ -27,7 +27,7 @@ You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsu
  * If you are looking for an icon template or some howtos, go to the [**WIKI**](https://gitlab.com/xphnx/twelf_cm12_theme/wikis/home)
  * See the [**FAQ**] (https://gitlab.com/xphnx/twelf_cm12_theme/wikis/faq)
 
-## Snapshots
+## Screenshots
 
 <img src="https://gitlab.com/xphnx/twelf_cm12_theme/uploads/97c6faf3cad4619e8079327a5e3d3ac4/Screenshot_2015-05-23-07-53-03.png" 
 alt="with a dark background" width="300" />
