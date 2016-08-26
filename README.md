@@ -1,5 +1,8 @@
 ![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
-
+****
+** The task of keeping the code updated to have all icons up to date and adding new icon applications has become very tedious for me. For this reason, at the moment, this repository and its derivatives (formerly called Onze, Twelf, Ameixa... ) will be #####UNMAINTAINED#####.** 
+If someone was willing to deal with the code updates I could commit to add new designs, otherwise it is impossible for me. As always, feel free to fork the repos.
+****
 # TwelF - CM12/CM12.1/CM13 FLOSS Theme 
 TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
