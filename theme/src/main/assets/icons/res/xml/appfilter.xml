@@ -597,7 +597,7 @@
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery" />
 <item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog" />
 <item component="ComponentInfo{org.kost.nmap.android.networkmapper/org.kost.nmap.android.networkmapper.MainActivity}" drawable="networkmapper" />
-<item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="newpipe" />
+<item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
 <item component="ComponentInfo{com.newsblur/com.newsblur.activity.Login}" drawable="newsblur" />
 <item component="ComponentInfo{com.digitallizard.nicecompass/com.digitallizard.nicecompass.CompassActivity}" drawable="nicecompass" />
 <item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="nlpbackend" />
@@ -1017,6 +1017,7 @@
 <item component="ComponentInfo{de.onyxbits.textfiction/de.onyxbits.textfiction.MainActivity}" drawable="textfiction" />
 <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="textsecure" />
 <item component="ComponentInfo{com.myopicmobile.textwarrior.android/com.myopicmobile.textwarrior.android.TextWarriorApplication}" drawable="textwarrior" />
+<!-- theme chooser1 might not be needed anymore, leaving this be for users with older cm !-->
 <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
 <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
 <item component="ComponentInfo{org.tigase.messenger.phone.pro/org.tigase.mobile.TigaseMobileMessengerActivity}" drawable="tigase" />
@@ -1221,5 +1222,9 @@
 <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail"/>
 <item component="ComponentInfo{com.unwind.networkmonitor/.Scan}" drawable="networkscanner"/>
 <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.Unpacker}" drawable="scummvm"/>
+
+<!-- v3.0.1-->
+<item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="themes" />
+<item component="ComponentInfo{me.jakelane.wrapperforfacebook/me.jakelane.wrapperforfacebook.MainActivity}" drawable="toffeed" />
 
 </resources>
