@@ -831,6 +831,7 @@
 <item component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}" drawable="pwdhash" />
 <item component="ComponentInfo{com.zeapo.pwdstore/.PasswordStore}" drawable="pwdstore" />
 <item component="ComponentInfo{org.pyload.android.client/org.pyload.android.client.pyLoad}" drawable="pyload" />
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Default}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Red}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Teal}" drawable="qksms" />
