@@ -1,5 +1,5 @@
 **v3.0.1**
-Fix icons (courtesy of Roshless): cyanogenmod theme chooser, newpipe
+Fix icons (courtesy of Roshless): cyanogenmod theme chooser, newpipe, diasporadfa
 
 New icons (courtesy of Roshless): toffeed
 
