@@ -175,3 +175,5 @@ Catalin Fertu: mytronome
 Pyload (GPL)/Unknow: pyload
 
 Toffeed (): toffeed
+
+Danial Behzadi (): xposeddownloader
