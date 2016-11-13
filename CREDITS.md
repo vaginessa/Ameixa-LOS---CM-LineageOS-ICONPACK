@@ -176,4 +176,4 @@ Pyload (GPL)/Unknow: pyload
 
 Toffeed (): toffeed
 
-Danial Behzadi (): xposeddownloader
+Danial Behzadi (): xposeddownloader, nostrangersms

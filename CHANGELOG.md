@@ -3,6 +3,8 @@ Fix icons (courtesy of Roshless): cyanogenmod theme chooser, newpipe
 
 New icons (courtesy of Roshless): toffeed
 
+New icons (courtesy of danialbehzadi): xposeddownloader, nostrangersms
+
 **v3.0.0**
 Fix icons (courtesy of topu): satstat
 

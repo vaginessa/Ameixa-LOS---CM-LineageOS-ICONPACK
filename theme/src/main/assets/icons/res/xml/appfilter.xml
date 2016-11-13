@@ -1227,5 +1227,6 @@
 <item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="themes" />
 <item component="ComponentInfo{me.jakelane.wrapperforfacebook/me.jakelane.wrapperforfacebook.MainActivity}" drawable="toffeed" />
 <item component="ComponentInfo{org.xposeddownloader/org.xposeddownloader.MainActivity}" drawable="xposeddownloader"/>
+<item component="ComponentInfo{ru.glesik.nostrangersms/ru.glesik.nostrangersms.JunkSMSList}" drawable="nostrangersms"/>
 
 </resources>
