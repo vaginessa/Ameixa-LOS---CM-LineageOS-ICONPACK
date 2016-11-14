@@ -69,7 +69,7 @@
 <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="ask" />
 <item component="ComponentInfo{net.somethingdreadful.MAL/.Home}" drawable="atarashii" />
 <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
-<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
+<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
@@ -1229,5 +1229,6 @@
 <item component="ComponentInfo{me.jakelane.wrapperforfacebook/me.jakelane.wrapperforfacebook.MainActivity}" drawable="toffeed" />
 <item component="ComponentInfo{org.xposeddownloader/org.xposeddownloader.MainActivity}" drawable="xposeddownloader"/>
 <item component="ComponentInfo{ru.glesik.nostrangersms/ru.glesik.nostrangersms.JunkSMSList}" drawable="nostrangersms"/>
+<item component="ComponentInfo{com.github.yeriomin.smsscheduler/com.github.yeriomin.smsscheduler.Activity.SmsListActivity}" drawable="smsscheduler"/>
 
 </resources>

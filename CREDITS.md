@@ -179,3 +179,5 @@ Toffeed (): toffeed
 Danial Behzadi (): xposeddownloader, nostrangersms
 
 Diaspora (): diasporadfa
+
+SmsScheduler (): smsscheduler
