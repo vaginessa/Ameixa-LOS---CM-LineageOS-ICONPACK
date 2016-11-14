@@ -1,7 +1,7 @@
 **v3.0.1**
 Fix icons (courtesy of Roshless): cyanogenmod theme chooser, newpipe, qksms, cyanogenmod audiofx
 
-New icons (courtesy of Roshless): toffeed, diasporadfa
+New icons (courtesy of Roshless): toffeed, diasporadfa, smsscheduler
 
 New icons (courtesy of danialbehzadi): xposeddownloader, nostrangersms
 
