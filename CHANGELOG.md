@@ -1,3 +1,15 @@
+**v3.0.1**
+Fix icons (courtesy of Roshless): cyanogenmod theme chooser, newpipe, qksms, cyanogenmod audiofx
+
+New icons (courtesy of Roshless): toffeed, diasporadfa, smsscheduler
+
+New icons (courtesy of danialbehzadi): xposeddownloader, nostrangersms
+
+**v3.0.0**
+Fix icons (courtesy of topu): satstat
+
+Fix icons (courtesy of Norbert Tretkowski): leafpic, forcastie
+
 **v2.9.9**
 
 New icons: animeopenings, bodha, gasflow, microchip, multisms, nightscreen, openfood, papuh, prevo, waveup, sudoku, leafpic, locker, tvhguide, autoconnect, diaspora, arevelations, piraten, radiodroid, torchie, microg, webtube, cabinet, calendarcolor, fonbot, getchromium, hrm, heregps, loaned, fotofinder, fotofinder2, finegeotag, micopi, myapplist, privacybrowser, morphclock, shaarlier, loophabits, prevo, rumble, tricorder, pointandhit, apps2org, gravitydefied

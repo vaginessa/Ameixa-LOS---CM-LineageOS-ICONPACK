@@ -69,7 +69,7 @@
 <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="ask" />
 <item component="ComponentInfo{net.somethingdreadful.MAL/.Home}" drawable="atarashii" />
 <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
-<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
+<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
 <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.gecko.BrowserApp}" drawable="aurora" />
@@ -597,7 +597,7 @@
 <item component="ComponentInfo{info.lamatricexiste.network/info.lamatricexiste.network.ActivityMain}" drawable="networkdiscovery" />
 <item component="ComponentInfo{com.googlecode.networklog/com.googlecode.networklog.NetworkLog}" drawable="networklog" />
 <item component="ComponentInfo{org.kost.nmap.android.networkmapper/org.kost.nmap.android.networkmapper.MainActivity}" drawable="networkmapper" />
-<item component="ComponentInfo{org.schabi.newpipe/.VideoItemListActivity}" drawable="newpipe" />
+<item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
 <item component="ComponentInfo{com.newsblur/com.newsblur.activity.Login}" drawable="newsblur" />
 <item component="ComponentInfo{com.digitallizard.nicecompass/com.digitallizard.nicecompass.CompassActivity}" drawable="nicecompass" />
 <item component="ComponentInfo{org.fitchfamily.android.gsmlocation/org.fitchfamily.android.gsmlocation.settings}" drawable="nlpbackend" />
@@ -704,7 +704,7 @@
 <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="pedometer2" />
 <item component="ComponentInfo{com.brewcrewfoo.performance/com.brewcrewfoo.performance.activities.MainActivity}" drawable="performancecontrol" />
 <item component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" drawable="periodical" />
-<item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.MainActivity}" drawable="persiancalendar" />
+<item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="persiancalendar" />
 <item component="ComponentInfo{org.primftpd/org.primftpd.PrimitiveFtpdActivity}" drawable="pftpd" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="contacts" />
@@ -831,6 +831,7 @@
 <item component="ComponentInfo{com.uploadedlobster.PwdHash/com.uploadedlobster.PwdHash.activities.PwdHashApp}" drawable="pwdhash" />
 <item component="ComponentInfo{com.zeapo.pwdstore/.PasswordStore}" drawable="pwdstore" />
 <item component="ComponentInfo{org.pyload.android.client/org.pyload.android.client.pyLoad}" drawable="pyload" />
+<item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Default}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-BlueGrey}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Red}" drawable="qksms" />
 <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Teal}" drawable="qksms" />
@@ -1017,6 +1018,7 @@
 <item component="ComponentInfo{de.onyxbits.textfiction/de.onyxbits.textfiction.MainActivity}" drawable="textfiction" />
 <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.ConversationListActivity}" drawable="textsecure" />
 <item component="ComponentInfo{com.myopicmobile.textwarrior.android/com.myopicmobile.textwarrior.android.TextWarriorApplication}" drawable="textwarrior" />
+<!-- theme chooser1 might not be needed anymore, leaving this be for users with older cm !-->
 <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
 <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
 <item component="ComponentInfo{org.tigase.messenger.phone.pro/org.tigase.mobile.TigaseMobileMessengerActivity}" drawable="tigase" />
@@ -1105,7 +1107,7 @@
 <item component="ComponentInfo{cz.martykan.webtube/.MainActivity}" drawable="webtube" />
 <item component="ComponentInfo{com.ubergeek42.WeechatAndroid.dev/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
 <item component="ComponentInfo{com.ubergeek42.WeechatAndroid/com.ubergeek42.WeechatAndroid.WeechatActivity}" drawable="weechat" />
-<item component="ComponentInfo{de.baumann.weather/.SplashActivity}" drawable="wetter" />
+<item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="wetter" />
 <item component="ComponentInfo{com.javiersantos.whatsappbetaupdater/com.javiersantos.whatsappbetaupdater.activity.MainActivity}" drawable="whatsappbetaupdater" />
 <item component="ComponentInfo{org.wheelmap.android.online/.activity.StartupActivity}" drawable="wheelmap" />
 <item component="ComponentInfo{org.wheelmap.android.online/.StartupActivity}" drawable="wheelmap" />
@@ -1180,7 +1182,7 @@
 <item component="ComponentInfo{net.zygotelabs.locker/net.zygotelabs.locker.MainActivity}" drawable="locker" />
 <item component="ComponentInfo{org.tvheadend.tvhguide/org.tvheadend.tvhguide.ChannelListActivity}" drawable="tvhguide" />
 <item component="ComponentInfo{com.example.tobiastrumm.freifunkautoconnect/com.example.tobiastrumm.freifunkautoconnect.MainActivity}" drawable="autoconnect" />
-<item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diaspora" />
+<item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diasporadfa" />
 <item component="ComponentInfo{com.github.marmalade.aRevelation/com.github.marmalade.aRevelation.MainActivity}" drawable="arevelations" />
 <item component="ComponentInfo{com.boombuler.piraten.map/com.boombuler.piraten.map.PirateMap}" drawable="piraten" />
 <item component="ComponentInfo{net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.MainActivity}" drawable="radiodroid" />
@@ -1221,5 +1223,12 @@
 <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail"/>
 <item component="ComponentInfo{com.unwind.networkmonitor/.Scan}" drawable="networkscanner"/>
 <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.Unpacker}" drawable="scummvm"/>
+
+<!-- v3.0.1-->
+<item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="themes" />
+<item component="ComponentInfo{me.jakelane.wrapperforfacebook/me.jakelane.wrapperforfacebook.MainActivity}" drawable="toffeed" />
+<item component="ComponentInfo{org.xposeddownloader/org.xposeddownloader.MainActivity}" drawable="xposeddownloader"/>
+<item component="ComponentInfo{ru.glesik.nostrangersms/ru.glesik.nostrangersms.JunkSMSList}" drawable="nostrangersms"/>
+<item component="ComponentInfo{com.github.yeriomin.smsscheduler/com.github.yeriomin.smsscheduler.Activity.SmsListActivity}" drawable="smsscheduler"/>
 
 </resources>
