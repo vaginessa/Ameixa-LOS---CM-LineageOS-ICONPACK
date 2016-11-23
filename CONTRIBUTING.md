@@ -1,0 +1,1 @@
+I dont have experience with git repos, but I supose it is a good practice to write changes into a new branch and then merge it into master. At this moment opened branch 3.0.2.
