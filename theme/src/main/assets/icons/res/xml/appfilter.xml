@@ -1231,4 +1231,24 @@
 <item component="ComponentInfo{ru.glesik.nostrangersms/ru.glesik.nostrangersms.JunkSMSList}" drawable="nostrangersms"/>
 <item component="ComponentInfo{com.github.yeriomin.smsscheduler/com.github.yeriomin.smsscheduler.Activity.SmsListActivity}" drawable="smsscheduler"/>
 
+<!-- v3.0.2-->
+<item component="ComponentInfo{io.github.hidroh.materialistic/.Application}" drawable="hn" />
+<item component="ComponentInfo{im.vector/im.vector.activity.LoginActivity}" drawable="riot" />
+<item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.MainActivity}" drawable="anuto" />
+<item component="ComponentInfo{org.glucosio.android/org.glucosio.android.activity.SplashActivity}" drawable="glucosio" />
+<item component="ComponentInfo{net.khertan.forrunners/net.khertan.forrunners.MainActivity}" drawable="runnerup" />
+<item component="ComponentInfo{org.proninyaroslav.libretorrent/lorg.proninyaroslav.ibretorrent.MainActivity}" drawable="libretorrent" />
+<item component="ComponentInfo{me.dbarnett.acastus/me.dbarnett.acastus.MainActivity}" drawable="acastus"/>
+<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
+<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx"/>
+<item component="ComponentInfo{ru.neverdark.silentnight/ru.neverdark.silentnight.MainActivity}" drawable="silentnight"/>
+<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
+<item component="ComponentInfo{org.electrum.electrum/org.kivy.android.PythonActivity}" drawable="electrum"/>
+<item component="ComponentInfo{com.coste.syncorg/com.coste.syncorg.OrgNodeListActivity}" drawable="syncorg"/>
+<item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore"/>
+<item component="ComponentInfo{net.artificialworlds.rabbitescape/rabbitescape.ui.android.AndroidMenuActivity}" drawable="rabbitescape"/>
+<item component="ComponentInfo{org.equeim.tremotesf/org.equeim.tremotesf.mainactivity.MainActivity}" drawable="tremotesf"/>
+<item component="ComponentInfo{org.openintents.shopping/org.openintents.shopping.ShoppingActivity}" drawable="oishoppinglist"/>
+
+
 </resources>
