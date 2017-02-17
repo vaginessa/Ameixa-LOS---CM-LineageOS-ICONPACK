@@ -1,11 +1,11 @@
 ![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
 
-# TwelF - CM12/CM12.1/CM13 FLOSS Theme 
-TwelF is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
+# Ameixa CM - CM12/CM12.1/CM13 FLOSS Theme 
+Ameixa CM is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
 This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1 and CM13 supported). 
  
-For CM11 devices take a look at [Onze CM11 Theme](https://gitlab.com/xphnx/onze_cm11_theme).
+For CM11 devices take a look at [Ameixa Onze](https://gitlab.com/xphnx/onze_cm11_theme).
 
 You can use [Turtl](https://f-droid.org/repository/browse/?fdid=org.xphnx.iconsubmit) for requesting icons. As determining if the icons requested are related to FLOSS apps is a tedious work, currently only [F-droid](https://f-droid.org/) hosted apps are supported.
 
