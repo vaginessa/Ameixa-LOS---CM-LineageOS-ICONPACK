@@ -1,5 +1,6 @@
 **v3.0.2**
 Fix icons: hn, audiofx, satstat, kore
+
 New icons: riot, anuto, glucosio, libretorrent, acastus, silentnight, electrum, syncorg, tremotef, forrunners, rabbitscape, oishoppinglist
 
 **v3.0.1**
