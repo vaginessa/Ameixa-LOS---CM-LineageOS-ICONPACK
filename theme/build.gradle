@@ -8,8 +8,8 @@ android {
         applicationId "org.twelf.cmtheme"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 41
-        versionName "3.0.2"
+        versionCode 42
+        versionName "3.0.3"
     }
     buildTypes {
         release {
