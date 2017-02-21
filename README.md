@@ -1,9 +1,9 @@
 ![CI bagde](https://gitlab.com/xphnx/twelf_cm12_theme/badges/master/build.svg)
 
-# Ameixa CM - CM12/CM12.1/CM13 FLOSS Theme 
-Ameixa CM is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
+# Ameixa LOS - CM-LineageOS 12/12.1/13 FLOSS Theme 
+Ameixa LOS is a Material Design inspired theme aiming to provide a consistent and minimalistic look to your device.
 
-This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1 and CM13 supported). 
+This theme only supports icons for FLOSS apps. Requires a Cyanogenmod Theme Engine compatible ROM (CM12, CM12.1, CM13, LineageOS 12, LineageOS 13...). 
  
 For CM11 devices take a look at [Ameixa Onze](https://gitlab.com/xphnx/onze_cm11_theme).
 
