@@ -1251,5 +1251,11 @@
 <item component="ComponentInfo{org.openintents.shopping/org.openintents.shopping.ShoppingActivity}" drawable="oishoppinglist"/>
 <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud"/>
 
+<!-- v3.0.4 -->
+<item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
+<item component="ComponentInfo{net.sf.ethersynth/net.sf.ethersynth.EtherSynthActivity}" drawable="ethersynth"/>
+<item component="ComponentInfo{sun.bob.leela/sun.bob.leela.ui.activities.SplashActivity}" drawable="puff"/>
+<item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapandturn"/>
+
 
 </resources>
