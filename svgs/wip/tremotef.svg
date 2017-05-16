@@ -15,7 +15,7 @@
    height="28.746668"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="tremotef.svg"
    inkscape:export-filename="C:\Users\rdiazalo\Desktop\Ameix-302\MDPI\tremotef.png"
    inkscape:export-xdpi="160.29684"
@@ -2038,8 +2038,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="18.127493"
-     inkscape:cy="17.750294"
+     inkscape:cx="-9.2001236"
+     inkscape:cy="15.824592"
      inkscape:document-units="pt"
      inkscape:current-layer="g1381"
      showgrid="true"
@@ -2504,11 +2504,6 @@
         <g
            id="g1381"
            transform="matrix(0.03715912,0,0,0.03715912,62.129027,40.658888)">
-          <path
-             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.90305424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-             id="path5197"
-             d="m 21.533162,26.627164 -1.429607,8.339373 h -2.057768 l 5.566802,3.574017 6.216624,-3.574017 h -2.057768 l -1.299642,-8.339373 z"
-             inkscape:connector-curvature="0" />
           <rect
              style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#fbffff;stroke-width:0.9999792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect5224"
@@ -2519,14 +2514,23 @@
              height="6.0609155"
              width="31.113209" />
           <rect
-             style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.15518856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect5226"
-             y="3.6044116"
-             x="20.48369"
-             ry="1.0763192"
+             y="3.8534749"
+             x="20.483961"
+             ry="0.95416945"
              rx="1.0763195"
-             height="25.970053"
+             height="23.022753"
              width="7.0964494" />
+          <rect
+             style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.61632133;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5226-6"
+             y="18.765356"
+             x="9.3395462"
+             ry="0.7036069"
+             rx="4.4596519"
+             height="16.977034"
+             width="29.403631" />
         </g>
       </g>
     </g>
