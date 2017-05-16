@@ -1,3 +1,12 @@
+**v3.0.4**
+
+Fix icons: fdroid, myownnotes
+
+New icons: k9mail-material, ethersynth, puff, tapandturn, feeder, streetcomplete
+
+Revamped icons: rabbitescape, tremotef
+
+
 **v3.0.2**
 
 Fix icons: hn, audiofx, satstat, kore
