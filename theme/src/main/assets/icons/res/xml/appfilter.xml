@@ -1256,6 +1256,10 @@
 <item component="ComponentInfo{net.sf.ethersynth/net.sf.ethersynth.EtherSynthActivity}" drawable="ethersynth"/>
 <item component="ComponentInfo{sun.bob.leela/sun.bob.leela.ui.activities.SplashActivity}" drawable="puff"/>
 <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapandturn"/>
+<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid"/>
+<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder"/>
+<item component="ComponentInfo{org.aykit.MyOwnNotes/org.aykit.MyOwnNotes.activities.NoteListActivity}" drawable="myownnotes"/>
+<item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete"/>
 
 
 </resources>
