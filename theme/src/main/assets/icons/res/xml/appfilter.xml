@@ -1261,5 +1261,15 @@
 <item component="ComponentInfo{org.aykit.MyOwnNotes/org.aykit.MyOwnNotes.activities.NoteListActivity}" drawable="myownnotes"/>
 <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete"/>
 
+<!-- v3.0.5 -->
+<item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather"/>
+<item component="ComponentInfo{io.github.benoitduffez.cupsprint/io.github.benoitduffez.cupsprint.app.ManageManualPrintersActivity}" drawable="cupsprint"/>
+<item component="ComponentInfo{fr.xtof54.mousetodon/fr.xtof54.mousetodon.MouseApp}" drawable="mousetodon"/>
+<item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly"/>
+<item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide"/>
+<item component="ComponentInfo{eu.wikijourney.wikijourney/eu.wikijourney.wikijourney.HomeActivity}" drawable="wikijourney"/>
+<item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}" drawable="simplefilemanager"/>
+<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
 
 </resources>
