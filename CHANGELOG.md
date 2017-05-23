@@ -1,3 +1,10 @@
+**v3.0.5**
+
+Fix icons: ffupdater, forecastie, phone
+
+New icons: goodweather, cupsprint, moustodon, orgzly, slide, wikijourney, simplefilemanager
+
+
 **v3.0.4**
 
 Fix icons: fdroid, myownnotes
