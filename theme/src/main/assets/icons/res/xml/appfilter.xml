@@ -707,7 +707,7 @@
 <item component="ComponentInfo{com.byagowi.persiancalendar/com.byagowi.persiancalendar.view.activity.MainActivity}" drawable="persiancalendar" />
 <item component="ComponentInfo{org.primftpd/org.primftpd.PrimitiveFtpdActivity}" drawable="pftpd" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="contacts" />
-<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="contacts" />
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallDialtactsActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLog}" drawable="contacts" />
@@ -1270,6 +1270,5 @@
 <item component="ComponentInfo{eu.wikijourney.wikijourney/eu.wikijourney.wikijourney.HomeActivity}" drawable="wikijourney"/>
 <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}" drawable="simplefilemanager"/>
 <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
-<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone"/>
 
 </resources>
