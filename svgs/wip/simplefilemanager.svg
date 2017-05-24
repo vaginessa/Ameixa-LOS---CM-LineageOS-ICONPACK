@@ -1920,7 +1920,7 @@
        d="m 4.417683,1028.1747 v 1.6051 H 2.8125 v 18.1922 h 1.605183 v 2.1402 h 18.192073 v -2.1402 H 24.75 v -18.1922 h -2.140244 v -1.6051 z"
        style="display:inline;opacity:0.2;fill:#bf360c;fill-opacity:1;stroke:none;filter:url(#filter6206-7)" />
     <rect
-       style="display:inline;opacity:1;fill:#ffc107;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06666667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ff9800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06666667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4731-1"
        width="22.749332"
        height="22.749332"
@@ -2304,7 +2304,7 @@
          id="flowPara4704"
          style="font-size:4px;line-height:1.25;stroke-width:1.06666672px">your</flowPara></flowRoot>    <path
        id="path3262"
-       d="M 12.945617,8.6622224 H 8.6622819 c -0.788847,0 -1.420639,0.63893 -1.420639,1.4277756 l -0.0072,8.566667 c 0,0.78885 0.63893,1.42778 1.427777,1.42778 H 20.084447 c 0.788847,0 1.427778,-0.63893 1.427778,-1.42778 v -7.13889 c 0,-0.788847 -0.638931,-1.427777 -1.427778,-1.427777 H 14.373385 L 12.945608,8.6622224 Z"
+       d="M 12.945617,8.6622224 H 8.662282 c -0.788847,0 -1.420639,0.63893 -1.420639,1.4277756 l -0.0072,8.566667 c 0,0.78885 0.63893,1.42778 1.427777,1.42778 h 11.422227 c 0.788847,0 1.427778,-0.63893 1.427778,-1.42778 v -7.13889 c 0,-0.788847 -0.638931,-1.427777 -1.427778,-1.427777 H 14.373385 L 12.945608,8.6622224 Z"
        inkscape:connector-curvature="0"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.06666672" />
   </g>
